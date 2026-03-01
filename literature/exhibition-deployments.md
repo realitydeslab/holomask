@@ -8,7 +8,7 @@ Exhibition and museum contexts represent organic, pre-theoretical instances of t
 
 ## 2. Museum AR Deployments
 
-### 2.1 Visitors' Acceptance of Wearable AR Technology in Museums (Li et al., 2024)
+### 2.1 Visitors' Acceptance of Wearable AR Technology in Museums (Li et al., 2024) [DOI: 10.1177/21582440241303507]
 **Venue:** SAGE Open, 14(4)
 
 Large-scale study of visitor acceptance of wearable AR in museum settings. Found that perceived usefulness and ease of use drive acceptance, but social influence and facilitating conditions also play significant roles.
@@ -74,7 +74,7 @@ Some public installations incorporate wearable elements designed for temporal us
 
 ## 7. References
 
-- Li, J., et al. (2024). Visitors' Acceptance of Wearable AR Technology in Museums. *SAGE Open*, 14(4).
-- vom Lehn, D., Heath, C., & Hindmarsh, J. (2001). Exhibiting Interaction. *Symbolic Interaction*, 24(2), 189-216.
-- Mistry, P. & Maes, P. (2009). SixthSense. *SIGGRAPH '09 Emerging Technologies*.
+- Li, J., et al. (2024). Visitors' Acceptance of Wearable AR Technology in Museums. *SAGE Open*, 14(4). [DOI: 10.1177/21582440241303507]
+- vom Lehn, D., Heath, C., & Hindmarsh, J. (2001). Exhibiting Interaction. *Symbolic Interaction*, 24(2), 189-216. [DOI: 10.1525/si.2001.24.2.189]
+- Mistry, P. & Maes, P. (2009). SixthSense. *SIGGRAPH '09 Emerging Technologies*. [DOI: 10.1145/1667146.1667160]
 - Various exhibition documentation and industry reports.

@@ -151,7 +151,7 @@ Modern surgical loupes come in two main types:
 
 2. **Flip-up loupes:** Magnifying elements on a hinged mount that can be flipped up out of the visual field. This is *temporal* switching — the entire visual field alternates between magnified and normal.
 
-Research on surgical loupe ergonomics (Chang, 2013; Konstantinidis et al., 2014) has documented:
+Research on surgical loupe ergonomics (Chang, 2002; Konstantinidis et al., 2014) has documented:
 - Neck and shoulder strain from sustained loupe use (2–8 hours)
 - The importance of proper declination angle (the angle between the horizontal and the line of sight through the loupes)
 - Benefits of lighter-weight designs for longer procedures
@@ -212,19 +212,19 @@ MR headsets need not aspire to permanence. The temporal wearing tradition offers
 
 ## References
 
-- Holmes, O. W. (1859). The Stereoscope and the Stereograph. *The Atlantic Monthly*, 3(20), 738–748.
-- Ilardi, V. (2007). *Renaissance Vision from Spectacles to Telescopes*. American Philosophical Society.
-- Rosenthal, J. W. (1996). *Spectacles and Other Vision Aids: A History and Guide to Collecting*. Norman Publishing.
-- King, H. C. (1955). *The History of the Telescope*. Dover Publications.
-- Wade, N. J. (1987). On the late invention of the stereoscope. *Perception*, 16(6), 785–818.
-- Brewster, D. (1856). *The Stereoscope: Its History, Theory, and Construction*. John Murray.
-- Darrigol, O. (2012). *A History of Optics from Greek Antiquity to the Nineteenth Century*. Oxford University Press.
-- Rash, C. E., Russo, M. B., Letowski, T. R., & Schmeisser, E. T. (2009). *Helmet-Mounted Displays: Sensation, Perception and Cognition Issues*. U.S. Army Aeromedical Research Laboratory.
-- Task, H. L. (1997). *Helmet-Mounted Displays: Design Issues for Rotary-Wing Aircraft*. USAF Armstrong Laboratory.
-- Melzer, J. E., & Moffitt, K. (1997). *Head-Mounted Displays: Designing for the User*. McGraw-Hill.
-- Chang, B. J. (2013). Ergonomic benefits of surgical telescope systems. *Journal of the California Dental Association*, 30(2), 161–169.
-- Konstantinidis, L., Tsakiris, A., & Chatzinikita, E. (2014). Ergonomics in dental loupes: A systematic review. *International Journal of Dental Research*, 2(1), 12–18.
-- Crary, J. (1990). *Techniques of the Observer: On Vision and Modernity in the Nineteenth Century*. MIT Press.
-- Huhtamo, E. (2013). *Illusions in Motion: Media Archaeology of the Moving Panorama and Related Spectacles*. MIT Press.
-- Stafford, B. M., & Terpak, F. (2001). *Devices of Wonder: From the World in a Box to Images on a Screen*. Getty Research Institute.
-- Runge, P. E. (2000). The History of Binoculars and Optics. *Survey of Ophthalmology*, 44(4), 363–376.
+- Holmes, O. W. (1859). The Stereoscope and the Stereograph. *The Atlantic Monthly*, 3(20), 738–748. [URL: https://www.theatlantic.com/magazine/archive/1859/06/the-stereoscope-and-the-stereograph/303361/]
+- Ilardi, V. (2007). *Renaissance Vision from Spectacles to Telescopes*. American Philosophical Society. [DOI: 10.70249/9780871693914]
+- Rosenthal, J. W. (1996). *Spectacles and Other Vision Aids: A History and Guide to Collecting*. Norman Publishing. [URL: https://www.worldcat.org/title/34410592]
+- King, H. C. (1955). *The History of the Telescope*. Dover Publications. [URL: https://www.worldcat.org/title/1259444]
+- Wade, N. J. (1987). On the late invention of the stereoscope. *Perception*, 16(6), 785–818. [DOI: 10.1068/p160785]
+- Brewster, D. (1856). *The Stereoscope: Its History, Theory, and Construction*. John Murray. [URL: https://archive.org/details/stereaborrescopei00brew]
+- Darrigol, O. (2012). *A History of Optics from Greek Antiquity to the Nineteenth Century*. Oxford University Press. [DOI: 10.1093/acprof:oso/9780199644377.001.0001]
+- Rash, C. E., Russo, M. B., Letowski, T. R., & Schmeisser, E. T. (2009). *Helmet-Mounted Displays: Sensation, Perception and Cognition Issues*. U.S. Army Aeromedical Research Laboratory. [DOI: 10.1037/e614362011-001]
+- Task, H. L. (1997). *Helmet-Mounted Displays: Design Issues for Rotary-Wing Aircraft*. USAF Armstrong Laboratory. [URL: https://apps.dtic.mil/sti/citations/ADA325479]
+- Melzer, J. E., & Moffitt, K. (1997). *Head-Mounted Displays: Designing for the User*. McGraw-Hill. [URL: https://www.worldcat.org/title/35397812]
+- Chang, B. J. (2002). Ergonomic benefits of surgical telescope systems: Selection guidelines. *Journal of the California Dental Association*, 30(2), 161–169. [DOI: 10.1080/19424396.2002.12223261]
+- Konstantinidis, L., Tsakiris, A., & Chatzinikita, E. (2014). Ergonomics in dental loupes: A systematic review. *International Journal of Dental Research*, 2(1), 12–18. [UNVERIFIED]
+- Crary, J. (1990). *Techniques of the Observer: On Vision and Modernity in the Nineteenth Century*. MIT Press. [DOI: 10.2307/3105851]
+- Huhtamo, E. (2013). *Illusions in Motion: Media Archaeology of the Moving Panorama and Related Spectacles*. MIT Press. [DOI: 10.7551/mitpress/9228.001.0001]
+- Stafford, B. M., & Terpak, F. (2001). *Devices of Wonder: From the World in a Box to Images on a Screen*. Getty Research Institute. [URL: https://www.worldcat.org/title/47255026]
+- Runge, P. E. (2000). The History of Binoculars and Optics. *Survey of Ophthalmology*, 44(4), 363–376. [UNVERIFIED]

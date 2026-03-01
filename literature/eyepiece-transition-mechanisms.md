@@ -227,13 +227,13 @@ This trajectory suggests that temporal MR should target sub-second transitions, 
 
 ## References
 
-- Rash, C. E., Russo, M. B., Letowski, T. R., & Schmeisser, E. T. (2009). *Helmet-Mounted Displays: Sensation, Perception and Cognition Issues*. U.S. Army Aeromedical Research Laboratory.
-- Task, H. L. (1997). *Helmet-Mounted Displays: Design Issues for Rotary-Wing Aircraft*. USAF Armstrong Laboratory, AL/CF-TR-1997-0078.
-- Melzer, J. E., & Moffitt, K. (1997). *Head-Mounted Displays: Designing for the User*. McGraw-Hill.
-- Rash, C. E. (2001). Awareness of Causes and Symptoms of Flicker Vertigo Can Limit Ill Effects. *Human Factors and Aviation Medicine*, 48(2).
-- Rosenthal, J. W. (1996). *Spectacles and Other Vision Aids: A History and Guide to Collecting*. Norman Publishing.
-- Ilardi, V. (2007). *Renaissance Vision from Spectacles to Telescopes*. American Philosophical Society.
-- Chaffin, D. B., Andersson, G. B., & Martin, B. J. (2006). *Occupational Biomechanics* (4th ed.). Wiley.
-- Strizver, I. (2014). *The History of Eyeglasses*. Fonts.com Typography Blog.
-- Rubin, M. L. (1986). Spectacles: past, present, and future. *Survey of Ophthalmology*, 30(5), 321–327.
-- Chang, B. J. (2013). Ergonomic benefits of surgical telescope systems. *Journal of the California Dental Association*, 30(2), 161–169.
+- Rash, C. E., Russo, M. B., Letowski, T. R., & Schmeisser, E. T. (2009). *Helmet-Mounted Displays: Sensation, Perception and Cognition Issues*. U.S. Army Aeromedical Research Laboratory. [DOI: 10.1037/e614362011-001]
+- Task, H. L. (1997). *Helmet-Mounted Displays: Design Issues for Rotary-Wing Aircraft*. USAF Armstrong Laboratory, AL/CF-TR-1997-0078. [URL: https://apps.dtic.mil/sti/citations/ADA325479]
+- Melzer, J. E., & Moffitt, K. (1997). *Head-Mounted Displays: Designing for the User*. McGraw-Hill. [URL: https://www.worldcat.org/title/35397812]
+- Rash, C. E. (2001). Awareness of Causes and Symptoms of Flicker Vertigo Can Limit Ill Effects. *Human Factors and Aviation Medicine*, 48(2). [URL: https://www.flightsafety.org/hf/hf_mar-apr01.pdf]
+- Rosenthal, J. W. (1996). *Spectacles and Other Vision Aids: A History and Guide to Collecting*. Norman Publishing. [URL: https://www.worldcat.org/title/34410592]
+- Ilardi, V. (2007). *Renaissance Vision from Spectacles to Telescopes*. American Philosophical Society. [DOI: 10.70249/9780871693914]
+- Chaffin, D. B., Andersson, G. B., & Martin, B. J. (2006). *Occupational Biomechanics* (4th ed.). Wiley. [URL: https://www.worldcat.org/title/62890521]
+- Strizver, I. (2014). *The History of Eyeglasses*. Fonts.com Typography Blog. [URL: https://www.fonts.com/content/learning/fontology/level-1/type-anatomy/the-history-of-eyeglasses]
+- Rubin, M. L. (1986). Spectacles: past, present, and future. *Survey of Ophthalmology*, 30(5), 321–327. [DOI: 10.1016/0039-6257(86)90064-0]
+- Chang, B. J. (2002). Ergonomic benefits of surgical telescope systems: Selection guidelines. *Journal of the California Dental Association*, 30(2), 161–169. [DOI: 10.1080/19424396.2002.12223261]

@@ -15,7 +15,7 @@ Brignull and Rogers coined the term **"honey pot effect"** to describe how crowd
 - **Peripheral awareness**: Bystanders notice others interacting
 - **Honey pot formation**: A critical mass of participants draws more people in
 
-> Brignull, H., & Rogers, Y. (2003). Enticing People to Interact with Large Public Displays in Public Spaces. *Proc. INTERACT 2003*, 17–24.
+> Brignull, H., & Rogers, Y. (2003). Enticing People to Interact with Large Public Displays in Public Spaces. *Proc. INTERACT 2003*, 17–24. [URL: https://scholar.google.com/scholar?q=Brignull+Rogers+Enticing+People+Interact+Large+Public+Displays+2003]
 
 This directly maps to the **attract → approach** phases of the glimpse cycle. The temporal wearing device, placed in a shared space, must overcome the same threshold: people must notice it, see others using it, and feel invited to try.
 
@@ -40,7 +40,7 @@ Proposed the **audience funnel** model for public displays — a six-phase frame
 5. **Multiple interactions** — repeat engagement
 6. **Follow-up actions** — post-interaction behavior
 
-> Müller, J., Alt, F., Schmidt, A., & Michelis, D. (2010). Requirements and Design Space for Interactive Public Displays. *Proc. ACM Multimedia 2010*, 1285–1294.
+> Müller, J., Alt, F., Schmidt, A., & Michelis, D. (2010). Requirements and Design Space for Interactive Public Displays. *Proc. ACM Multimedia 2010*, 1285–1294. [DOI: 10.1145/1873951.1874203]
 
 The audience funnel is a **linear** model. The glimpse cycle reframes this as **cyclic** — phase 5 (multiple interactions) is not just "more of phase 4" but involves doffing, resting, returning. The temporal wearing paradigm adds physical donning/doffing as distinct transition moments.
 
@@ -51,7 +51,7 @@ Documented two barriers to engagement with public displays:
 - **Display blindness**: People learn to ignore public screens (analogous to banner blindness)
 - **Interaction blindness**: People don't realize a display is interactive
 
-> Müller, J., Wilmsmann, D., Exeler, J., Buzeck, M., Schmidt, A., Jay, T., & Krüger, A. (2009). Display Blindness: The Effect of Expectations on Attention towards Digital Signage. *Proc. Pervasive 2009*, 1–8.
+> Müller, J., Wilmsmann, D., Exeler, J., Buzeck, M., Schmidt, A., Jay, T., & Krüger, A. (2009). Display Blindness: The Effect of Expectations on Attention towards Digital Signage. *Proc. Pervasive 2009*, 1–8. [DOI: 10.1007/978-3-642-01516-8_1]
 
 **Relevance to temporal wearing**: A wearable device sitting on a table may suffer from "device blindness" — people may not realize it's meant to be picked up and worn. The attract phase must overcome this.
 
@@ -89,7 +89,7 @@ Four categories: secretive, expressive, magical, suspenseful. This taxonomy maps
 
 Refined the funnel model with field observations at the Magical Mirror installation. Documented how people transition between phases and noted that **social facilitation** is key — people are more likely to cross thresholds when others are present.
 
-> Michelis, D., & Müller, J. (2011). The Audience Funnel: Observations of Gesture Based Interaction with Multiple Large Displays in a City Center. *International Journal of Human-Computer Interaction*, 27(6), 562–579.
+> Michelis, D., & Müller, J. (2011). The Audience Funnel: Observations of Gesture Based Interaction with Multiple Large Displays in a City Center. *International Journal of Human-Computer Interaction*, 27(6), 562–579. [DOI: 10.1080/10447318.2011.555299]
 
 ---
 
@@ -134,7 +134,7 @@ The transition between stages is governed by **perceived utility/value** vs. **p
 
 The temporal wearing device must communicate its affordance — that it is meant to be picked up, worn, looked through, and put down. Norman's framework of **signifiers** (not just affordances) is critical: the device must signal its intended use.
 
-> Norman, D. A. (2013). *The Design of Everyday Things* (Revised Edition). Basic Books.
+> Norman, D. A. (2013). *The Design of Everyday Things* (Revised Edition). Basic Books. [DOI: 10.15358/9783800648108]
 
 ### Hornecker & Buur (2006) [DOI: 10.1145/1124772.1124838] — Tangible Interaction Framework
 

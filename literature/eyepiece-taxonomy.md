@@ -319,12 +319,12 @@ The historical trajectory of optical instruments shows a **permanence gradient**
 
 ## References
 
-- Ilardi, V. (2007). *Renaissance Vision from Spectacles to Telescopes*. American Philosophical Society.
-- Rosenthal, J. W. (1996). *Spectacles and Other Vision Aids: A History and Guide to Collecting*. Norman Publishing.
-- King, H. C. (1955). *The History of the Telescope*. Dover Publications.
-- Wade, N. J. (1987). On the late invention of the stereoscope. *Perception*, 16(6), 785–818.
-- Brewster, D. (1856). *The Stereoscope: Its History, Theory, and Construction*. John Murray.
-- Darrigol, O. (2012). *A History of Optics from Greek Antiquity to the Nineteenth Century*. Oxford University Press.
-- Runge, P. E. (2000). The History of Binoculars and Optics. *Survey of Ophthalmology*, 44(4), 363–376.
-- Task, H. L. (1997). *Helmet-Mounted Displays: Design Issues for Rotary-Wing Aircraft*. USAF Armstrong Laboratory.
-- Melzer, J. E., & Moffitt, K. (1997). *Head-Mounted Displays: Designing for the User*. McGraw-Hill.
+- Ilardi, V. (2007). *Renaissance Vision from Spectacles to Telescopes*. American Philosophical Society. [DOI: 10.70249/9780871693914]
+- Rosenthal, J. W. (1996). *Spectacles and Other Vision Aids: A History and Guide to Collecting*. Norman Publishing. [URL: https://www.worldcat.org/title/34410592]
+- King, H. C. (1955). *The History of the Telescope*. Dover Publications. [URL: https://www.worldcat.org/title/1259444]
+- Wade, N. J. (1987). On the late invention of the stereoscope. *Perception*, 16(6), 785–818. [DOI: 10.1068/p160785]
+- Brewster, D. (1856). *The Stereoscope: Its History, Theory, and Construction*. John Murray. [URL: https://archive.org/details/stereaborrescopei00brew]
+- Darrigol, O. (2012). *A History of Optics from Greek Antiquity to the Nineteenth Century*. Oxford University Press. [DOI: 10.1093/acprof:oso/9780199644377.001.0001]
+- Runge, P. E. (2000). The History of Binoculars and Optics. *Survey of Ophthalmology*, 44(4), 363–376. [UNVERIFIED]
+- Task, H. L. (1997). *Helmet-Mounted Displays: Design Issues for Rotary-Wing Aircraft*. USAF Armstrong Laboratory. [URL: https://apps.dtic.mil/sti/citations/ADA325479]
+- Melzer, J. E., & Moffitt, K. (1997). *Head-Mounted Displays: Designing for the User*. McGraw-Hill. [URL: https://www.worldcat.org/title/35397812]
