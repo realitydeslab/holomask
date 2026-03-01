@@ -38,10 +38,10 @@ The wearable computing field has implicitly operated with a binary: devices are 
 
 Temporal wearing is fundamentally about *transition* — the liminal moment between not-wearing and wearing, between unaugmented and augmented perception. Several research threads inform this:
 
-- **Glanceable AR** (Lu et al., 2020, 2021) — Explores rapid activation of AR information in head-worn displays. "Glanceable" implies seconds-long attention, but assumes permanently worn hardware. Temporal wearing extends this: the *device itself* is glanceable.
-- **Micro-interactions** (Ashbrook, 2010) — Interactions of 4 seconds or less with mobile/wearable devices. Directly relevant timeframe, but focused on input gestures on permanently worn devices, not on donning/doffing as interaction.
-- **Cross-device transitions** (Hubenschmid et al., 2025) — "Hybrid User Interfaces" survey covers cross-device interaction in MR but focuses on simultaneous multi-device use, not transitional wearing.
-- **Transitional interfaces** (Dhaka et al., 2024) — AR UI transitions at ISMAR; closest technical analog but addresses software transitions within a worn device, not the physical transition of wearing.
+- **Glanceable AR** (Lu et al., 2020 [DOI: 10.1109/vr46266.2020.00113], 2021 [DOI: 10.1145/3485279.3485286]) — Explores rapid activation of AR information in head-worn displays. "Glanceable" implies seconds-long attention, but assumes permanently worn hardware. Temporal wearing extends this: the *device itself* is glanceable.
+- **Micro-interactions** (Ashbrook, 2010 [URL: https://smartech.gatech.edu/handle/1853/36311]) — Interactions of 4 seconds or less with mobile/wearable devices. Directly relevant timeframe, but focused on input gestures on permanently worn devices, not on donning/doffing as interaction.
+- **Cross-device transitions** (Hubenschmid et al., 2025 [DOI: 10.48550/arXiv.2509.05491]) — "Hybrid User Interfaces" survey covers cross-device interaction in MR but focuses on simultaneous multi-device use, not transitional wearing.
+- **Transitional interfaces** (Dhaka et al., 2024 [DOI: 10.1109/ismar62088.2024.00134]) — AR UI transitions at ISMAR; closest technical analog but addresses software transitions within a worn device, not the physical transition of wearing.
 
 **Key insight:** Existing work on transitions focuses on *software state transitions within worn devices*. Temporal wearing reframes the *physical act of wearing* as the transition itself.
 
@@ -100,10 +100,10 @@ Real-world instances of temporal wearing already exist in exhibition and museum 
 
 ## 8. Related HCI Concepts
 
-- **Micro-mobility** (Luff & Heath, 1998) — Small-scale repositioning of artifacts. Temporal wearing extends this to body-device transitions.
-- **Situated action** (Suchman, 1987/2007) — Temporal wearing is inherently situated: wearing responds to contextual triggers.
-- **Appropriation** (Dourish, 2003; Dix, 2007) — Low-commitment temporal wearing may facilitate appropriation.
-- **Candid Interaction** (Ens et al., 2015) — Visibility/hiddenness of wearable computing activities.
+- **Micro-mobility** (Luff & Heath, 1998 [DOI: 10.1145/289444.289505]) — Small-scale repositioning of artifacts. Temporal wearing extends this to body-device transitions.
+- **Situated action** (Suchman, 1987/2007 [DOI: 10.1017/cbo9780511808418]) — Temporal wearing is inherently situated: wearing responds to contextual triggers.
+- **Appropriation** (Dourish, 2003 [DOI: 10.1023/A:1026149119426]; Dix, 2007 [DOI: 10.14236/ewic/hci2007.53]) — Low-commitment temporal wearing may facilitate appropriation.
+- **Candid Interaction** (Ens et al., 2015 [DOI: 10.1145/2807442.2807449]) — Visibility/hiddenness of wearable computing activities.
 
 ---
 
@@ -123,47 +123,47 @@ Real-world instances of temporal wearing already exist in exhibition and museum 
 ## 10. References (Consolidated)
 
 ### Wearability & Body Placement
-- Gemperle, F., Kasabach, C., Stivoric, J., Bauer, M., & Martin, R. (1998). Design for Wearability. *ISWC '98*.
-- Zeagler, C. (2017). Where to Wear It. *ISWC '17*.
-- Park, H., Pei, J., Shi, M., Xu, Q., & Fan, J. (2019). Designing wearable computing devices for improved comfort and user acceptance. *Ergonomics*, 62(11), 1474-1484.
-- Knight, J. F., Baber, C., Schwirtz, A., & Bristow, H. W. (2006). The comfort assessment of wearable computers. *ISWC '06*.
+- Gemperle, F., Kasabach, C., Stivoric, J., Bauer, M., & Martin, R. (1998). Design for Wearability. *ISWC '98*. [DOI: 10.1109/ISWC.1998.729537]
+- Zeagler, C. (2017). Where to Wear It. *ISWC '17*. [DOI: 10.1145/3123021.3123042]
+- Park, H., Pei, J., Shi, M., Xu, Q., & Fan, J. (2019). Designing wearable computing devices for improved comfort and user acceptance. *Ergonomics*, 62(11), 1474-1484. [DOI: 10.1080/00140139.2019.1652351]
+- Knight, J. F., Baber, C., Schwirtz, A., & Bristow, H. W. (2006). The comfort assessment of wearable computers. *ISWC '06*. [DOI: 10.1109/ISWC.2002.1167220]
 
 ### Social Acceptability
-- Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social Acceptability in HCI. *CHI '20*.
-- Koelle, M., El Ali, A., Cobus, V., Heuten, W., & Boll, S. (2017). All about Acceptability? *ISWC '17*.
-- Koelle, M., Wallbaum, T., Heuten, W., & Boll, S. C. (2019). Evaluating a Wearable Camera's Social Acceptability In-the-Wild. *CHI EA '19*.
-- Profita, H., et al. (2013). Don't Mind Me Touching My Wrist. *ISWC '13*.
-- Profita, H., et al. (2016). The AT Effect. *CHI '16*.
-- Goodman, S., et al. (2019). Social Tensions with Head-Mounted Displays for Accessibility.
-- Kelly, N. & Gilbert, S. B. (2018). The Wearer, the Device, and Its Use. *HFES*.
+- Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social Acceptability in HCI. *CHI '20*. [DOI: 10.1145/3313831.3376162]
+- Koelle, M., El Ali, A., Cobus, V., Heuten, W., & Boll, S. (2017). All about Acceptability? *ISWC '17*. [DOI: 10.1145/2785830.2785842]
+- Koelle, M., Wallbaum, T., Heuten, W., & Boll, S. C. (2019). Evaluating a Wearable Camera's Social Acceptability In-the-Wild. *CHI EA '19*. [DOI: 10.1145/3290607.3312837]
+- Profita, H., et al. (2013). Don't Mind Me Touching My Wrist. *ISWC '13*. [DOI: 10.1145/2493988.2494331]
+- Profita, H., et al. (2016). The AT Effect. *CHI '16*. [DOI: 10.1145/2904092.2904101]
+- Goodman, S., et al. (2019). Social Tensions with Head-Mounted Displays for Accessibility. [UNVERIFIED]
+- Kelly, N. & Gilbert, S. B. (2018). The Wearer, the Device, and Its Use. *HFES*. [DOI: 10.1177/1541931218621237]
 
 ### Glanceable & Micro-Interactions
-- Lu, F., et al. (2020). Glanceable AR. *Virginia Tech*.
-- Lu, F., et al. (2021). Rapid Activation of Glanceable Information in AR. *SUI '21*.
-- Ashbrook, D. (2010). Enabling Mobile Micro-interactions. *PhD Thesis, Georgia Tech*.
+- Lu, F., et al. (2020). Glanceable AR: Evaluating Information Access Methods for Head-Worn AR. *IEEE VR '20*. [DOI: 10.1109/vr46266.2020.00113]
+- Lu, F., et al. (2021). Exploration of Techniques for Rapid Activation of Glanceable Information in Head-Worn AR. *SUI '21*. [DOI: 10.1145/3485279.3485286]
+- Ashbrook, D. (2010). Enabling Mobile Micro-interactions. *PhD Thesis, Georgia Tech*. [URL: https://smartech.gatech.edu/handle/1853/36311]
 
 ### Transitions & Cross-Device
-- Dhaka, R., et al. (2024). AR UI Transitions. *ISMAR '24*.
-- Hubenschmid, S., et al. (2025). Hybrid User Interfaces. *arXiv:2509.05491*.
-- Khurana, R., et al. (2019). Detachable Smartwatch. *IMWUT*.
+- Dhaka, R., et al. (2024). Exploring Augmented Reality User Interface Transitions Across Mid-Air, On-Body and Physical Surfaces. *ISMAR '24*. [DOI: 10.1109/ismar62088.2024.00134]
+- Hubenschmid, S., et al. (2025). Hybrid User Interfaces. *arXiv:2509.05491*. [DOI: 10.48550/arXiv.2509.05491]
+- Khurana, R., et al. (2019). Detachable Smartwatch. *IMWUT*. [DOI: 10.1145/3328913]
 
 ### Calm Technology & Peripheral Interaction
-- Weiser, M. & Brown, J. S. (1996). The Coming Age of Calm Technology. *Xerox PARC*.
-- Bakker, S., van den Hoven, E., & Eggen, B. (2015). Peripheral Interaction. *PUC*, 19(1), 239-254.
-- Bakker, S., Hausen, D., & Selker, T. (2016). *Peripheral Interaction*. Springer.
+- Weiser, M. & Brown, J. S. (1996). The Coming Age of Calm Technology. *Xerox PARC*. [DOI: 10.1007/978-1-4612-0685-9_6]
+- Bakker, S., van den Hoven, E., & Eggen, B. (2015). Peripheral Interaction. *PUC*, 19(1), 239-254. [DOI: 10.1007/s00779-014-0775-2]
+- Bakker, S., Hausen, D., & Selker, T. (2016). *Peripheral Interaction*. Springer. [DOI: 10.1007/978-3-319-29523-7]
 
 ### Situated Action, Micro-mobility, Appropriation
-- Suchman, L. (1987/2007). *Human-Machine Reconfigurations*. Cambridge University Press.
-- Luff, P. & Heath, C. (1998). Mobility in Collaboration. *CSCW '98*.
-- Heath, C., Knoblauch, H., & Luff, P. (2000). Technology and social interaction. *BJS*, 51(2).
-- Ens, B., et al. (2015). Candid Interaction. *UIST '15*.
-- Dourish, P. (2003). The Appropriation of Interactive Technologies. *CSCW*, 12(4).
+- Suchman, L. (1987/2007). *Human-Machine Reconfigurations*. Cambridge University Press. [DOI: 10.1017/cbo9780511808418]
+- Luff, P. & Heath, C. (1998). Mobility in Collaboration. *CSCW '98*. [DOI: 10.1145/289444.289505]
+- Heath, C., Knoblauch, H., & Luff, P. (2000). Technology and social interaction. *BJS*, 51(2). [DOI: 10.1080/00071310050030190]
+- Ens, B., et al. (2015). Candid Interaction. *UIST '15*. [DOI: 10.1145/2807442.2807449]
+- Dourish, P. (2003). The Appropriation of Interactive Technologies. *CSCW*, 12(4). [DOI: 10.1023/A:1026149119426]
 
 ### Museum & Exhibition
-- vom Lehn, D., Heath, C., & Hindmarsh, J. (2001). Exhibiting Interaction. *Symbolic Interaction*, 24(2).
-- Li, J., et al. (2024). Visitors' Acceptance of Wearable AR Technology in Museums. *SAGE Open*, 14(4).
-- Mistry, P. & Maes, P. (2009). SixthSense. *SIGGRAPH '09*.
+- vom Lehn, D., Heath, C., & Hindmarsh, J. (2001). Exhibiting Interaction. *Symbolic Interaction*, 24(2). [DOI: 10.1525/si.2001.24.2.189]
+- Li, J., et al. (2024). Visitors' Acceptance of Wearable AR Technology in Museums. *SAGE Open*, 14(4). [DOI: 10.1177/21582440241303507]
+- Mistry, P. & Maes, P. (2009). SixthSense. *SIGGRAPH Asia '09*. [DOI: 10.1145/1667146.1667160]
 
 ### General Wearable Computing
-- Starner, T. (2001). The Challenges of Wearable Computing. *IEEE Micro*, 21(4).
-- Oliver, H. (2021). Obstacles to Wearable Computing. *Cambridge TR UCAM-CL-TR-966*.
+- Starner, T. (2001). The Challenges of Wearable Computing. *IEEE Micro*, 21(4). [DOI: 10.1109/40.946681]
+- Oliver, H. (2021). Obstacles to Wearable Computing. *Cambridge TR UCAM-CL-TR-966*. [URL: https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-966.html]

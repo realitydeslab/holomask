@@ -53,7 +53,7 @@ How disability context affects perceived social acceptability of HMD use. When H
 
 **Implication:** Social acceptability is modulated by *perceived purpose*. Temporal wearing in exhibition/museum contexts benefits from clear purpose: "looking at the exhibit through a device" is immediately legible.
 
-### 2.5 Goodman et al. (2019) — Social Tensions with HMDs for Accessibility
+### 2.5 Goodman et al. (2019) — Social Tensions with HMDs for Accessibility [UNVERIFIED]
 Documents social barriers to HMD adoption even when functionally beneficial. Highlights the tension between utility and social cost.
 
 **Implication:** Temporal wearing reduces social cost by minimizing exposure time. A 5-second peek through a viewer creates far less social tension than wearing an HMD for an hour.
@@ -94,10 +94,10 @@ Exhibition and museum contexts are particularly favorable for temporal wearing b
 
 ## 5. References
 
-- Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social Acceptability in HCI. *CHI '20*.
-- Koelle, M., El Ali, A., Cobus, V., Heuten, W., & Boll, S. (2017). All about Acceptability? *ISWC '17*.
-- Koelle, M., Wallbaum, T., Heuten, W., & Boll, S. C. (2019). Evaluating a Wearable Camera's Social Acceptability In-the-Wild. *CHI EA '19*.
-- Profita, H., et al. (2013). Don't Mind Me Touching My Wrist. *ISWC '13*.
-- Profita, H., et al. (2016). The AT Effect. *CHI '16*.
-- Goodman, S., et al. (2019). Social Tensions with HMDs for Accessibility.
-- Kelly, N. & Gilbert, S. B. (2018). The Wearer, the Device, and Its Use. *HFES*.
+- Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social Acceptability in HCI. *CHI '20*. [DOI: 10.1145/3313831.3376162]
+- Koelle, M., El Ali, A., Cobus, V., Heuten, W., & Boll, S. (2017). All about Acceptability? *ISWC '17*. [DOI: 10.1145/2785830.2785842]
+- Koelle, M., Wallbaum, T., Heuten, W., & Boll, S. C. (2019). Evaluating a Wearable Camera's Social Acceptability In-the-Wild. *CHI EA '19*. [DOI: 10.1145/3290607.3312837]
+- Profita, H., et al. (2013). Don't Mind Me Touching My Wrist. *ISWC '13*. [DOI: 10.1145/2493988.2494331]
+- Profita, H., et al. (2016). The AT Effect. *CHI '16*. [DOI: 10.1145/2904092.2904101]
+- Goodman, S., et al. (2019). Social Tensions with Head-Mounted Displays for Accessibility. [UNVERIFIED]
+- Kelly, N. & Gilbert, S. B. (2018). The Wearer, the Device, and Its Use. *HFES*. [DOI: 10.1177/1541931218621237]

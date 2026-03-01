@@ -70,7 +70,7 @@ Explores a smartwatch that can be detached from the wrist strap and used as a ha
 
 Identifies acceptable ranges of physical attributes (weight, volume, contact area) by body location. Implicitly, comfort thresholds assume extended wear. For temporal wearing, these thresholds may be relaxed: users tolerate more weight/bulk for seconds than for hours.
 
-### 2.7 Sorysz et al. (2025) [DOI: 10.1109/ISMAR-Adjunct68609.2025.00160] — Beyond the Pocket
+### 2.7 Sorysz et al. (2023) [DOI: 10.1145/3627050.3631575] — Beyond the Pocket
 **Venue:** arXiv (ISWC-oriented)
 
 Large-scale international study on user preferences for bodily placements of commercial wearables. Focuses on where users *want* to wear devices, not on duration, but provides relevant data on body-placement preferences that interact with temporal wearing patterns.
@@ -108,10 +108,10 @@ Reframing Gemperle's body placement framework with temporal wearing in mind:
 
 ## 5. References
 
-- Gemperle, F., et al. (1998). Design for Wearability. *ISWC '98*.
-- Zeagler, C. (2017). Where to Wear It. *ISWC '17*.
-- Starner, T. (2001). The Challenges of Wearable Computing. *IEEE Micro*, 21(4).
-- Knight, J. F., et al. (2006). The comfort assessment of wearable computers. *ISWC '06*.
-- Khurana, R., et al. (2019). Detachable Smartwatch. *IMWUT*.
-- Park, H., et al. (2019). Designing wearable computing devices for improved comfort. *Ergonomics*, 62(11).
-- Sorysz, J., et al. (2025). Beyond the Pocket. *arXiv*.
+- Gemperle, F., et al. (1998). Design for Wearability. *ISWC '98*. [DOI: 10.1109/ISWC.1998.729537]
+- Zeagler, C. (2017). Where to Wear It. *ISWC '17*. [DOI: 10.1145/3123021.3123042]
+- Starner, T. (2001). The Challenges of Wearable Computing. *IEEE Micro*, 21(4). [DOI: 10.1109/40.946681]
+- Knight, J. F., et al. (2006). The comfort assessment of wearable computers. *ISWC '06*. [DOI: 10.1109/ISWC.2002.1167220]
+- Khurana, R., et al. (2019). Detachable Smartwatch. *IMWUT*. [DOI: 10.1145/3328913]
+- Park, H., et al. (2019). Designing wearable computing devices for improved comfort. *Ergonomics*, 62(11). [DOI: 10.1080/00140139.2019.1652351]
+- Sorysz, J., et al. (2023). Beyond the Pocket: Preparing a Study on the Variations of Wearable Device Location. *IoT '23*. [DOI: 10.1145/3627050.3631575]

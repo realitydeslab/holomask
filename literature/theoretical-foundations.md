@@ -31,7 +31,7 @@ Defines peripheral interaction as interaction occurring in the "background or pe
 
 **Connection to temporal wearing:** Temporal wearing creates a *deliberate, bounded transition* from peripheral to focal attention. Unlike peripheral interaction (which stays peripheral), temporal wearing momentarily foregrounds the device and its content, then returns to the peripheral/absent state. It's a punctual attention shift, not a sustained one.
 
-### 2.2 Bakker, Hausen, & Selker (2016) [DOI: 10.1036/1097-8542.249900] — Peripheral Interaction (Book)
+### 2.2 Bakker, Hausen, & Selker (2016) [DOI: 10.1007/978-3-319-29523-7] — Peripheral Interaction (Book)
 **Venue:** Springer
 
 Comprehensive treatment of peripheral interaction design. Chapters cover:
@@ -137,13 +137,13 @@ Appropriation (Dourish)
 
 ## 7. References
 
-- Weiser, M. & Brown, J. S. (1996). The Coming Age of Calm Technology. *Xerox PARC*.
-- Tugui, A. (2004). Calm Technologies in a Multimedia World. *Ubiquity* (ACM).
-- Bakker, S., van den Hoven, E., & Eggen, B. (2015). Peripheral Interaction. *PUC*, 19(1), 239-254.
-- Bakker, S., Hausen, D., & Selker, T. (2016). *Peripheral Interaction*. Springer.
-- Luff, P. & Heath, C. (1998). Mobility in Collaboration. *CSCW '98*.
-- Everitt, K., et al. (2005). MultiSpace. *IEEE TableTop*.
-- Heath, C., Knoblauch, H., & Luff, P. (2000). Technology and social interaction. *BJS*, 51(2).
-- Suchman, L. (1987/2007). *Human-Machine Reconfigurations*. Cambridge University Press.
-- Dourish, P. (2003). The Appropriation of Interactive Technologies. *CSCW*, 12(4).
-- Dix, A. (2007). Designing for Appropriation. *BCS HCI '07*.
+- Weiser, M. & Brown, J. S. (1996). The Coming Age of Calm Technology. *Xerox PARC*. [DOI: 10.1007/978-1-4612-0685-9_6]
+- Tugui, A. (2004). Calm Technologies in a Multimedia World. *Ubiquity* (ACM). [DOI: 10.1145/985619.985617]
+- Bakker, S., van den Hoven, E., & Eggen, B. (2015). Peripheral Interaction. *PUC*, 19(1), 239-254. [DOI: 10.1007/s00779-014-0775-2]
+- Bakker, S., Hausen, D., & Selker, T. (2016). *Peripheral Interaction*. Springer. [DOI: 10.1007/978-3-319-29523-7]
+- Luff, P. & Heath, C. (1998). Mobility in Collaboration. *CSCW '98*. [DOI: 10.1145/289444.289505]
+- Everitt, K., et al. (2006). MultiSpace: Enabling Electronic Document Micro-mobility in Table-Centric, Multi-Device Environments. *IEEE TableTop '06*. [DOI: 10.1109/tabletop.2006.23]
+- Heath, C., Knoblauch, H., & Luff, P. (2000). Technology and social interaction. *BJS*, 51(2). [DOI: 10.1080/00071310050030190]
+- Suchman, L. (1987/2007). *Human-Machine Reconfigurations*. Cambridge University Press. [DOI: 10.1017/cbo9780511808418]
+- Dourish, P. (2003). The Appropriation of Interactive Technologies. *CSCW*, 12(4). [DOI: 10.1023/A:1026149119426]
+- Dix, A. (2007). Designing for Appropriation. *BCS HCI '07*. [DOI: 10.14236/ewic/hci2007.53]
