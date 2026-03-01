@@ -15,7 +15,7 @@ Duration appears only implicitly, usually as a usability variable rather than a 
 
 ## 2. Existing Frameworks and Their Temporal Gaps
 
-### 2.1 Gemperle et al. (1998) — Design for Wearability
+### 2.1 Gemperle et al. (1998) [DOI: 10.1109/ISWC.1998.729537] — Design for Wearability
 **Venue:** ISWC '98 | **Citation count:** ~800+
 
 The foundational ISWC paper on wearability. Defines wearability as "the interaction between the human body and the wearable object" and proposes 13 design guidelines:
@@ -36,7 +36,7 @@ The foundational ISWC paper on wearability. Defines wearability as "the interact
 
 **Temporal gap:** Guideline 13 ("long-term use") assumes extended wearing. No guideline addresses *brief* or *transitional* wearing. The framework implicitly assumes permanent or session-length wear.
 
-### 2.2 Zeagler (2017) — Where to Wear It
+### 2.2 Zeagler (2017) [DOI: 10.1145/3123021.3123042] — Where to Wear It
 **Venue:** ISWC '17
 
 Body maps for wearable placement organized by:
@@ -46,7 +46,7 @@ Body maps for wearable placement organized by:
 
 **Temporal gap:** Social considerations touch on duration ("staring at a wrist-worn device is more acceptable than staring at a head-mounted device") but don't formalize wearing duration as a variable.
 
-### 2.3 Starner (2001) — The Challenges of Wearable Computing
+### 2.3 Starner (2001) [DOI: 10.1109/40.946681] — The Challenges of Wearable Computing
 **Venue:** IEEE Micro
 
 Distinguishes:
@@ -55,22 +55,22 @@ Distinguishes:
 
 This comes closest to a temporal distinction, but task-specific still implies session-length wearing (minutes to hours), not seconds.
 
-### 2.4 Knight et al. (2006) — Comfort Assessment of Wearable Computers
+### 2.4 Knight et al. (2006) [DOI: 10.1109/ISWC.2002.1167220] — Comfort Assessment of Wearable Computers
 **Venue:** ISWC '06
 
 Proposes a comfort rating scale including "ease of donning and doffing." This acknowledges don/doff as a usability factor but treats it as *friction to be minimized* rather than a design opportunity.
 
-### 2.5 Khurana et al. (2019) — Detachable Smartwatch
+### 2.5 Khurana et al. (2019) [DOI: 10.1145/3328913] — Detachable Smartwatch
 **Venue:** IMWUT/UbiComp
 
 Explores a smartwatch that can be detached from the wrist strap and used as a handheld device. The key insight: the same device can operate in different *wearing modes* (attached vs. detached). This is the closest precedent to temporal wearing as a design concept, though it focuses on device versatility rather than wearing duration as an interaction paradigm.
 
-### 2.6 Park et al. (2019) — Comfort and User Acceptance
+### 2.6 Park et al. (2019) [DOI: 10.1080/00140139.2019.1652351] — Comfort and User Acceptance
 **Venue:** Ergonomics
 
 Identifies acceptable ranges of physical attributes (weight, volume, contact area) by body location. Implicitly, comfort thresholds assume extended wear. For temporal wearing, these thresholds may be relaxed: users tolerate more weight/bulk for seconds than for hours.
 
-### 2.7 Sorysz et al. (2025) — Beyond the Pocket
+### 2.7 Sorysz et al. (2025) [DOI: 10.1109/ISMAR-Adjunct68609.2025.00160] — Beyond the Pocket
 **Venue:** arXiv (ISWC-oriented)
 
 Large-scale international study on user preferences for bodily placements of commercial wearables. Focuses on where users *want* to wear devices, not on duration, but provides relevant data on body-placement preferences that interact with temporal wearing patterns.

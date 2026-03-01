@@ -15,7 +15,7 @@ Large-scale study of visitor acceptance of wearable AR in museum settings. Found
 
 **Temporal wearing lens:** Museum AR devices are inherently temporal — visitors don't wear AR devices throughout their museum visit. They use them at specific exhibits, creating natural temporal wearing patterns.
 
-### 2.2 vom Lehn, Heath, & Hindmarsh (2001) — Exhibiting Interaction
+### 2.2 vom Lehn, Heath, & Hindmarsh (2001) [DOI: 10.1525/si.2001.24.2.189] — Exhibiting Interaction
 **Venue:** Symbolic Interaction, 24(2)
 
 Ethnographic study of conduct and collaboration in museums and galleries. Key findings:
@@ -25,7 +25,7 @@ Ethnographic study of conduct and collaboration in museums and galleries. Key fi
 
 **Temporal wearing connection:** Museum interaction is already temporally structured in seconds-to-minutes episodes. Temporal wearing devices align naturally with this rhythm.
 
-### 2.3 Mistry & Maes (2009) — SixthSense
+### 2.3 Mistry & Maes (2009) [DOI: 10.1145/1667146.1667160] — SixthSense
 **Venue:** SIGGRAPH '09 Emerging Technologies
 
 Neck-worn wearable gestural interface projecting information onto surfaces. While designed for continuous wear, the actual use pattern in demonstrations was temporal: users activated it for specific tasks.

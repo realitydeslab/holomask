@@ -15,7 +15,7 @@ Temporal wearing potentially addresses all four concerns through brevity and leg
 
 ## 2. Key Literature
 
-### 2.1 Koelle et al. (2020) — Social Acceptability in HCI: A Survey
+### 2.1 Koelle et al. (2020) [DOI: 10.1145/3313831.3376162] — Social Acceptability in HCI: A Survey
 **Venue:** CHI '20 | **Authors:** Marion Koelle, Swamy Ananthanarayan, Susanne Boll
 
 The most comprehensive survey of social acceptability research in HCI (analyzing works 2000–2018). Key findings:
@@ -26,7 +26,7 @@ The most comprehensive survey of social acceptability research in HCI (analyzing
 
 **Gap for temporal wearing:** The survey does not identify wearing duration as a variable. This is an opportunity: temporal wearing may represent a distinct acceptability profile.
 
-### 2.2 Koelle et al. (2017) — Adoption of Data Glasses
+### 2.2 Koelle et al. (2017) [DOI: 10.1145/2785830.2785842] — Adoption of Data Glasses
 **Venue:** ISWC '17
 
 Examines whether familiarization over time improves attitudes toward data glasses. Findings:
@@ -36,7 +36,7 @@ Examines whether familiarization over time improves attitudes toward data glasse
 
 **Implication for temporal wearing:** If permanent wearing can't overcome acceptability barriers through familiarization, *temporal wearing offers an alternative*: reduce duration rather than attempting normalization.
 
-### 2.3 Profita et al. (2013) — On-Body Technology in Public
+### 2.3 Profita et al. (2013) [DOI: 10.1145/2493988.2494331] — On-Body Technology in Public
 **Venue:** ISWC '13 | **Authors:** Halley Profita, James Clawson, Scott Gilliland, Clint Zeagler, Thad Starner, Jim Budd, Ellen Yi-Luen Do
 
 Case study of interacting with e-textile wearable technology in public. Key findings:
@@ -46,7 +46,7 @@ Case study of interacting with e-textile wearable technology in public. Key find
 
 **Implication for temporal wearing:** Temporal wearing can leverage *socially visible but brief* interactions. The brevity signals purpose and temporality, making even conspicuous body locations (like raising a device to the eyes) acceptable because the act is clearly bounded.
 
-### 2.4 Profita et al. (2016) — The AT Effect
+### 2.4 Profita et al. (2016) [DOI: 10.1145/2904092.2904101] — The AT Effect
 **Venue:** CHI '16
 
 How disability context affects perceived social acceptability of HMD use. When HMDs are perceived as assistive technology, social acceptability increases significantly.
@@ -58,14 +58,14 @@ Documents social barriers to HMD adoption even when functionally beneficial. Hig
 
 **Implication:** Temporal wearing reduces social cost by minimizing exposure time. A 5-second peek through a viewer creates far less social tension than wearing an HMD for an hour.
 
-### 2.6 Koelle et al. (2019) — Wearable Camera Social Acceptability In-the-Wild
+### 2.6 Koelle et al. (2019) [DOI: 10.1145/3290607.3312837] — Wearable Camera Social Acceptability In-the-Wild
 **Venue:** CHI EA '19
 
 Field evaluation of a wearable camera's social acceptability. Found that acceptability depends heavily on bystander awareness and perceived recording duration.
 
 **Implication:** Duration of perceived device activity directly affects bystander comfort. Temporal wearing minimizes this window.
 
-### 2.7 Kelly & Gilbert (2018) — The Wearer, the Device, and Its Use
+### 2.7 Kelly & Gilbert (2018) [DOI: 10.1177/1541931218621237] — The Wearer, the Device, and Its Use
 **Venue:** Human Factors and Ergonomics Society
 
 Advances in understanding social acceptability of wearables. Proposes that acceptability is a function of three factors: the wearer's identity, the device's appearance, and the use context.

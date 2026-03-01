@@ -4,14 +4,14 @@
 
 ## 1. Calm Technology
 
-### 1.1 Weiser & Brown (1996) — The Coming Age of Calm Technology
+### 1.1 Weiser & Brown (1996) [DOI: 10.1007/978-1-4612-0685-9_6] — The Coming Age of Calm Technology
 **Source:** Xerox PARC
 
 The foundational vision: technology that "engages both the center and the periphery of our attention, and in fact moves back and forth between the two." Calm technology informs but doesn't overburden.
 
 **Connection to temporal wearing:** Weiser & Brown's center/periphery model operates at the *information* level — information moves between focal and peripheral attention. Temporal wearing introduces a *device-level* analog: the device itself moves between absent/peripheral (not worn, nearby) and central (worn, active). This is a more dramatic transition than Weiser envisioned, but preserves the calm technology principle: the device demands attention only briefly and purposefully, then recedes.
 
-### 1.2 Tugui (2004) — Calm Technologies in a Multimedia World
+### 1.2 Tugui (2004) [DOI: 10.1145/985619.985617] — Calm Technologies in a Multimedia World
 **Venue:** Ubiquity (ACM)
 
 Extends Weiser's vision to multimedia contexts. Argues that in an ideal world, computers "inform but not overburden" and are present "only when you need them."
@@ -20,7 +20,7 @@ Extends Weiser's vision to multimedia contexts. Argues that in an ideal world, c
 
 ## 2. Peripheral Interaction
 
-### 2.1 Bakker, van den Hoven, & Eggen (2015) — Peripheral Interaction: Characteristics and Considerations
+### 2.1 Bakker, van den Hoven, & Eggen (2015) [DOI: 10.1007/s00779-014-0775-2] — Peripheral Interaction: Characteristics and Considerations
 **Venue:** Personal and Ubiquitous Computing, 19(1), 239-254
 
 Defines peripheral interaction as interaction occurring in the "background or periphery of attention." Identifies characteristics:
@@ -31,7 +31,7 @@ Defines peripheral interaction as interaction occurring in the "background or pe
 
 **Connection to temporal wearing:** Temporal wearing creates a *deliberate, bounded transition* from peripheral to focal attention. Unlike peripheral interaction (which stays peripheral), temporal wearing momentarily foregrounds the device and its content, then returns to the peripheral/absent state. It's a punctual attention shift, not a sustained one.
 
-### 2.2 Bakker, Hausen, & Selker (2016) — Peripheral Interaction (Book)
+### 2.2 Bakker, Hausen, & Selker (2016) [DOI: 10.1036/1097-8542.249900] — Peripheral Interaction (Book)
 **Venue:** Springer
 
 Comprehensive treatment of peripheral interaction design. Chapters cover:
@@ -43,7 +43,7 @@ Comprehensive treatment of peripheral interaction design. Chapters cover:
 
 ## 3. Micro-Mobility
 
-### 3.1 Luff & Heath (1998) — Mobility in Collaboration
+### 3.1 Luff & Heath (1998) [DOI: 10.1145/289444.289505] — Mobility in Collaboration
 **Venue:** CSCW '98
 
 Introduced the concept of **micro-mobility** — the fine-grained, moment-by-moment repositioning of artifacts (documents, objects) within a collaborative workspace. Micro-mobility is about how objects are tilted, rotated, pushed, and pulled to facilitate shared viewing and collaborative work.
@@ -52,14 +52,14 @@ Introduced the concept of **micro-mobility** — the fine-grained, moment-by-mom
 
 **Key distinction:** Classical micro-mobility operates on objects external to the body. Temporal wearing introduces body-device micro-mobility — the device transitions between body-worn and not-body-worn states through micro-scale physical actions.
 
-### 3.2 Everitt et al. (2005) — MultiSpace
+### 3.2 Everitt et al. (2005) [DOI: 10.1109/tabletop.2006.23] — MultiSpace
 **Venue:** IEEE TableTop
 
 Electronic document micro-mobility in multi-device environments. Explores how digital content moves between tables and other devices.
 
 **Relevance:** Demonstrates micro-mobility applied to digital devices, bridging Luff & Heath's document focus toward device-level micro-mobility.
 
-### 3.3 Heath, Knoblauch, & Luff (2000) — Technology and Social Interaction
+### 3.3 Heath, Knoblauch, & Luff (2000) [DOI: 10.1080/00071310050030190] — Technology and Social Interaction
 **Venue:** British Journal of Sociology, 51(2)
 
 Discusses "workplace studies" examining how technologies feature in day-to-day organizational conduct and interaction. Emphasizes the situated, contingent character of technology use.
@@ -83,7 +83,7 @@ This situatedness distinguishes temporal wearing from habitual wearing (permanen
 
 ## 5. Appropriation and Occasioned Use
 
-### 5.1 Dourish (2003) — The Appropriation of Interactive Technologies
+### 5.1 Dourish (2003) [DOI: 10.1023/A:1026149119426] — The Appropriation of Interactive Technologies
 **Venue:** CSCW, 12(4), 465-490
 
 How users adapt, adopt, and reshape technology for their own purposes. Appropriation involves:
@@ -96,7 +96,7 @@ How users adapt, adopt, and reshape technology for their own purposes. Appropria
 ### 5.2 Occasioned Use
 Related to situated action: technology use is *occasioned* — triggered by contextual circumstances rather than pre-planned. Temporal wearing is a paradigmatic case of occasioned use: the device is used when the occasion demands it and set aside otherwise.
 
-### 5.3 Dix (2007) — Designing for Appropriation
+### 5.3 Dix (2007) [DOI: 10.14236/ewic/hci2007.53] — Designing for Appropriation
 **Venue:** BCS HCI '07
 
 Design principles that enable appropriation:

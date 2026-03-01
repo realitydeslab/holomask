@@ -15,7 +15,7 @@ This fills a gap in wearable computing's conceptual landscape:
 ## 2. Why This Is Novel (Gap Analysis)
 
 ### 2.1 No Existing Duration Taxonomy
-Despite 25+ years of ISWC, no paper has proposed a taxonomy where wearing duration is a *primary design variable*. Gemperle (1998) and Zeagler (2017) address *where* to wear; Starner (2001) distinguishes always-available vs. task-specific; nobody has formalized *how long* as a design dimension.
+Despite 25+ years of ISWC, no paper has proposed a taxonomy where wearing duration is a *primary design variable*. Gemperle (1998) [DOI: 10.1109/ISWC.1998.729537] and Zeagler (2017) [DOI: 10.1145/3123021.3123042] address *where* to wear; Starner (2001) [DOI: 10.1109/40.946681] distinguishes always-available vs. task-specific; nobody has formalized *how long* as a design dimension.
 
 ### 2.2 Donning/Doffing as Overhead vs. Interaction
 Every existing framework treats donning and doffing as *friction* — time wasted before/after productive use. Temporal wearing inverts this: don/doff IS the productive use. This is a genuine paradigm shift.
@@ -72,24 +72,24 @@ This paper extends ISWC's own foundational work (Gemperle, Zeagler, Profita) wit
 ## 5. Papers to Cite Prominently
 
 ### Must-cite (establish the gap):
-1. Gemperle et al. (1998) — Design for Wearability [ISWC] — foundational, lacks temporal dimension
-2. Zeagler (2017) — Where to Wear It [ISWC] — body maps, lacks temporal dimension
-3. Koelle et al. (2020) — Social Acceptability Survey [CHI] — framework, lacks duration variable
-4. Weiser & Brown (1996) — Calm Technology — theoretical ancestor
+1. Gemperle et al. (1998) [DOI: 10.1109/ISWC.1998.729537] — Design for Wearability [ISWC] — foundational, lacks temporal dimension
+2. Zeagler (2017) [DOI: 10.1145/3123021.3123042] — Where to Wear It [ISWC] — body maps, lacks temporal dimension
+3. Koelle et al. (2020) [DOI: 10.1145/3313831.3376162] — Social Acceptability Survey [CHI] — framework, lacks duration variable
+4. Weiser & Brown (1996) [DOI: 10.1007/978-1-4612-0685-9_6] — Calm Technology — theoretical ancestor
 
 ### Should-cite (build the argument):
-5. Profita et al. (2013) — On-body interaction [ISWC] — social acceptability baseline
-6. Bakker et al. (2015) — Peripheral Interaction — attention framework
+5. Profita et al. (2013) [DOI: 10.1145/2493988.2494331] — On-body interaction [ISWC] — social acceptability baseline
+6. Bakker et al. (2015) [DOI: 10.1007/s00779-014-0775-2] — Peripheral Interaction — attention framework
 7. Ashbrook (2010) — Micro-interactions — temporal reference point
-8. Luff & Heath (1998) — Micro-mobility — physical manipulation framework
-9. vom Lehn et al. (2001) — Museum interaction — deployment context
-10. Khurana et al. (2019) — Detachable Smartwatch — closest prior work on wearing modality shifts
+8. Luff & Heath (1998) [DOI: 10.1145/289444.289505] — Micro-mobility — physical manipulation framework
+9. vom Lehn et al. (2001) [DOI: 10.1525/si.2001.24.2.189] — Museum interaction — deployment context
+10. Khurana et al. (2019) [DOI: 10.1145/3328913] — Detachable Smartwatch — closest prior work on wearing modality shifts
 
 ### Nice-to-cite (breadth):
 11. Suchman (1987/2007) — Situated Action
-12. Dourish (2003) — Appropriation
-13. Li et al. (2024) — Museum AR acceptance
-14. Ens et al. (2015) — Candid Interaction
+12. Dourish (2003) [DOI: 10.1023/A:1026149119426] — Appropriation
+13. Li et al. (2024) [DOI: 10.1177/21582440241303507] — Museum AR acceptance
+14. Ens et al. (2015) [DOI: 10.1145/2556288.2557058] — Candid Interaction
 
 ## 6. Risk Assessment
 

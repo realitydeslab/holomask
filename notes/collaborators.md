@@ -16,7 +16,7 @@
 **Affiliation:** University of Waterloo, Canada  
 **Research focus:** AR interface transitions, body-anchored AR, AR UI placement  
 **Relevant venue:** ISMAR, IEEE VR — overlaps with UbiComp community  
-**Key papers:** Dhaka et al. (2024) AR UI Transitions; Jannat et al. (2025) Body-Anchored AR  
+**Key papers:** Dhaka et al. (2024) [DOI: 10.1109/ISMAR62088.2024.00134] AR UI Transitions; Jannat et al. (2025) Body-Anchored AR  
 **Why relevant:** Their work is the closest technical precedent. Could position this paper as the design complement to their empirical work.  
 **Potential role:** Cite as key related work; possible future collaboration on empirical extension  
 

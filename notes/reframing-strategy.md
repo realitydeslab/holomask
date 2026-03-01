@@ -49,7 +49,7 @@
 1. **Design space diagram (figure):** Map the 6 prototypes along 2–3 dimensions (e.g., portability vs. social visibility vs. interaction complexity). This shows systematic design thinking.
 2. **Expert walkthrough summary:** 2–3 paragraph summary of designer interviews reframed as expert design evaluation (N=?, findings summary in bullet points)
 3. **Comparison table:** Handheld vs. neck-worn vs. stationary — evaluate against Gemperle et al.'s wearability criteria and Profita et al.'s social acceptability findings
-4. **Body Activity Zone Figure:** Apply Gemperle et al. (1998)'s body regions framework to justify form factor placement
+4. **Body Activity Zone Figure:** Apply Gemperle et al. (1998) [DOI: 10.1109/ISWC.1998.729537]'s body regions framework to justify form factor placement
 
 ### Optional (stronger paper, still within ISWC Notes scope):
 - One brief deployment scenario: bring 2 prototypes to a local exhibition, collect qualitative observations (N=5–10 visitors, opportunistic)
@@ -123,7 +123,7 @@
 
 | Risk | Likelihood | Mitigation |
 |------|-----------|------------|
-| ISWC reviewers want more empirical data | Medium | Frame as design research track; cite Gemperle (1998) precedent |
+| ISWC reviewers want more empirical data | Medium | Frame as design research track; cite Gemperle (1998) [DOI: 10.1109/ISWC.1998.729537] precedent |
 | Too similar to DIS paper (venue shopping concern) | Low | ISWC and DIS have minimal overlap; reframing is substantial |
 | Page limit too tight for all 6 prototypes | Medium | Lead with 3 best; mention others briefly or in appendix |
 | Missing technical depth for ISWC audience | Medium | Add implementation paragraph per prototype (sensors, display, tracking) |

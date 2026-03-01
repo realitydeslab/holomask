@@ -23,7 +23,7 @@ The glimpse cycle is neither. It is **intermittent, voluntary, and repeating** �
 
 ## 2. Calm Technology & Attention Transitions
 
-### Weiser & Brown (1996) — The Coming Age of Calm Technology
+### Weiser & Brown (1996) [DOI: 10.1007/978-1-4612-0685-9_6] — The Coming Age of Calm Technology
 
 The foundational text for understanding attention transitions in computing. Core concept:
 
@@ -35,7 +35,7 @@ The foundational text for understanding attention transitions in computing. Core
 
 **Mapping to temporal wearing**: The device at rest (on a table) is at the periphery. When donned for a glimpse, it moves to the center. When doffed, it returns to periphery. This is a *physical instantiation* of Weiser & Brown's attention transition — not just information moving between center/periphery, but the entire computing apparatus physically transitioning.
 
-### Bakker et al. (2015) — Peripheral Interaction
+### Bakker et al. (2015) [DOI: 10.1007/s00779-014-0775-2] — Peripheral Interaction
 
 Extended calm technology into a design framework for **peripheral interaction** — interactions that do not require focused attention. Key contributions:
 
@@ -49,7 +49,7 @@ Extended calm technology into a design framework for **peripheral interaction** 
 
 **Key insight**: Bakker argues that the *transition itself* between peripheral and focal attention is a design concern. Temporal wearing makes this transition physical and deliberate — donning = shifting to focal; doffing = returning to peripheral.
 
-### Hausen et al. (2012) — StayInTouch
+### Hausen et al. (2012) [DOI: 10.1145/2148131.2148191] — StayInTouch
 
 Explored peripheral awareness displays that move between ambient and focal modalities. Demonstrated that physical form factors affect the ease of attention transition.
 
@@ -68,7 +68,7 @@ Most HCI interaction models are **sequential** or **funnel-shaped**:
 
 The glimpse cycle is unique in that **return is an expected, designed-for phase**. The closest existing models:
 
-### Benford et al. (2009) — Trajectories Through Mixed Reality
+### Benford et al. (2009) [DOI: 10.1145/1518701.1518812] — Trajectories Through Mixed Reality
 
 Proposed **trajectories** as a framework for designing mixed reality experiences. Key concepts:
 
@@ -81,7 +81,7 @@ Proposed **trajectories** as a framework for designing mixed reality experiences
 
 **Critical connection**: Benford et al. explicitly discuss how experiences are not contained within single sessions but extend across time, with planned transitions between engagement and disengagement. The glimpse cycle is a *micro-trajectory* — a repeating loop within a larger experiential trajectory.
 
-### Ciolfi & Bannon (2007) — Designing for Visitor Engagement
+### Ciolfi & Bannon (2007) [DOI: 10.1080/15710880701524559] — Designing for Visitor Engagement
 
 Studied how museum visitors return to and revisit interactive installations within a single visit. Found that:
 
@@ -91,7 +91,7 @@ Studied how museum visitors return to and revisit interactive installations with
 
 > Ciolfi, L., & Bannon, L. J. (2007). Designing Hybrid Places: Merging Interaction Design, Ubiquitous Computing and Geographies of the Museum Space. *CoDesign*, 3(3), 159–180.
 
-### Lehn et al. (2001) — Revisiting Exhibits
+### Lehn et al. (2001) [DOI: 10.1525/si.2001.24.2.189] — Revisiting Exhibits
 
 Ethnographic study of how museum visitors revisit exhibits, often bringing companions back to see something they found interesting. This **social return** pattern maps directly to temporal wearing: one person glimpses, doffs, tells a companion, who then dons the device.
 
@@ -115,7 +115,7 @@ Studied how users transition between devices (phone → tablet → AR → VR) an
 
 **For temporal wearing**: The don/doff transition IS a cross-reality transition — from unmediated reality to mixed reality and back. But unlike Hubenschmid's device-switching, temporal wearing's transition is **embodied** (putting something on your head) rather than digital (switching apps).
 
-### Ens et al. (2015) — Candid Interaction
+### Ens et al. (2015) [DOI: 10.1145/2556288.2557058] — Candid Interaction
 
 Introduced techniques for **revealing** hidden mobile/wearable computing activities to bystanders. Explored a design space where:
 
@@ -127,7 +127,7 @@ Introduced techniques for **revealing** hidden mobile/wearable computing activit
 
 **Relevance**: Temporal wearing inherently makes device use visible (you can see someone donning/doffing). The question is what to reveal about the *content* of the glimpse to bystanders.
 
-### Marquardt & Greenberg (2015) — Proxemic Interactions
+### Marquardt & Greenberg (2015) [DOI: 10.1007/978-3-031-02208-1] — Proxemic Interactions
 
 Framework for using spatial relationships (distance, orientation, identity, movement) as input for interactive systems. Based on Hall's (1966) proxemics:
 
@@ -142,7 +142,7 @@ Framework for using spatial relationships (distance, orientation, identity, move
 
 **Mapping**: The glimpse cycle traverses proxemic zones — the device starts at social distance (on display), moves to personal distance (picked up), then intimate distance (worn on face), then reverses. This is a **proxemic trajectory** through the glimpse cycle.
 
-### Grubert et al. (2018) — Text Entry in Immersive Head-Mounted Display-Based VR
+### Grubert et al. (2018) [DOI: 10.1109/TVCG.2016.2543720] — Text Entry in Immersive Head-Mounted Display-Based VR
 
 While focused on text entry, documented the transition costs of donning/doffing HMDs and the concept of **"break-out" interaction** — tasks that require temporarily leaving VR.
 
@@ -152,7 +152,7 @@ While focused on text entry, documented the transition costs of donning/doffing 
 
 ## 5. Micro-Mobility
 
-### Luff & Heath (1998) — Mobility in Collaboration
+### Luff & Heath (1998) [DOI: 10.1145/289444.289505] — Mobility in Collaboration
 
 Foundational paper on **micro-mobility** — the fine-grained, moment-to-moment repositioning of artifacts (documents, devices) during collaborative work. Key concepts:
 
@@ -164,7 +164,7 @@ Foundational paper on **micro-mobility** — the fine-grained, moment-to-moment 
 
 **Critical insight for temporal wearing**: The device is a **micro-mobile artifact**. When someone picks it up, shows it to a companion, holds it out for them to try, passes it — these are all micro-mobility actions that are integral to the interaction, not incidental. The glimpse cycle's social dimension is fundamentally about the micro-mobility of the device.
 
-### Luff et al. (2003) — Fractured Ecologies
+### Luff et al. (2003) [DOI: 10.1207/s15327051hci1812_3] — Fractured Ecologies
 
 Extended micro-mobility to examine how mobile technologies create **fractures** in social interaction — moments where device use pulls a participant out of the shared social space.
 
@@ -172,7 +172,7 @@ Extended micro-mobility to examine how mobile technologies create **fractures** 
 
 **For temporal wearing**: Donning creates a deliberate fracture (entering MR); doffing repairs it (returning to shared reality). The brevity of the glimpse means the fracture is short — a **micro-fracture** — which may be more socially acceptable than sustained HMD use.
 
-### Koelle et al. (2022) — Donning and Doffing
+### Koelle et al. (2022) [DOI: 10.18573/book3.l] — Donning and Doffing
 
 Recent work examining how the physical acts of putting on and taking off wearable devices carry social meaning. The donning/doffing moment is a **transition ritual** that signals intent.
 
@@ -182,7 +182,7 @@ Recent work examining how the physical acts of putting on and taking off wearabl
 
 ## 6. Intermittent Interaction & Resumption
 
-### Iqbal & Horvitz (2007) — Disruption and Recovery of Computing Tasks
+### Iqbal & Horvitz (2007) [DOI: 10.1145/1240624.1240730] — Disruption and Recovery of Computing Tasks
 
 Studied how people recover from interruptions during computer work. Key findings:
 
@@ -192,7 +192,7 @@ Studied how people recover from interruptions during computer work. Key findings
 
 > Iqbal, S. T., & Horvitz, E. (2007). Disruption and Recovery of Computing Tasks: Field Study, Analysis, and Directions. *Proc. CHI 2007*, 677–686. ACM.
 
-### Pejovic & Musolesi (2014) — InterruptMe
+### Pejovic & Musolesi (2014) [DOI: 10.1145/2632048.2632062] — InterruptMe
 
 Studied interruptibility in mobile computing. Found that:
 
@@ -228,7 +228,7 @@ Argued that interaction design must account for the **felt experience** of the b
 
 > Höök, K. (2018). *Designing with the Body: Somaesthetic Interaction Design*. MIT Press.
 
-### Schiphorst (2009) — Soft(n)
+### Schiphorst (2009) [DOI: 10.1145/1520340.1520345] — Soft(n)
 
 Explored how body awareness and somatic practices inform interaction design. The physicality of temporal wearing — holding, lifting, placing on face, removing — engages proprioception and tactile awareness in ways that screen-based interaction does not.
 

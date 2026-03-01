@@ -27,13 +27,13 @@ Our paper sits at the intersection of:
 
 ---
 
-### 3. Gemperle et al. (1998) — Design for Wearability [ISWC]
+### 3. Gemperle et al. (1998) [DOI: 10.1109/ISWC.1998.729537] — Design for Wearability [ISWC]
 **Their contribution:** Foundational body placement and wearability design principles.  
 **Our differentiation:** Their principles apply to general wearables; we apply and extend them specifically to mixed reality devices in transient social contexts. We add: MR-specific factors (display occlusion, camera ethics, spatial registration) and transient-specific factors (rapid don/doff, cold start).
 
 ---
 
-### 4. Profita et al. (2013) — On-Body Technology in Public [ISWC]
+### 4. Profita et al. (2013) [DOI: 10.1145/2493988.2494331] — On-Body Technology in Public [ISWC]
 **Their contribution:** Social acceptability of touching wrist-worn devices in public.  
 **Our differentiation:** They study interaction with existing wrist wearables (smartwatches). We study *first encounter* social acceptability of novel non-HMD MR form factors in exhibition contexts — different device types, different interaction modes, different social settings.
 
@@ -45,13 +45,13 @@ Our paper sits at the intersection of:
 
 ---
 
-### 6. Mistry & Maes (2009) — SixthSense [SIGGRAPH Asia]
+### 6. Mistry & Maes (2009) [DOI: 10.1145/1667146.1667160] — SixthSense [SIGGRAPH Asia]
 **Their contribution:** Neck-worn projector+camera enabling gestural AR on any surface.  
 **Our differentiation:** SixthSense proves technical feasibility of neck-worn MR. Our work asks: *how should neck-worn MR be designed for transient social encounters?* We provide design principles, prototype variants, and empirical insights that move beyond the technical demo.
 
 ---
 
-### 7. vom Lehn, Heath, & Hindmarsh (2001) — Museum Exhibition Interaction [Symbolic Interaction]
+### 7. vom Lehn, Heath, & Hindmarsh (2001) [DOI: 10.1525/si.2001.24.2.189] — Museum Exhibition Interaction [Symbolic Interaction]
 **Their contribution:** Ethnographic study of how museum visitors engage with exhibits — inherently brief and social.  
 **Our differentiation:** They study behavior with existing physical exhibits. We design MR interfaces specifically to fit the naturalistic patterns they document — treating their ethnographic findings as design requirements.
 

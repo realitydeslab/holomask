@@ -4,7 +4,7 @@
 
 ### 1.1 Museums and Cultural Heritage
 
-The integration of immersive technologies in museums has become one of the largest domains of real-world MR deployment. A bibliometric analysis by Li et al. (2023) examined **722 articles** on immersive technology in museum exhibitions, identifying five thematic clusters: VR/AR-enhanced heritage tourism, virtual museums, interactive digital art education, immersive storytelling, and mobile AR heritage revival [1]. The sheer volume of scholarly output reflects the scale of deployment.
+The integration of immersive technologies in museums has become one of the largest domains of real-world MR deployment. A bibliometric analysis by Li et al. (2023) [DOI: 10.3389/frvir.2023.1240562] examined **722 articles** on immersive technology in museum exhibitions, identifying five thematic clusters: VR/AR-enhanced heritage tourism, virtual museums, interactive digital art education, immersive storytelling, and mobile AR heritage revival [1]. The sheer volume of scholarly output reflects the scale of deployment.
 
 The **VR Museum market** was valued at **USD 1.42 billion in 2024** and is projected to reach **USD 13.2 billion by 2033** (CAGR 28.1%), driven by cultural institutions adopting immersive technologies for visitor engagement (Dataintelo, 2025) [2].
 
@@ -17,9 +17,9 @@ The **VR Museum market** was valued at **USD 1.42 billion in 2024** and is proje
 - **National Museum of Singapore** — "Story of the Forest" immersive installation by teamLab, where visitors walk through a digital forest; typical dwelling time 3–7 minutes [7].
 - **Cleveland Museum of Art** — ArtLens Gallery, interactive AR experiences with artworks; average visitor interaction **2–4 minutes** per station [8].
 
-He & Wang (2025) studied factors influencing visitors' use of AR technology in museum guided tours, finding that while AR enhances engagement, the overhead of device setup and unfamiliarity creates friction that limits adoption in brief museum visit contexts [9].
+He & Wang (2025) [DOI: 10.1371/journal.pone.0332688] studied factors influencing visitors' use of AR technology in museum guided tours, finding that while AR enhances engagement, the overhead of device setup and unfamiliarity creates friction that limits adoption in brief museum visit contexts [9].
 
-Popovici et al. (2022) provided an overview of AR applications in cultural heritage over the last decade, documenting hundreds of deployments across museums globally, the vast majority designed for brief, station-based encounters [10].
+Popovici et al. (2022) [DOI: 10.3390/app12199859] provided an overview of AR applications in cultural heritage over the last decade, documenting hundreds of deployments across museums globally, the vast majority designed for brief, station-based encounters [10].
 
 ### 1.2 Trade Shows and Product Demos
 
@@ -33,7 +33,7 @@ Trade shows represent another massive context for transient MR. At events like C
 
 Classroom MR deployments are overwhelmingly brief:
 
-- Freina & Ott (2015) surveyed VR in education, finding most sessions are **5–15 minutes** within a larger lesson structure [11].
+- Freina & Ott (2015) [DOI: 10.12753/2066-026x-15-020] surveyed VR in education, finding most sessions are **5–15 minutes** within a larger lesson structure [11].
 - Kamińska et al. (2019) reviewed VR in education and noted that recommended session lengths for K-12 are **under 10 minutes** due to simulator sickness concerns and pedagogical framing [12].
 - Google Expeditions (2015–2021), one of the largest educational VR deployments, designed sessions around **3–5 minute "expeditions"** using Cardboard headsets [13].
 

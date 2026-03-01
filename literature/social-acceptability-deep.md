@@ -10,7 +10,7 @@ Kelly (2016) distinguished between **first-person acceptability** (wearer's will
 
 ### 1.2 The Spectator Experience Framework
 
-Reeves et al. (2005) introduced the "spectator experience" framework distinguishing between **secretive**, **expressive**, **magical**, and **suspenseful** interactions based on the visibility of manipulations and effects. HMDs create a fundamentally **secretive** interaction — bystanders see the wearer's actions (head movements, gestures) but not what they see. This asymmetry creates discomfort and suspicion.
+Reeves et al. (2005) [DOI: 10.1145/1054972.1055074] introduced the "spectator experience" framework distinguishing between **secretive**, **expressive**, **magical**, and **suspenseful** interactions based on the visibility of manipulations and effects. HMDs create a fundamentally **secretive** interaction — bystanders see the wearer's actions (head movements, gestures) but not what they see. This asymmetry creates discomfort and suspicion.
 
 ---
 
@@ -18,20 +18,20 @@ Reeves et al. (2005) introduced the "spectator experience" framework distinguish
 
 ### 2.1 Koelle et al. — The Definitive Social Acceptability Program
 
-**Koelle et al. (2020)** — *"(Don't) Be a Glasshole: Towards Understanding and Predicting Social Acceptability of Smart Glasses"* — provides the most comprehensive survey of social acceptability factors for smartglasses. Key findings:
+**Koelle et al. (2020) [DOI: 10.1145/3313831.3376162]** — *"(Don't) Be a Glasshole: Towards Understanding and Predicting Social Acceptability of Smart Glasses"* — provides the most comprehensive survey of social acceptability factors for smartglasses. Key findings:
 
 - Social acceptability varies dramatically by **context** (private vs. public), **activity** (recording vs. displaying), and **relationship** (strangers vs. acquaintances).
 - **Recording capability** is the single largest driver of social unacceptability — more than appearance, weight, or form factor.
 - Perceived **surveillance** triggers stronger negative reactions than other wearable technologies.
 - The study proposes a predictive model for social acceptability based on device features and usage context [1].
 
-**Koelle et al. (2017)** — *"All About Acceptability? Identifying Factors for the Adoption of Data Glasses"* — conducted a **multiple-year case study (N=118)** tracking attitudes toward data glasses from 2014 to 2016. Key findings:
+**Koelle et al. (2017) [DOI: 10.1145/2785830.2785842]** — *"All About Acceptability? Identifying Factors for the Adoption of Data Glasses"* — conducted a **multiple-year case study (N=118)** tracking attitudes toward data glasses from 2014 to 2016. Key findings:
 
 - **Against expectations, there was no significant change toward more positive attitudes** over the two-year period.
 - An expert survey (N=51) found that while social acceptability is considered relevant in the short term, **utility and usability** are considered more important for long-term adoption.
 - The persistence of negative attitudes suggests that "time will normalize it" is not a reliable assumption [2].
 
-**Koelle et al. (2019)** — *"Don't Look at Me That Way! Understanding User Attitudes Towards Data Glasses Usage"* — examined bystander concerns:
+**Koelle et al. (2019) [DOI: 10.1145/3290607.3312837]** — *"Don't Look at Me That Way! Understanding User Attitudes Towards Data Glasses Usage"* — examined bystander concerns:
 
 - Bystanders expressed concerns about **covert recording**, **social awkwardness**, and **attention asymmetry** (the wearer attending to digital content rather than social interaction).
 - **Recording fears** dominate even when devices lack cameras, suggesting a **halo effect** from Google Glass's negative reputation.
@@ -39,14 +39,14 @@ Reeves et al. (2005) introduced the "spectator experience" framework distinguish
 
 ### 2.2 The Google Glass Episode
 
-**Denning et al. (2014)** — *"In Situ with Bystanders of Augmented Reality Glasses"* — conducted one of the earliest empirical studies of bystander reactions to AR glasses in public:
+**Denning et al. (2014) [DOI: 10.1145/2556288.2557352]** — *"In Situ with Bystanders of Augmented Reality Glasses"* — conducted one of the earliest empirical studies of bystander reactions to AR glasses in public:
 
 - Bystanders reported feeling **surveilled, uncomfortable, and socially violated**.
 - Even when told the device was not recording, discomfort persisted.
 - **Physical spaces** (bars, restrooms, gyms) where Glass was most objectionable mapped onto spaces where people feel most vulnerable.
 - The study documented the emergence of "Glass-free zones" in establishments [4].
 
-**Kelly & Gilbert (2018)** — analyzed the "Glasshole" phenomenon sociologically:
+**Kelly & Gilbert (2018) [DOI: 10.1177/1541931218621237]** — analyzed the "Glasshole" phenomenon sociologically:
 
 - Google Glass failed partly because it violated **Goffmanian** norms of social interaction — it disrupted the mutual accessibility of face-to-face encounters.
 - The visible camera lens on the forehead created a **persistent surveillance cue** even when not in use.
@@ -57,7 +57,7 @@ The Google Glass experience remains the most prominent case study of social acce
 
 ### 2.3 Smartglasses in Public
 
-**Kaviani et al. (2024)** — *"Exploring Social Perceptions of Everyday Smartglass Use in Australia"* — examined current attitudes:
+**Kaviani et al. (2024) [DOI: 10.1371/journal.pone.0313001]** — *"Exploring Social Perceptions of Everyday Smartglass Use in Australia"* — examined current attitudes:
 
 - Despite technological improvements since Glass, **public perception of smartglasses remains largely negative**.
 - Respondents were most concerned about **privacy invasion** and **social awkwardness**.
@@ -76,14 +76,14 @@ The Google Glass experience remains the most prominent case study of social acce
 
 ### 3.1 Profita et al. — On-Body Technology Acceptability
 
-**Profita et al. (2013)** — *"Don't Mind Me Touching My Wrist: A Case Study of Interacting with On-Body Technology in Public"* (ISWC):
+**Profita et al. (2013) [DOI: 10.1145/2493988.2494331]** — *"Don't Mind Me Touching My Wrist: A Case Study of Interacting with On-Body Technology in Public"* (ISWC):
 
 - Studied social acceptability of interacting with body-worn devices across different body locations.
 - Interactions on the **head/face** were rated as significantly **less socially acceptable** than wrist, forearm, or torso locations.
 - The face is a **socially sensitive zone** — devices there interfere with facial expression reading and eye contact.
 - Recommended that designers consider body location as a primary social acceptability factor [8].
 
-**Profita et al. (2016)** — *"The AT Effect: How Disability Affects the Perceived Social Acceptability of Head-Mounted Display Use"* (CHI):
+**Profita et al. (2016) [DOI: 10.1145/2904092.2904101]** — *"The AT Effect: How Disability Affects the Perceived Social Acceptability of Head-Mounted Display Use"* (CHI):
 
 - Compared social acceptability of HMDs when used by people with and without visible disabilities.
 - HMD use by people with visible disabilities was rated as **significantly more acceptable** — an "assistive technology effect."
@@ -96,7 +96,7 @@ In museum and exhibition contexts, HMD use occupies an interesting position:
 
 - The context provides a **social justification** (it's part of the exhibit) that may mitigate some acceptability concerns.
 - However, the **visual isolation** of the wearer from their social group (family, friends visiting together) creates tension with the inherently social nature of museum visits.
-- vom Lehn et al. (2001) showed that museum visiting is a **collaborative, social activity** — visitors constantly reference each other's reactions, point things out, and share experiences [10].
+- vom Lehn et al. (2001) [DOI: 10.1525/si.2001.24.2.189] showed that museum visiting is a **collaborative, social activity** — visitors constantly reference each other's reactions, point things out, and share experiences [10].
 
 ---
 
@@ -104,13 +104,13 @@ In museum and exhibition contexts, HMD use occupies an interesting position:
 
 ### 4.1 The Social Nature of Museum Visits
 
-**vom Lehn, Heath, & Hindmarsh (2001)** — *"Exhibiting Interaction: Conduct and Collaboration in Museums and Galleries"* — foundational work on the social dynamics of museum visiting:
+**vom Lehn, Heath, & Hindmarsh (2001) [DOI: 10.1525/si.2001.24.2.189]** — *"Exhibiting Interaction: Conduct and Collaboration in Museums and Galleries"* — foundational work on the social dynamics of museum visiting:
 
 - Museum visiting is fundamentally a **shared social experience** — visitors coordinate attention, discuss exhibits, and monitor each other's engagement.
 - Technology that **isolates** individual visitors from their group disrupts this social fabric.
 - The study documented how visitors use **peripheral awareness** of others' reactions to guide their own engagement — an HMD that blocks this awareness fundamentally alters the museum experience [10].
 
-**Heath & vom Lehn (2004)** — *"Configuring Reception: (Dis-)Regarding the 'Spectator' in Museums and Galleries"*:
+**Heath & vom Lehn (2004) [DOI: 10.1177/0263276404047415]** — *"Configuring Reception: (Dis-)Regarding the 'Spectator' in Museums and Galleries"*:
 
 - Examined how exhibit design shapes visitor behavior and social interaction.
 - Found that exhibits enabling **shared viewing** and **co-participation** generate more engagement than those requiring individual, isolated interaction.
@@ -118,7 +118,7 @@ In museum and exhibition contexts, HMD use occupies an interesting position:
 
 ### 4.2 Interactive Exhibits and Learning
 
-**Hornecker & Stifter (2006)** — *"Learning from Interactive Museum Installations About Interaction Design for Public Settings"*:
+**Hornecker & Stifter (2006) [DOI: 10.1145/1228175.1228201]** — *"Learning from Interactive Museum Installations About Interaction Design for Public Settings"*:
 
 - Studied visitor behavior at interactive installations in the Ars Electronica Center.
 - Found that successful public interactive exhibits enable **"honeypot effects"** — attracting passersby through the visible engagement of current users.
@@ -127,7 +127,7 @@ In museum and exhibition contexts, HMD use occupies an interesting position:
 
 ### 4.3 Gift-Giving and Shared Experience
 
-**Fosh et al. (2013)** — *"Gift-giving and Experiencing Interactives in Public"*:
+**Fosh et al. (2013) [DOI: 10.1145/2556288.2557259]** — *"Gift-giving and Experiencing Interactives in Public"*:
 
 - Explored how designing interactive museum experiences as "gifts" (one person creates an experience for another) enhances engagement.
 - Found that **interpersonal dynamics** are central to meaningful museum technology use.
@@ -136,7 +136,7 @@ In museum and exhibition contexts, HMD use occupies an interesting position:
 
 ### 4.4 Challenges of HMDs in Shared Spaces
 
-**Gugenheimer, Mai, McGill, Williamson et al. (2019)** — *"Challenges Using Head-Mounted Displays in Shared and Social Spaces"* (CHI EA):
+**Gugenheimer, Mai, McGill, Williamson et al. (2019) [DOI: 10.1145/3290605.3300310]** — *"Challenges Using Head-Mounted Displays in Shared and Social Spaces"* (CHI EA):
 
 - Identified key challenges of HMD use in social contexts: **social isolation, bystander discomfort, asymmetric experience, and spatial awareness loss**.
 - Proposed that future HMD design must address the **"social VR problem"** — how to maintain social presence with non-users while using an HMD.

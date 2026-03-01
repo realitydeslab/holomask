@@ -78,6 +78,6 @@ Papers on wearable device form factor design, body placement, and on-body intera
 
 ## Notes for Paper Positioning
 
-- Gemperle et al. (1998) is a canonical ISWC paper — citing it shows community awareness
+- Gemperle et al. (1998) [DOI: 10.1109/ISWC.1998.729537] is a canonical ISWC paper — citing it shows community awareness
 - Social acceptability literature (Profita et al. 2013) provides framing for why HMDs fail in transient social contexts
 - Our contribution: applying wearability principles specifically to transient MR scenarios (not general wearability)

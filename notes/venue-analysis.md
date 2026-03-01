@@ -70,7 +70,7 @@
 
 ## 4. Recent Relevant Papers in These Venues
 
-- Dhaka et al. (2024). "Exploring AR UI Transitions Across Mid-Air, On-Body and Physical Surfaces." IEEE ISMAR. — Closest technical analog; AR transition design space
+- Dhaka et al. (2024) [DOI: 10.1109/ISMAR62088.2024.00134]. "Exploring AR UI Transitions Across Mid-Air, On-Body and Physical Surfaces." IEEE ISMAR. — Closest technical analog; AR transition design space
 - Khurana, Goel, Lyons (2019). "Detachable Smartwatch." IMWUT. — Form factor adaptability for micro vs. extended interaction
 - Jannat et al. (2025). "Exploring Body-Anchored AR Interfaces Across Different Mobility and Social Contexts." IEEE ISMAR.
 - Knierim, Höck, Kosch (2025). "Wrist-Powered Touch." CHI. — Smartwatch-XR integration

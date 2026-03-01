@@ -19,7 +19,7 @@ Brignull and Rogers coined the term **"honey pot effect"** to describe how crowd
 
 This directly maps to the **attract → approach** phases of the glimpse cycle. The temporal wearing device, placed in a shared space, must overcome the same threshold: people must notice it, see others using it, and feel invited to try.
 
-### Wouters et al. (2016) — Uncovering the Honeypot Effect
+### Wouters et al. (2016) [DOI: 10.1145/2901790.2901796] — Uncovering the Honeypot Effect
 
 Extended Brignull's work with systematic study across multiple public interactive systems. Identified key factors:
 
@@ -59,7 +59,7 @@ Documented two barriers to engagement with public displays:
 
 ## 2. Threshold & Transition Frameworks
 
-### Dalsgaard & Hansen (2008) — Performing Perception
+### Dalsgaard & Hansen (2008) [DOI: 10.1145/1453152.1453156] — Performing Perception
 
 Studied how people **perform** their engagement with interactive installations. The act of approaching and beginning to interact is itself a social performance — visible to bystanders. Three stages:
 
@@ -71,7 +71,7 @@ The transition from bystander to participant involves crossing a **social thresh
 
 > Dalsgaard, P., & Hansen, L. K. (2008). Performing Perception—Staging Aesthetics of Interaction. *ACM TOCHI*, 15(3), Article 13.
 
-### Reeves et al. (2005) — Spectator Experience Taxonomy
+### Reeves et al. (2005) [DOI: 10.1145/1054972.1055074] — Spectator Experience Taxonomy
 
 Classified interactive systems along two dimensions:
 
@@ -95,7 +95,7 @@ Refined the funnel model with field observations at the Magical Mirror installat
 
 ## 3. Museum & Exhibition Studies
 
-### Serrell (1997) — Paying Attention
+### Serrell (1997) [DOI: 10.1111/j.2151-6952.1997.tb01292.x] — Paying Attention
 
 Landmark study of visitor behavior across 108 museum exhibitions. Key metrics:
 
@@ -108,13 +108,13 @@ Landmark study of visitor behavior across 108 museum exhibitions. Key metrics:
 
 **Key finding**: Most visitors spend far less time than designers expect. The median visit is about 20 minutes regardless of exhibition size. This supports the temporal wearing concept — brief, intense engagement (glimpses) rather than sustained use.
 
-### Sandifer (2003) — Technological vs. Non-Technological Exhibits
+### Sandifer (2003) [DOI: 10.1002/tea.10068] — Technological vs. Non-Technological Exhibits
 
 Found that interactive technology exhibits have **higher attracting power but lower holding power** than traditional exhibits. Visitors are drawn to them but spend less time.
 
 > Sandifer, C. (2003). Technological Novelty and Open-Endedness: Two Characteristics of Interactive Exhibits That Contribute to the Holding of Visitor Attention. *Journal of Research in Science Teaching*, 40(2), 121–137.
 
-### Bitgood (2010) — Attention and Value Model
+### Bitgood (2010) [DOI: 10.4324/9781315433455] — Attention and Value Model
 
 Proposed a three-stage model of visitor attention:
 
@@ -136,7 +136,7 @@ The temporal wearing device must communicate its affordance — that it is meant
 
 > Norman, D. A. (2013). *The Design of Everyday Things* (Revised Edition). Basic Books.
 
-### Hornecker & Buur (2006) — Tangible Interaction Framework
+### Hornecker & Buur (2006) [DOI: 10.1145/1124772.1124838] — Tangible Interaction Framework
 
 Framework for designing tangible/embodied interfaces in shared spaces. Four themes:
 
@@ -153,13 +153,13 @@ Framework for designing tangible/embodied interfaces in shared spaces. Four them
 
 ## 5. Social Acceptability of Public Device Use
 
-### Koelle et al. (2020) — Social Acceptability in HCI
+### Koelle et al. (2020) [DOI: 10.1145/3313831.3376162] — Social Acceptability in HCI
 
 Comprehensive survey of social acceptability research for wearable and mobile devices. Key finding: social acceptability depends heavily on **context**, **spectator familiarity**, and **perceived social norms**.
 
 > Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social Acceptability in HCI: A Survey of Methods, Measures, and Design Strategies. *Proc. CHI 2020*, Article 318. ACM.
 
-### Rico & Brewster (2010) — Gesture Acceptability
+### Rico & Brewster (2010) [DOI: 10.1145/1753326.1753458] — Gesture Acceptability
 
 Found that people's willingness to perform gestures in public is strongly influenced by location (private vs. public), audience (strangers vs. friends), and perceived social norms.
 
@@ -177,8 +177,8 @@ The attraction and discovery literature reveals that the **attract → approach 
 |-----------|-----------|--------------------------|
 | Device blindness | Müller et al. (2009) | Conspicuous placement, social demonstration |
 | Social threshold | Brignull & Rogers (2003) | Honey pot effect — others' use invites engagement |
-| Interaction cost | Bitgood (2010) | Brief glimpses lower commitment cost |
-| Spectator discomfort | Koelle et al. (2020) | Transient wearing reduces conspicuousness |
-| Affordance legibility | Norman (2013), Hornecker & Buur (2006) | Physical form must signal "pick up and look" |
+| Interaction cost | Bitgood (2010) [DOI: 10.4324/9781315433455] | Brief glimpses lower commitment cost |
+| Spectator discomfort | Koelle et al. (2020) [DOI: 10.1145/3313831.3376162] | Transient wearing reduces conspicuousness |
+| Affordance legibility | Norman (2013) [DOI: 10.15358/9783800648108], Hornecker & Buur (2006) [DOI: 10.1145/1124772.1124838] | Physical form must signal "pick up and look" |
 
 The key insight: **temporal wearing's brevity is an asset for attraction**. The low commitment of a "glimpse" lowers the threshold for first engagement compared to sustained HMD use. People can try without committing.

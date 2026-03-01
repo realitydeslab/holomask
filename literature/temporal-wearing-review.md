@@ -14,13 +14,13 @@ The review supports the reframing of "Just a Glimpse: Designing Seamless Transit
 
 **See:** [wearing-duration-taxonomies.md](wearing-duration-taxonomies.md)
 
-The wearable computing field has implicitly operated with a binary: devices are either *worn* or *not worn*. Duration taxonomies are surprisingly rare. Gemperle et al. (1998) defined wearability as "the interaction between the human body and the wearable object" but focused on spatial (body placement) rather than temporal dimensions. Zeagler (2017) extended this with body maps for wearable placement, again primarily spatial.
+The wearable computing field has implicitly operated with a binary: devices are either *worn* or *not worn*. Duration taxonomies are surprisingly rare. Gemperle et al. (1998) [DOI: 10.1109/ISWC.1998.729537] defined wearability as "the interaction between the human body and the wearable object" but focused on spatial (body placement) rather than temporal dimensions. Zeagler (2017) [DOI: 10.1145/3123021.3123042] extended this with body maps for wearable placement, again primarily spatial.
 
 **Key gap:** No existing taxonomy explicitly categorizes wearables by *intended wearing duration* as a primary design variable. The closest work includes:
 
-- **Khurana et al. (2019)** — "Detachable smartwatch" (IMWUT) explores mode-switching between attached and detached states, implicitly acknowledging temporal variation in wearing
-- **Starner (2001)** — "The challenges of wearable computing" distinguishes always-available vs. task-specific wearables but doesn't formalize duration
-- **Knight et al. (2006)** — Comfort assessment framework mentions donning/doffing but as usability concern, not interaction paradigm
+- **Khurana et al. (2019) [DOI: 10.1145/3328913]** — "Detachable smartwatch" (IMWUT) explores mode-switching between attached and detached states, implicitly acknowledging temporal variation in wearing
+- **Starner (2001) [DOI: 10.1109/40.946681]** — "The challenges of wearable computing" distinguishes always-available vs. task-specific wearables but doesn't formalize duration
+- **Knight et al. (2006) [DOI: 10.1109/ISWC.2002.1167220]** — Comfort assessment framework mentions donning/doffing but as usability concern, not interaction paradigm
 
 **Our proposed taxonomy:**
 
@@ -53,10 +53,10 @@ Temporal wearing is fundamentally about *transition* — the liminal moment betw
 
 A critical advantage of temporal wearing is reduced social stigma compared to permanent HMD use:
 
-- **Koelle et al. (2020)** — "Social Acceptability in HCI: A Survey of Methods, Measures, and Design Strategies" (CHI 2020). Comprehensive survey establishing that social acceptability depends on context, duration, and visibility of device use.
-- **Koelle et al. (2017)** — "All about Acceptability? Identifying Factors for the Adoption of Data Glasses" (ISWC 2017). Shows that even familiarization doesn't fully overcome negative attitudes toward always-worn data glasses.
-- **Profita et al. (2013)** — "Don't Mind Me Touching My Wrist" (ISWC 2013). On-body interaction in public; body location affects perceived social acceptability.
-- **Profita et al. (2016)** — "The AT Effect" (CHI 2016). Disability context affects perceived acceptability of HMD use.
+- **Koelle et al. (2020) [DOI: 10.1145/3313831.3376162]** — "Social Acceptability in HCI: A Survey of Methods, Measures, and Design Strategies" (CHI 2020). Comprehensive survey establishing that social acceptability depends on context, duration, and visibility of device use.
+- **Koelle et al. (2017) [DOI: 10.1145/2785830.2785842]** — "All about Acceptability? Identifying Factors for the Adoption of Data Glasses" (ISWC 2017). Shows that even familiarization doesn't fully overcome negative attitudes toward always-worn data glasses.
+- **Profita et al. (2013) [DOI: 10.1145/2493988.2494331]** — "Don't Mind Me Touching My Wrist" (ISWC 2013). On-body interaction in public; body location affects perceived social acceptability.
+- **Profita et al. (2016) [DOI: 10.1145/2904092.2904101]** — "The AT Effect" (CHI 2016). Disability context affects perceived acceptability of HMD use.
 
 **Key argument for temporal wearing:** If social acceptability is inversely related to wearing duration and visibility, then temporal wearing (seconds-long, purpose-clear, socially readable) may represent an optimal point on the acceptability curve.
 
@@ -66,11 +66,11 @@ A critical advantage of temporal wearing is reduced social stigma compared to pe
 
 **See:** [wearing-duration-taxonomies.md](wearing-duration-taxonomies.md) (Section 3)
 
-Gemperle et al. (1998) established 13 design guidelines for wearability at ISWC, organized around body placement. Through a temporal lens:
+Gemperle et al. (1998) [DOI: 10.1109/ISWC.1998.729537] established 13 design guidelines for wearability at ISWC, organized around body placement. Through a temporal lens:
 
 - **Placement affects transition speed:** Wrist (fast don/doff) vs. head (slow, socially conspicuous) vs. neck-hung (instant raise-to-eyes)
-- **Zeagler (2017)** — "Where to Wear It" (ISWC 2017). Body maps for wearable placement considering functional, technical, and social factors.
-- **Park et al. (2019)** — Acceptable form factors vary by body area; weight and contact area thresholds differ by placement.
+- **Zeagler (2017) [DOI: 10.1145/3123021.3123042]** — "Where to Wear It" (ISWC 2017). Body maps for wearable placement considering functional, technical, and social factors.
+- **Park et al. (2019) [DOI: 10.1080/00140139.2019.1652351]** — Acceptable form factors vary by body area; weight and contact area thresholds differ by placement.
 
 **Novel contribution:** Reframing Gemperle's spatial framework with a temporal axis reveals that *different body placements enable different temporal modalities of wearing*.
 
@@ -82,8 +82,8 @@ Gemperle et al. (1998) established 13 design guidelines for wearability at ISWC,
 
 Real-world instances of temporal wearing already exist in exhibition and museum contexts but have not been theorized as such:
 
-- **vom Lehn et al. (2001)** — Social nature of museum encounters; visitors' interactions are brief, shared, and performative
-- **Li et al. (2024)** — Visitors' Acceptance of Wearable AR Technology in Museums (SAGE Open)
+- **vom Lehn et al. (2001) [DOI: 10.1525/si.2001.24.2.189]** — Social nature of museum encounters; visitors' interactions are brief, shared, and performative
+- **Li et al. (2024) [DOI: 10.1177/21582440241303507]** — Visitors' Acceptance of Wearable AR Technology in Museums (SAGE Open)
 - **Museum AR guides** — Various deployments represent de facto temporal wearing
 - **Pop-up VR experiences** — Exhibition VR stations where visitors briefly don a headset
 
@@ -93,8 +93,8 @@ Real-world instances of temporal wearing already exist in exhibition and museum 
 
 **See:** [theoretical-foundations.md](theoretical-foundations.md)
 
-- **Weiser & Brown (1996)** — Calm technology shifts information between center and periphery. Temporal wearing shifts the *device itself*.
-- **Bakker et al. (2015)** — Peripheral interaction framework. Temporal wearing creates a deliberate shift from peripheral to focal attention through physical device engagement.
+- **Weiser & Brown (1996) [DOI: 10.1007/978-1-4612-0685-9_6]** — Calm technology shifts information between center and periphery. Temporal wearing shifts the *device itself*.
+- **Bakker et al. (2015) [DOI: 10.1007/s00779-014-0775-2]** — Peripheral interaction framework. Temporal wearing creates a deliberate shift from peripheral to focal attention through physical device engagement.
 
 ---
 
