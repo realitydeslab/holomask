@@ -9,22 +9,22 @@ What methodologies UbiComp/IMWUT and ISWC accept, with examples.
 ### 1. System Papers with User Studies
 The most common format in IMWUT. Implement a working system, conduct controlled lab study or deployment, report both system performance and user experience.
 
-**Example:** Khurana, R., Goel, M., & Lyons, K. (2019). "Detachable Smartwatch." *IMWUT 3(3).* — Prototype + user interviews + application demonstrations.
+**Example:** Khurana, R., Goel, M., & Lyons, K. (2019). "Detachable Smartwatch." *IMWUT 3(3).* [DOI: 10.1145/3328921] — Prototype + user interviews + application demonstrations.
 
 ### 2. In-the-Wild Deployments
 Highly valued in UbiComp. Deploy a system with real users in real contexts over extended time.
 
-**Example:** Visuri, A., Sarsenbayeva, Z., van Berkel, N., Goncalves, J., Rawassizadeh, R., Kostakos, V., & Ferreira, D. (2017). "Quantifying Sources and Types of Smartwatch Usage Sessions." *CHI 2017.* — Longitudinal smartwatch usage logging.
+**Example:** Visuri, A., Sarsenbayeva, Z., van Berkel, N., Goncalves, J., Rawassizadeh, R., Kostakos, V., & Ferreira, D. (2017). "Quantifying Sources and Types of Smartwatch Usage Sessions." *CHI 2017.* [DOI: 10.1145/3025453.3025817] — Longitudinal smartwatch usage logging.
 
 ### 3. Large-Scale Behavioral Studies
 Using sensing, logging, or surveys at scale (N > 100).
 
-**Example:** Sahami Shirazi, A. et al. (2014). "Large-Scale Assessment of Mobile Notifications." *CHI 2014.* — 30K+ notification events.
+**Example:** Sahami Shirazi, A. et al. (2014). "Large-Scale Assessment of Mobile Notifications." *CHI 2014.* [DOI: 10.1145/2556288.2557189] — 30K+ notification events.
 
 ### 4. Design Explorations with Evaluation
 RtD or design-led work paired with empirical grounding — especially in IMWUT where pure RtD is less common than at DIS.
 
-**Example:** Dunne, L.E., & Smyth, B. (2007). "Psychophysical Elements of Wearability." *CHI 2007.* — Design framework + participant evaluation.
+**Example:** Dunne, L.E., & Smyth, B. (2007). "Psychophysical Elements of Wearability." *CHI 2007.* [DOI: 10.1145/1240624.1240674] — Design framework + participant evaluation.
 
 ### 5. ISWC Design Track (most relevant for this paper)
 ISWC explicitly accepts:
@@ -36,8 +36,8 @@ ISWC explicitly accepts:
 This track does NOT require quantitative user studies. Expert evaluation, designer reflection, and annotated portfolio methods are acceptable.
 
 **Key ISWC papers using design methods:**
-- Gemperle, F. et al. (1998). "Design for Wearability." *ISWC 1998.* — Design principles paper, no formal user study.
-- Dunne, L.E. (2010). "The Hidden Machine: Wearable Technology and the Body." *ISWC 2010.* — Design critique/provocation.
+- Gemperle, F. et al. (1998). "Design for Wearability." *ISWC 1998.* [DOI: 10.1109/iswc.1998.729537] — Design principles paper, no formal user study.
+- Dunne, L.E. (2010). "The Hidden Machine: Wearable Technology and the Body." *ISWC 2010.* [UNVERIFIED] — Design critique/provocation.
 
 ---
 

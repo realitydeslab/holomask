@@ -8,7 +8,7 @@ Papers on wearable device form factor design, body placement, and on-body intera
 
 ### 1. Lyons, K., Nguyen, D., Ashbrook, D., & White, S. (2012)
 **"Facet: A Multi-Segment Wrist Worn System"**
-*ACM UIST 2012*
+*ACM UIST 2012* [DOI: 10.1145/2380116.2380134]
 
 **Key contribution:** Explores multi-faceted wrist-worn display that wraps around the wrist, offering different information on different faces depending on viewing angle. Shows body placement affects information visibility and social reading.
 
@@ -18,7 +18,7 @@ Papers on wearable device form factor design, body placement, and on-body intera
 
 ### 2. Profita, H., Clawson, J., Gilliland, S., Zeagler, C., Starner, T., Budd, J., & Do, E.Y. (2013)
 **"Don't Mind Me Touching My Wrist: A Case Study of Interacting with On-Body Technology in Public"**
-*ISWC 2013*
+*ISWC 2013* [DOI: 10.1145/2493988.2494331]
 
 **Key contribution:** Field study investigating social acceptability of touching/interacting with wrist-worn devices in public. Finds location on body and interaction gesture strongly affect perceived social acceptability.
 
@@ -28,7 +28,7 @@ Papers on wearable device form factor design, body placement, and on-body intera
 
 ### 3. Mistry, P., & Maes, P. (2009)
 **"SixthSense: A Wearable Gestural Interface"**
-*ACM SIGGRAPH Asia 2009*
+*ACM SIGGRAPH Asia 2009* [DOI: 10.1145/1667146.1667160]
 
 **Key contribution:** Neck-worn projector+camera system enabling gestural AR interaction on any surface. Demonstrates the neck as a practical mounting point for MR devices.
 
@@ -38,7 +38,7 @@ Papers on wearable device form factor design, body placement, and on-body intera
 
 ### 4. Hoang, T., Velloso, E., Pham, T., Tag, B., Capurro, M., & Vetere, F. (2016)
 **"Augmented Reality on Smart Glasses"**
-*ACM IMWUT / UbiComp 2016*
+*ACM IMWUT / UbiComp 2016* [UNVERIFIED]
 
 **Key contribution:** Comparative study of AR on smartglasses vs. smartphone in naturalistic settings, examining social acceptability, cognitive load, and task performance.
 
@@ -48,7 +48,7 @@ Papers on wearable device form factor design, body placement, and on-body intera
 
 ### 5. Starner, T., Mann, S., Rhodes, B., Levine, J., Healey, J., Kirsh, D., Picard, R., & Pentland, A. (1997)
 **"Augmented Reality Through Wearable Computing"**
-*Presence: Teleoperators and Virtual Environments 6(4)*
+*Presence: Teleoperators and Virtual Environments 6(4)* [DOI: 10.1162/pres.1997.6.4.386]
 
 **Key contribution:** Early vision of wearable AR where computation is always-available and always-on. Argues for head-worn displays as the ideal form.
 
@@ -58,7 +58,7 @@ Papers on wearable device form factor design, body placement, and on-body intera
 
 ### 6. Dunne, L.E., & Smyth, B. (2007)
 **"Psychophysical Elements of Wearability"**
-*ACM CHI 2007*
+*ACM CHI 2007* [DOI: 10.1145/1240624.1240674]
 
 **Key contribution:** Framework for wearability considering physical comfort, psychological comfort (social acceptability), and task performance. Argues these must be balanced in wearable design.
 
@@ -68,7 +68,7 @@ Papers on wearable device form factor design, body placement, and on-body intera
 
 ### 7. Gemperle, F., Kasabach, C., Stivoric, J., Bauer, M., & Martin, R. (1998)
 **"Design for Wearability"**
-*ISWC 1998*
+*ISWC 1998* [DOI: 10.1109/iswc.1998.729537]
 
 **Key contribution:** Landmark ISWC paper establishing design principles for wearable placement — covering body movement, balance, weight, aesthetics, and activity zones.
 

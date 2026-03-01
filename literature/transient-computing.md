@@ -8,7 +8,7 @@ Papers on transient/ephemeral computing, micro-interactions, and brief device en
 
 ### 1. Lyons, K. (2015)
 **"Approaches to Wearable Computing"**
-*IEEE Pervasive Computing 14(3)*
+*IEEE Pervasive Computing 14(3)* [UNVERIFIED]
 
 **Key contribution:** Categorizes wearable interaction modes along a continuum from always-on passive sensing to active interaction. Identifies "glanceable" interactions as a distinct mode distinct from both ambient and extended.
 
@@ -18,7 +18,7 @@ Papers on transient/ephemeral computing, micro-interactions, and brief device en
 
 ### 2. Ashbrook, D., & Starner, T. (2010)
 **"MAGIC: A Motion Gesture Design Tool"**
-*ACM CHI 2010*
+*ACM CHI 2010* [DOI: 10.1145/1753326.1753653]
 
 **Key contribution:** Designed quick gestural shortcuts for wearables that minimize the time and attention needed to invoke computation — optimized for brief, purposeful interaction episodes.
 
@@ -28,7 +28,7 @@ Papers on transient/ephemeral computing, micro-interactions, and brief device en
 
 ### 3. Sahami Shirazi, A., Henze, N., Dingler, T., Pielot, M., Weber, D., & Schmidt, A. (2014)
 **"Large-Scale Assessment of Mobile Notifications"**
-*ACM CHI 2014*
+*ACM CHI 2014* [DOI: 10.1145/2556288.2557189]
 
 **Key contribution:** Field study of notification interaction patterns showing most mobile interactions are extremely brief (< 10 seconds) and often context-dependent.
 
@@ -36,9 +36,9 @@ Papers on transient/ephemeral computing, micro-interactions, and brief device en
 
 ---
 
-### 4. Pielot, M., Church, K., & de Oliveira, R. (2012)
+### 4. Pielot, M., Church, K., & de Oliveira, R. (2014)
 **"An In-Situ Study of Mobile Phone Notifications"**
-*MobileHCI 2012*
+*MobileHCI 2014* [DOI: 10.1145/2628363.2628364]
 
 **Key contribution:** Naturalistic study of notification handling — how and when users respond to notifications. Identifies "transient attention" as the dominant mode of mobile engagement.
 
@@ -48,7 +48,7 @@ Papers on transient/ephemeral computing, micro-interactions, and brief device en
 
 ### 5. Matthews, T., Rattenbury, T., & Carter, S. (2007)
 **"Defining, Designing, and Evaluating Peripheral Displays: An Analysis Using Activity Theory"**
-*Human–Computer Interaction 22(1-2)*
+*Human–Computer Interaction 22(1-2)* [DOI: 10.1080/07370020701307997]
 
 **Key contribution:** Framework for peripheral/ambient displays — distinguishing between notification level, comprehension level, and task integration level.
 
@@ -58,7 +58,7 @@ Papers on transient/ephemeral computing, micro-interactions, and brief device en
 
 ### 6. Harrison, C., Amento, B., Kuznetsov, S., & Bell, R. (2007)
 **"Rethinking the Progress Bar"**
-*ACM UIST 2007*
+*ACM UIST 2007* [DOI: 10.1145/1294211.1294231]
 
 **Key contribution:** Small study showing how micro-interaction design choices (e.g., animation style) affect perceived wait time — demonstrating that even transient interactions have significant experiential weight.
 
@@ -68,7 +68,7 @@ Papers on transient/ephemeral computing, micro-interactions, and brief device en
 
 ### 7. Weiser, M., & Brown, J.S. (1996)
 **"Designing Calm Technology"**
-*PowerGrid Journal 1(1)*
+*PowerGrid Journal 1(1)* [DOI: 10.1007/978-1-4612-0685-9_6]
 
 **Key contribution:** Defines calm technology — tech that moves between periphery and center of attention. Identifies glanceability and seamless attention management as core design values.
 
