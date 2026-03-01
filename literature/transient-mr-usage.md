@@ -34,7 +34,7 @@ Trade shows represent another massive context for transient MR. At events like C
 Classroom MR deployments are overwhelmingly brief:
 
 - Freina & Ott (2015) [DOI: 10.12753/2066-026x-15-020] surveyed VR in education, finding most sessions are **5–15 minutes** within a larger lesson structure [11].
-- Kamińska et al. (2019) reviewed VR in education and noted that recommended session lengths for K-12 are **under 10 minutes** due to simulator sickness concerns and pedagogical framing [12].
+- Kamińska et al. (2019) [DOI: 10.3390/info10100318] reviewed VR in education and noted that recommended session lengths for K-12 are **under 10 minutes** due to simulator sickness concerns and pedagogical framing [12].
 - Google Expeditions (2015–2021), one of the largest educational VR deployments, designed sessions around **3–5 minute "expeditions"** using Cardboard headsets [13].
 
 ### 1.4 Pop-Up and Event Installations
@@ -58,7 +58,7 @@ Current HMD design paradigms assume sustained use of **30 minutes or more**:
 - **Comfort engineering**: Meta Quest Pro's weight distribution, facial interface padding, and counterbalance systems are optimized for 1–2 hour sessions. Apple Vision Pro weighs 600–650g and includes a dual-strap system designed for extended wear.
 - **Thermal management**: Active cooling systems (fans, heat pipes) in devices like Quest Pro and Vision Pro are engineered for sustained computational loads over 30+ minutes.
 - **Battery life**: Vision Pro's external battery provides ~2 hours; Quest 3 provides ~2.2 hours. These specifications reveal the assumed minimum session duration.
-- **Ergonomic research**: Comfort studies (e.g., Yan et al., 2019; Pöhlmann et al., 2023) typically evaluate discomfort curves over 30–60 minute sessions, reflecting the expected use paradigm.
+- **Ergonomic research**: Comfort studies (e.g., Yan et al., 2019 [UNVERIFIED]; Pöhlmann et al., 2023 [UNVERIFIED]) typically evaluate discomfort curves over 30–60 minute sessions, reflecting the expected use paradigm.
 
 ### 2.2 Setup Overhead Is Disproportionate for Brief Use
 
@@ -79,7 +79,7 @@ The sharing of HMDs in public contexts raises significant hygiene concerns, ampl
 
 - **Facial interfaces** make direct contact with skin around eyes, nose, and forehead — areas with high microbial load.
 - Varjo (2020) published detailed COVID-safe HMD usage guidelines, recommending sanitization of headset body, face cushion, light blocker, and nose area before and after **each session** [14].
-- Post-COVID, many museums **abandoned shared HMD experiences** entirely, shifting to tablet-based AR or personal device experiences (Shehade & Stylianou-Lambert, 2020) [15].
+- Post-COVID, many museums **abandoned shared HMD experiences** entirely, shifting to tablet-based AR or personal device experiences (Shehade & Stylianou-Lambert, 2020 [DOI: 10.3390/app10114031]) [15].
 - Disposable hygiene covers add **cost ($0.50–2.00 per use)** and environmental waste, plus additional setup time.
 
 ### 2.4 The Mismatch in Numbers
@@ -113,7 +113,7 @@ Based on the evidence above, MR devices designed for transient encounters would 
 ### 3.2 Existing Precedents
 
 - **Google Cardboard** (2014) — disposable, no straps needed for brief use, but VR-only and low quality.
-- **HoloKit** (Hu et al., 2023) — open-source stereoscopic AR viewer, cardboard-based, designed for accessibility and brief encounters.
+- **HoloKit** (Hu et al., 2024 [DOI: 10.1145/3675094.3677549]) — open-source stereoscopic AR viewer, cardboard-based, designed for accessibility and brief encounters.
 - **Museum handheld AR** — iPad/tablet-based AR avoids HMD entirely but loses stereoscopy and hands-free operation.
 - **View-Master VR** (Mattel, 2015) — toy-grade viewer for brief VR glimpses, suggesting consumer intuition that VR can be transient.
 
@@ -125,32 +125,32 @@ The gap between sustained-use HMDs and throwaway viewers defines a **design spac
 
 ## References
 
-[1] Li, J., Wider, W., Ochiai, Y., & Fauzi, M. A. (2023). A bibliometric analysis of immersive technology in museum exhibitions: Exploring user experience. *Frontiers in Virtual Reality*, 4, 1240562.
+[1] Li, J., Wider, W., Ochiai, Y., & Fauzi, M. A. (2023). A bibliometric analysis of immersive technology in museum exhibitions: Exploring user experience. *Frontiers in Virtual Reality*, 4, 1240562. [DOI: 10.3389/frvir.2023.1240562]
 
-[2] Dataintelo. (2025). Virtual Reality Museum Market Research Report 2033.
+[2] Dataintelo. (2025). Virtual Reality Museum Market Research Report 2033. [URL: https://dataintelo.com/report/global-vr-museum-market]
 
-[3] Museum of London. (2010). Streetmuseum AR application.
+[3] Museum of London. (2010). Streetmuseum AR application. [UNVERIFIED]
 
-[4] Smithsonian Institution. (2015). Skin & Bones AR experience.
+[4] Smithsonian Institution. (2015). Skin & Bones AR experience. [URL: https://naturalhistory.si.edu/exhibits/bone-hall]
 
-[5] Louvre Abu Dhabi. (2019). AR-guided tour experience.
+[5] Louvre Abu Dhabi. (2019). AR-guided tour experience. [UNVERIFIED]
 
-[6] British Museum & Samsung. (2015). Bronze Age Virtual Reality Experience.
+[6] British Museum & Samsung. (2015). Bronze Age Virtual Reality Experience. [URL: https://www.britishmuseum.org/blog/virtual-reality-british-museum]
 
-[7] teamLab. (2016). Story of the Forest, National Museum of Singapore.
+[7] teamLab. (2016). Story of the Forest, National Museum of Singapore. [URL: https://www.teamlab.art/w/story-of-the-forest/]
 
-[8] Cleveland Museum of Art. (2017). ArtLens Gallery interactive experiences.
+[8] Cleveland Museum of Art. (2017). ArtLens Gallery interactive experiences. [URL: https://www.clevelandart.org/artlens-gallery]
 
-[9] He, Y., & Wang, W. (2025). Factors influencing visitors' use of augmented reality technology in museum guided tours. *PLoS One*, 20(10), e0332688.
+[9] He, Y., & Wang, W. (2025). Factors influencing visitors' use of augmented reality technology in museum guided tours. *PLoS One*, 20(10), e0332688. [DOI: 10.1371/journal.pone.0332688]
 
-[10] Popovici, D. M., et al. (2022). Augmented reality in cultural heritage: An overview of the last decade of applications. *Applied Sciences*, 12(19), 9859.
+[10] Popovici, D. M., et al. (2022). Augmented reality in cultural heritage: An overview of the last decade of applications. *Applied Sciences*, 12(19), 9859. [DOI: 10.3390/app12199859]
 
-[11] Freina, L., & Ott, M. (2015). A literature review on immersive virtual reality in education. *Proc. eLearning and Software for Education*, 1, 133–141.
+[11] Freina, L., & Ott, M. (2015). A literature review on immersive virtual reality in education. *Proc. eLearning and Software for Education*, 1, 133–141. [DOI: 10.12753/2066-026x-15-020]
 
-[12] Kamińska, D., et al. (2019). Virtual reality and its applications in education: Survey. *Information*, 10(10), 318.
+[12] Kamińska, D., et al. (2019). Virtual reality and its applications in education: Survey. *Information*, 10(10), 318. [DOI: 10.3390/info10100318]
 
-[13] Google. (2015–2021). Google Expeditions program documentation.
+[13] Google. (2015–2021). Google Expeditions program documentation. [URL: https://edu.google.com/products/vr-ar/expeditions/]
 
-[14] Varjo. (2020). Top Tips for COVID-Safe and Hygienic Use of VR and XR Headsets.
+[14] Varjo. (2020). Top Tips for COVID-Safe and Hygienic Use of VR and XR Headsets. [URL: https://varjo.com/blog/top-tips-for-covid-safe-and-hygienic-use-of-vr-and-xr-headsets/]
 
-[15] Shehade, M., & Stylianou-Lambert, T. (2020). Virtual reality in museums: Exploring the experiences of museum professionals. *Applied Sciences*, 10(11), 4031.
+[15] Shehade, M., & Stylianou-Lambert, T. (2020). Virtual reality in museums: Exploring the experiences of museum professionals. *Applied Sciences*, 10(11), 4031. [DOI: 10.3390/app10114031]

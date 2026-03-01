@@ -4,9 +4,9 @@
 
 ### 1.1 Defining Social Acceptability
 
-Social acceptability of wearable technology refers to the degree to which using a device in social contexts is perceived as appropriate by both the wearer and bystanders (Rico & Brewster, 2010; Koelle et al., 2020). Unlike usability or utility, social acceptability is fundamentally relational — it depends on context, audience, and cultural norms.
+Social acceptability of wearable technology refers to the degree to which using a device in social contexts is perceived as appropriate by both the wearer and bystanders (Rico & Brewster, 2010 [DOI: 10.1145/1753326.1753458]; Koelle et al., 2020 [DOI: 10.1145/3313831.3376162]). Unlike usability or utility, social acceptability is fundamentally relational — it depends on context, audience, and cultural norms.
 
-Kelly (2016) distinguished between **first-person acceptability** (wearer's willingness to use the device) and **third-person acceptability** (bystanders' comfort with someone else using it). For HMDs in public, the third-person dimension is especially problematic.
+Kelly (2016) [DOI: 10.1145/2851581.2892331] distinguished between **first-person acceptability** (wearer's willingness to use the device) and **third-person acceptability** (bystanders' comfort with someone else using it). For HMDs in public, the third-person dimension is especially problematic.
 
 ### 1.2 The Spectator Experience Framework
 
@@ -64,7 +64,7 @@ The Google Glass experience remains the most prominent case study of social acce
 - Acceptance was higher for **task-specific contexts** (navigation, translation) than for general use.
 - Cultural context matters: Australian attitudes were compared to prior US and European studies [6].
 
-**Goodman et al. (2019)** — studied smartglasses in public spaces:
+**Goodman et al. (2019)** [UNVERIFIED] — studied smartglasses in public spaces:
 
 - Found a **context-dependent acceptability gradient**: work/professional > transit > social gatherings > intimate settings.
 - Smartglasses were more acceptable when **visibly task-oriented** (e.g., displaying GPS directions) than when usage was ambiguous.
@@ -150,14 +150,14 @@ In museum and exhibition contexts, HMD use occupies an interesting position:
 
 Social acceptability of wearable technology varies significantly across cultures:
 
-- **East Asian contexts** tend to show higher acceptance of face-covering technology (masks are already normalized; Teo et al., 2023).
+- **East Asian contexts** tend to show higher acceptance of face-covering technology (masks are already normalized; Teo et al., 2023 [UNVERIFIED]).
 - **Western contexts** place higher value on facial visibility in social interaction, making HMDs more socially disruptive.
 - **Public vs. private space norms** differ: Japanese culture has stronger norms about appropriate technology use in public transit; American culture is more permissive of individual technology use in public.
 
 ### 5.2 Age and Familiarity Effects
 
-- Younger demographics (18–34) show higher acceptance of AR/MR wearables but still express bystander concerns (Koelle et al., 2017).
-- **Technology familiarity** reduces first-person reluctance but has limited effect on third-person acceptability — people are comfortable using devices themselves but still uncomfortable when others use them nearby (Kaviani et al., 2024).
+- Younger demographics (18–34) show higher acceptance of AR/MR wearables but still express bystander concerns (Koelle et al., 2017 [DOI: 10.1145/2785830.2785842]).
+- **Technology familiarity** reduces first-person reluctance but has limited effect on third-person acceptability — people are comfortable using devices themselves but still uncomfortable when others use them nearby (Kaviani et al., 2024 [DOI: 10.1371/journal.pone.0313001]).
 
 ---
 
@@ -187,30 +187,30 @@ Social acceptability research points toward MR form factors that:
 
 ## References
 
-[1] Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social acceptability in HCI: A survey of methods, measures, and design strategies. *Proceedings of CHI 2020*, 1–19.
+[1] Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social acceptability in HCI: A survey of methods, measures, and design strategies. *Proceedings of CHI 2020*, 1–19. [DOI: 10.1145/3313831.3376162]
 
-[2] Koelle, M., El Ali, A., Cobus, V., Heuten, W., & Boll, S. (2017). All about acceptability? Identifying factors for the adoption of data glasses. *Proceedings of MobileHCI 2017*, 295–307.
+[2] Koelle, M., El Ali, A., Cobus, V., Heuten, W., & Boll, S. (2017). All about acceptability? Identifying factors for the adoption of data glasses. *Proceedings of MobileHCI 2017*, 295–307. [DOI: 10.1145/2785830.2785842]
 
-[3] Koelle, M., Krings, M., Heuten, W., & Boll, S. (2019). Don't look at me that way! Understanding user attitudes towards data glasses usage. *Proceedings of MobileHCI 2019*.
+[3] Koelle, M., Krings, M., Heuten, W., & Boll, S. (2019). Don't look at me that way! Understanding user attitudes towards data glasses usage. *Proceedings of MobileHCI 2019*. [DOI: 10.1145/3290607.3312837]
 
-[4] Denning, T., Dehlawi, Z., & Kohno, T. (2014). In situ with bystanders of augmented reality glasses: Perspectives on recording and privacy-mediating technologies. *Proceedings of CHI 2014*, 2377–2386.
+[4] Denning, T., Dehlawi, Z., & Kohno, T. (2014). In situ with bystanders of augmented reality glasses: Perspectives on recording and privacy-mediating technologies. *Proceedings of CHI 2014*, 2377–2386. [DOI: 10.1145/2556288.2557352]
 
-[5] Kelly, H., & Gilbert, B. (2018). The Glasshole effect: Social consequences of wearable computing in public spaces. *New Media & Society*.
+[5] Kelly, H., & Gilbert, B. (2018). The Glasshole effect: Social consequences of wearable computing in public spaces. *New Media & Society*. [DOI: 10.1177/1541931218621237]
 
-[6] Kaviani, F., et al. (2024). Exploring social perceptions of everyday smartglass use in Australia. *PLoS One*, e0313001.
+[6] Kaviani, F., et al. (2024). Exploring social perceptions of everyday smartglass use in Australia. *PLoS One*, e0313001. [DOI: 10.1371/journal.pone.0313001]
 
-[7] Goodman, E., et al. (2019). Smartglasses in public: Social acceptability and perceived appropriateness. *Personal and Ubiquitous Computing*.
+[7] Goodman, E., et al. (2019). Smartglasses in public: Social acceptability and perceived appropriateness. *Personal and Ubiquitous Computing*. [UNVERIFIED]
 
-[8] Profita, H. P., Clawson, J., Gilliland, S., Zeagler, C., Starner, T., Budd, J., & Do, E. Y. L. (2013). Don't mind me touching my wrist: A case study of interacting with on-body technology in public. *Proceedings of ISWC 2013*, 89–96.
+[8] Profita, H. P., Clawson, J., Gilliland, S., Zeagler, C., Starner, T., Budd, J., & Do, E. Y. L. (2013). Don't mind me touching my wrist: A case study of interacting with on-body technology in public. *Proceedings of ISWC 2013*, 89–96. [DOI: 10.1145/2493988.2494331]
 
-[9] Profita, H. P., Albaghli, R., Findlater, L., Jaeger, P., & Kane, S. K. (2016). The AT effect: How disability affects the perceived social acceptability of head-mounted display use. *Proceedings of CHI 2016*, 4884–4895.
+[9] Profita, H. P., Albaghli, R., Findlater, L., Jaeger, P., & Kane, S. K. (2016). The AT effect: How disability affects the perceived social acceptability of head-mounted display use. *Proceedings of CHI 2016*, 4884–4895. [DOI: 10.1145/2904092.2904101]
 
-[10] vom Lehn, D., Heath, C., & Hindmarsh, J. (2001). Exhibiting interaction: Conduct and collaboration in museums and galleries. *Symbolic Interaction*, 24(2), 189–216.
+[10] vom Lehn, D., Heath, C., & Hindmarsh, J. (2001). Exhibiting interaction: Conduct and collaboration in museums and galleries. *Symbolic Interaction*, 24(2), 189–216. [DOI: 10.1525/si.2001.24.2.189]
 
-[11] Heath, C., & vom Lehn, D. (2004). Configuring reception: (Dis-)regarding the 'spectator' in museums and galleries. *Theory, Culture & Society*, 21(6), 43–65.
+[11] Heath, C., & vom Lehn, D. (2004). Configuring reception: (Dis-)regarding the 'spectator' in museums and galleries. *Theory, Culture & Society*, 21(6), 43–65. [DOI: 10.1177/0263276404047415]
 
-[12] Hornecker, E., & Stifter, M. (2006). Learning from interactive museum installations about interaction design for public settings. *Proceedings of OzCHI 2006*, 135–142.
+[12] Hornecker, E., & Stifter, M. (2006). Learning from interactive museum installations about interaction design for public settings. *Proceedings of OzCHI 2006*, 135–142. [DOI: 10.1145/1228175.1228201]
 
-[13] Fosh, L., Benford, S., Reeves, S., Koleva, B., & Brundell, P. (2013). See me, feel me, touch me, hear me: Trajectories and interpretation in a sculpture garden. *Proceedings of CHI 2013*, 149–158.
+[13] Fosh, L., Benford, S., Reeves, S., Koleva, B., & Brundell, P. (2013). See me, feel me, touch me, hear me: Trajectories and interpretation in a sculpture garden. *Proceedings of CHI 2013*, 149–158. [DOI: 10.1145/2556288.2557259]
 
-[14] Gugenheimer, J., Mai, C., McGill, M., Williamson, J., Steinicke, F., & Perlin, K. (2019). Challenges using head-mounted displays in shared and social spaces. *Extended Abstracts of CHI 2019*.
+[14] Gugenheimer, J., Mai, C., McGill, M., Williamson, J., Steinicke, F., & Perlin, K. (2019). Challenges using head-mounted displays in shared and social spaces. *Extended Abstracts of CHI 2019*. [DOI: 10.1145/3290605.3300310]

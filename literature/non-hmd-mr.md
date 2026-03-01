@@ -8,7 +8,7 @@ Papers on handheld AR, projection-based MR, and alternative MR form factors.
 
 ### 1. Rekimoto, J. (1997)
 **"NaviCam: A Magnification Lens for Video-Based Augmented Reality"**
-*ACM CHI 1997*
+*ACM CHI 1997* [DOI: 10.1162/pres.1997.6.4.399]
 
 **Key contribution:** Handheld camera-based AR interface using the "magic lens" metaphor. One of the earliest handheld AR systems. Users hold a device to reveal digital overlays on physical objects.
 
@@ -18,7 +18,7 @@ Papers on handheld AR, projection-based MR, and alternative MR form factors.
 
 ### 2. Azuma, R. (1997)
 **"A Survey of Augmented Reality"**
-*Presence: Teleoperators and Virtual Environments 6(4)*
+*Presence: Teleoperators and Virtual Environments 6(4)* [DOI: 10.1162/pres.1997.6.4.355]
 
 **Key contribution:** Seminal survey defining AR as real-time, interactive, and 3D-registered. Classifies display modalities: HMD, handheld, and projection-based.
 
@@ -28,7 +28,7 @@ Papers on handheld AR, projection-based MR, and alternative MR form factors.
 
 ### 3. Raskar, R., Welch, G., Cutts, M., Lake, A., Stesin, L., & Fuchs, H. (1998)
 **"The Office of the Future: A Unified Approach to Image-Based Modeling and Spatially Immersive Displays"**
-*ACM SIGGRAPH 1998*
+*ACM SIGGRAPH 1998* [DOI: 10.1145/280814.280861]
 
 **Key contribution:** Room-scale projective AR where digital content is projected onto physical surfaces. Enables immersive MR without wearing any device.
 
@@ -38,7 +38,7 @@ Papers on handheld AR, projection-based MR, and alternative MR form factors.
 
 ### 4. Billinghurst, M., Grasset, R., & Looser, J. (2005)
 **"Designing Augmented Reality Interfaces"**
-*ACM SIGGRAPH Computer Graphics 39(1)*
+*ACM SIGGRAPH Computer Graphics 39(1)* [DOI: 10.1145/1057792.1057803]
 
 **Key contribution:** Design guidelines for AR interfaces across display types (HMD, handheld, spatial). Covers interaction techniques, registration, and user experience considerations.
 
@@ -48,7 +48,7 @@ Papers on handheld AR, projection-based MR, and alternative MR form factors.
 
 ### 5. Wang, Z.M., Rao, M.H., Ye, S.H., Song, W.T., & Lu, F. (2025)
 **"Towards Spatial Computing: Recent Advances in Multimodal Natural Interaction for Extended Reality Headsets"**
-*Frontiers of Computer Science*
+*Frontiers of Computer Science* [DOI: 10.1007/s11704-025-41123-8]
 
 **Key contribution:** Survey of XR interaction techniques, predominantly HMD-focused. Reviews speech, gesture, gaze, and haptics for spatial computing.
 
@@ -58,7 +58,7 @@ Papers on handheld AR, projection-based MR, and alternative MR form factors.
 
 ### 6. Wagner, D., & Schmalstieg, D. (2003)
 **"First Steps with Handheld Augmented Reality"**
-*ISMAR 2003*
+*ISMAR 2003* [DOI: 10.1109/iswc.2003.1241402]
 
 **Key contribution:** Early investigation of handheld AR on PDAs/smartphones. Explored tracking, display, and interaction for mobile handheld AR in the wild.
 
@@ -68,7 +68,7 @@ Papers on handheld AR, projection-based MR, and alternative MR form factors.
 
 ### 7. Grasset, R., Lamb, P., & Billinghurst, M. (2005)
 **"Evaluation of Mixed-Space Collaboration"**
-*ISMAR 2005*
+*ISMAR 2005* [DOI: 10.1109/ismar.2005.30]
 
 **Key contribution:** Studies how non-HMD (handheld) and HMD users collaborate in mixed spaces, finding complementary role differentiation between form factors.
 

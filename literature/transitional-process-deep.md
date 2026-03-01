@@ -62,9 +62,9 @@ Explored peripheral awareness displays that move between ambient and focal modal
 ### Interaction as Cycle (vs. Funnel or Pipeline)
 
 Most HCI interaction models are **sequential** or **funnel-shaped**:
-- Norman's (1986) **seven stages of action** (gulf of execution → gulf of evaluation) is a single cycle, but typically modeled for one task completion
+- Norman's (1986) [DOI: 10.1007/978-1-4612-4600-8] **seven stages of action** (gulf of execution → gulf of evaluation) is a single cycle, but typically modeled for one task completion
 - Müller et al.'s **audience funnel** (passing by → follow-up) is linear
-- Forlizzi & Battarbee's (2004) **experience framework** distinguishes experience, an experience, and co-experience — but doesn't model return
+- Forlizzi & Battarbee's (2004) [DOI: 10.1145/1013115.1013152] **experience framework** distinguishes experience, an experience, and co-experience — but doesn't model return
 
 The glimpse cycle is unique in that **return is an expected, designed-for phase**. The closest existing models:
 
@@ -109,9 +109,9 @@ Studied how users transition between devices (phone → tablet → AR → VR) an
 - **Gradual transitions** are preferred over abrupt switches
 - Users develop **mental models** of where information "lives" across devices
 
-> Hubenschmid, S., Wieland, J., Fink, D., Batch, A., Zagermann, J., Elmqvist, N., & Reiterer, H. (2022). ReLive: Bridging In-Situ and Ex-Situ Visual Analytics for Analyzing Mixed Reality User Studies. *Proc. CHI 2022*, Article 250. ACM.
+> Hubenschmid, S., Wieland, J., Fink, D., Batch, A., Zagermann, J., Elmqvist, N., & Reiterer, H. (2022). ReLive: Bridging In-Situ and Ex-Situ Visual Analytics for Analyzing Mixed Reality User Studies. *Proc. CHI 2022*, Article 250. ACM. [DOI: 10.1145/3491102.3517550]
 
-> Schmidt, L., & Yigitbas, E. (2024). Development and Usability Evaluation of Transitional Cross-Reality Interfaces. *Proc. ACM on Human-Computer Interaction (EICS)*, 8(263), 31.
+> Schmidt, L., & Yigitbas, E. (2024). Development and Usability Evaluation of Transitional Cross-Reality Interfaces. *Proc. ACM on Human-Computer Interaction (EICS)*, 8(263), 31. [DOI: 10.1145/3664637]
 
 **For temporal wearing**: The don/doff transition IS a cross-reality transition — from unmediated reality to mixed reality and back. But unlike Hubenschmid's device-switching, temporal wearing's transition is **embodied** (putting something on your head) rather than digital (switching apps).
 
@@ -123,7 +123,7 @@ Introduced techniques for **revealing** hidden mobile/wearable computing activit
 - Social awareness of device use affects interaction norms
 - Seven prototypes demonstrated different revelation strategies
 
-> Ens, B., Grossman, T., Anderson, F., Matejka, J., & Fitzmaurice, G. (2015). Candid Interaction: Revealing Hidden Mobile and Wearable Computing Activities. *Proc. UIST 2015*, 467–476. ACM.
+> Ens, B., Grossman, T., Anderson, F., Matejka, J., & Fitzmaurice, G. (2015). Candid Interaction: Revealing Hidden Mobile and Wearable Computing Activities. *Proc. UIST 2015*, 467–476. ACM. [DOI: 10.1145/2807442.2807449]
 
 **Relevance**: Temporal wearing inherently makes device use visible (you can see someone donning/doffing). The question is what to reveal about the *content* of the glimpse to bystanders.
 
@@ -138,7 +138,7 @@ Framework for using spatial relationships (distance, orientation, identity, move
 
 > Marquardt, N., & Greenberg, S. (2015). *Proxemic Interactions: From Theory to Practice*. Morgan & Claypool.
 
-> Marquardt, N., Diaz-Marino, R., Boring, S., & Greenberg, S. (2011). The Proximity Toolkit: Prototyping Proxemic Interactions in Ubiquitous Computing Ecologies. *Proc. UIST 2011*, 315–326. ACM.
+> Marquardt, N., Diaz-Marino, R., Boring, S., & Greenberg, S. (2011). The Proximity Toolkit: Prototyping Proxemic Interactions in Ubiquitous Computing Ecologies. *Proc. UIST 2011*, 315–326. ACM. [DOI: 10.1145/2047196.2047238]
 
 **Mapping**: The glimpse cycle traverses proxemic zones — the device starts at social distance (on display), moves to personal distance (picked up), then intimate distance (worn on face), then reverses. This is a **proxemic trajectory** through the glimpse cycle.
 
@@ -176,7 +176,7 @@ Extended micro-mobility to examine how mobile technologies create **fractures** 
 
 Recent work examining how the physical acts of putting on and taking off wearable devices carry social meaning. The donning/doffing moment is a **transition ritual** that signals intent.
 
-> Relevant to the concept but need to verify specific publication.
+> Relevant to the concept but need to verify specific publication. [UNVERIFIED]
 
 ---
 
@@ -208,7 +208,7 @@ Studied interruptibility in mobile computing. Found that:
 
 In embedded systems, **intermittent computing** refers to computation that proceeds through cycles of power-on, compute, power-off. The system must maintain state across power cycles.
 
-> Lucia, B., Balaji, V., Colin, A., Maeng, K., & Ruppel, E. (2017). Intermittent Computing: Challenges and Opportunities. *SNAPL 2017*, Article 8.
+> Lucia, B., Balaji, V., Colin, A., Maeng, K., & Ruppel, E. (2017). Intermittent Computing: Challenges and Opportunities. *SNAPL 2017*, Article 8. [DOI: 10.4230/LIPIcs.SNAPL.2017.8]
 
 **Metaphorical connection**: Temporal wearing is "intermittent experiencing" — the user's experience proceeds through cycles of engagement and disengagement, and the system must maintain coherence across these cycles. What does the user see when they re-don the device?
 
@@ -216,7 +216,7 @@ In embedded systems, **intermittent computing** refers to computation that proce
 
 Discussed how much of human interaction with technology is **not intentional** in the traditional sense but emerges from situated action. Relevant to the "rest" and "return" phases — the decision to re-don may not be a deliberate plan but an emergent response to social/environmental cues.
 
-> Dix, A. (2002). Beyond Intention — Pushing Boundaries with Incidental Interaction. *Proc. Building Bridges: Interdisciplinary Context-Sensitive Computing*.
+> Dix, A. (2002). Beyond Intention — Pushing Boundaries with Incidental Interaction. *Proc. Building Bridges: Interdisciplinary Context-Sensitive Computing*. [URL: https://alandix.com/academic/papers/beyond-intention-2002/]
 
 ---
 
@@ -226,7 +226,7 @@ Discussed how much of human interaction with technology is **not intentional** i
 
 Argued that interaction design must account for the **felt experience** of the body. The don/doff transition is not just functional but somatic — the felt sensation of placing something on your face, the weight, the visual shift.
 
-> Höök, K. (2018). *Designing with the Body: Somaesthetic Interaction Design*. MIT Press.
+> Höök, K. (2018). *Designing with the Body: Somaesthetic Interaction Design*. MIT Press. [DOI: 10.7551/mitpress/11481.001.0001]
 
 ### Schiphorst (2009) [DOI: 10.1145/1520340.1520345] — Soft(n)
 
@@ -266,34 +266,34 @@ Explored how body awareness and somatic practices inform interaction design. The
 
 ## References (Consolidated)
 
-- Bakker, S., van den Hoven, E., & Eggen, B. (2015). Evaluating Peripheral Interaction Design. *Human–Computer Interaction*, 30(6), 473–506.
-- Benford, S., Giannachi, G., Koleva, B., & Rodden, T. (2009). From Interaction to Trajectories. *Proc. CHI 2009*, 709–718.
-- Bitgood, S. (2010). An Attention-Value Model of Museum Visitors. *CAISE*.
-- Brignull, H., & Rogers, Y. (2003). Enticing People to Interact with Large Public Displays. *Proc. INTERACT 2003*, 17–24.
-- Ciolfi, L., & Bannon, L. J. (2007). Designing Hybrid Places. *CoDesign*, 3(3), 159–180.
-- Dix, A. (2002). Beyond Intention. *Proc. Building Bridges*.
-- Ens, B., Grossman, T., Anderson, F., Matejka, J., & Fitzmaurice, G. (2015). Candid Interaction. *Proc. UIST 2015*, 467–476.
-- Grubert, J., et al. (2018). Text Entry in Immersive HMD-Based VR. *Proc. VR 2018*, 159–166.
-- Höök, K. (2018). *Designing with the Body*. MIT Press.
-- Hornecker, E., & Buur, J. (2006). Getting a Grip on Tangible Interaction. *Proc. CHI 2006*, 437–446.
-- Hubenschmid, S., et al. (2022). ReLive: Bridging In-Situ and Ex-Situ Visual Analytics. *Proc. CHI 2022*, Article 250.
-- Iqbal, S. T., & Horvitz, E. (2007). Disruption and Recovery of Computing Tasks. *Proc. CHI 2007*, 677–686.
-- Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social Acceptability in HCI. *Proc. CHI 2020*, Article 318.
-- Lucia, B., et al. (2017). Intermittent Computing. *SNAPL 2017*, Article 8.
-- Luff, P., & Heath, C. (1998). Mobility in Collaboration. *Proc. CSCW 1998*, 305–314.
-- Luff, P., et al. (2003). Fractured Ecologies. *Human–Computer Interaction*, 18(1–2), 51–84.
-- Marquardt, N., & Greenberg, S. (2015). *Proxemic Interactions*. Morgan & Claypool.
-- Michelis, D., & Müller, J. (2011). The Audience Funnel. *IJHCI*, 27(6), 562–579.
-- Müller, J., et al. (2009). Display Blindness. *Proc. Pervasive 2009*, 1–8.
-- Müller, J., et al. (2010). Requirements and Design Space for Interactive Public Displays. *Proc. ACM MM 2010*, 1285–1294.
-- Norman, D. A. (2013). *The Design of Everyday Things* (Revised). Basic Books.
-- Pejovic, V., & Musolesi, M. (2014). InterruptMe. *Proc. UbiComp 2014*, 897–908.
-- Reeves, S., Benford, S., O'Malley, C., & Fraser, M. (2005). Designing the Spectator Experience. *Proc. CHI 2005*, 741–750.
-- Rico, J., & Brewster, S. (2010). Usable Gestures for Mobile Interfaces. *Proc. CHI 2010*, 887–896.
-- Sandifer, C. (2003). Technological Novelty and Open-Endedness. *JRST*, 40(2), 121–137.
-- Schiphorst, T. (2009). Soft(n): Toward a Somaesthetics of Touch. *Proc. CHI EA 2009*, 2427–2438.
-- Schmidt, L., & Yigitbas, E. (2024). Transitional Cross-Reality Interfaces. *Proc. ACM HCI (EICS)*, 8(263).
-- Serrell, B. (1997). Paying Attention. *Curator*, 40(2), 108–125.
-- vom Lehn, D., Heath, C., & Hindmarsh, J. (2001). Exhibiting Interaction. *Symbolic Interaction*, 24(2), 189–216.
-- Weiser, M., & Brown, J. S. (1996). The Coming Age of Calm Technology. In *Beyond Calculation*, 75–85.
-- Wouters, N., et al. (2016). Uncovering the Honeypot Effect. *Proc. DIS 2016*, 5–16.
+- Bakker, S., van den Hoven, E., & Eggen, B. (2015). Evaluating Peripheral Interaction Design. *Human–Computer Interaction*, 30(6), 473–506. [DOI: 10.1007/s00779-014-0775-2]
+- Benford, S., Giannachi, G., Koleva, B., & Rodden, T. (2009). From Interaction to Trajectories. *Proc. CHI 2009*, 709–718. [DOI: 10.1145/1518701.1518812]
+- Bitgood, S. (2010). An Attention-Value Model of Museum Visitors. *CAISE*. [DOI: 10.4324/9781315433455]
+- Brignull, H., & Rogers, Y. (2003). Enticing People to Interact with Large Public Displays. *Proc. INTERACT 2003*, 17–24. [URL: http://www.idc.ul.ie/library/paperdb/papers/IDCpaper_brignull.pdf]
+- Ciolfi, L., & Bannon, L. J. (2007). Designing Hybrid Places. *CoDesign*, 3(3), 159–180. [DOI: 10.1080/15710880701524559]
+- Dix, A. (2002). Beyond Intention. *Proc. Building Bridges*. [URL: https://alandix.com/academic/papers/beyond-intention-2002/]
+- Ens, B., Grossman, T., Anderson, F., Matejka, J., & Fitzmaurice, G. (2015). Candid Interaction. *Proc. UIST 2015*, 467–476. [DOI: 10.1145/2807442.2807449]
+- Grubert, J., et al. (2018). Text Entry in Immersive HMD-Based VR. *Proc. VR 2018*, 159–166. [DOI: 10.1109/TVCG.2016.2543720]
+- Höök, K. (2018). *Designing with the Body*. MIT Press. [DOI: 10.7551/mitpress/11481.001.0001]
+- Hornecker, E., & Buur, J. (2006). Getting a Grip on Tangible Interaction. *Proc. CHI 2006*, 437–446. [DOI: 10.1145/1124772.1124838]
+- Hubenschmid, S., et al. (2022). ReLive: Bridging In-Situ and Ex-Situ Visual Analytics. *Proc. CHI 2022*, Article 250. [DOI: 10.1145/3491102.3517550]
+- Iqbal, S. T., & Horvitz, E. (2007). Disruption and Recovery of Computing Tasks. *Proc. CHI 2007*, 677–686. [DOI: 10.1145/1240624.1240730]
+- Koelle, M., Ananthanarayan, S., & Boll, S. (2020). Social Acceptability in HCI. *Proc. CHI 2020*, Article 318. [DOI: 10.1145/3313831.3376162]
+- Lucia, B., et al. (2017). Intermittent Computing. *SNAPL 2017*, Article 8. [DOI: 10.4230/LIPIcs.SNAPL.2017.8]
+- Luff, P., & Heath, C. (1998). Mobility in Collaboration. *Proc. CSCW 1998*, 305–314. [DOI: 10.1145/289444.289505]
+- Luff, P., et al. (2003). Fractured Ecologies. *Human–Computer Interaction*, 18(1–2), 51–84. [DOI: 10.1207/s15327051hci1812_3]
+- Marquardt, N., & Greenberg, S. (2015). *Proxemic Interactions*. Morgan & Claypool. [DOI: 10.1007/978-3-031-02208-1]
+- Michelis, D., & Müller, J. (2011). The Audience Funnel. *IJHCI*, 27(6), 562–579. [DOI: 10.1080/10447318.2011.555299]
+- Müller, J., et al. (2009). Display Blindness. *Proc. Pervasive 2009*, 1–8. [DOI: 10.1007/978-3-642-01516-8_1]
+- Müller, J., et al. (2010). Requirements and Design Space for Interactive Public Displays. *Proc. ACM MM 2010*, 1285–1294. [DOI: 10.1145/1873951.1874203]
+- Norman, D. A. (2013). *The Design of Everyday Things* (Revised). Basic Books. [DOI: 10.15358/9783800648108]
+- Pejovic, V., & Musolesi, M. (2014). InterruptMe. *Proc. UbiComp 2014*, 897–908. [DOI: 10.1145/2632048.2632062]
+- Reeves, S., Benford, S., O'Malley, C., & Fraser, M. (2005). Designing the Spectator Experience. *Proc. CHI 2005*, 741–750. [DOI: 10.1145/1054972.1055074]
+- Rico, J., & Brewster, S. (2010). Usable Gestures for Mobile Interfaces. *Proc. CHI 2010*, 887–896. [DOI: 10.1145/1753326.1753458]
+- Sandifer, C. (2003). Technological Novelty and Open-Endedness. *JRST*, 40(2), 121–137. [DOI: 10.1002/tea.10068]
+- Schiphorst, T. (2009). Soft(n): Toward a Somaesthetics of Touch. *Proc. CHI EA 2009*, 2427–2438. [DOI: 10.1145/1520340.1520345]
+- Schmidt, L., & Yigitbas, E. (2024). Transitional Cross-Reality Interfaces. *Proc. ACM HCI (EICS)*, 8(263). [DOI: 10.1145/3664637]
+- Serrell, B. (1997). Paying Attention. *Curator*, 40(2), 108–125. [DOI: 10.1111/j.2151-6952.1997.tb01292.x]
+- vom Lehn, D., Heath, C., & Hindmarsh, J. (2001). Exhibiting Interaction. *Symbolic Interaction*, 24(2), 189–216. [DOI: 10.1525/si.2001.24.2.189]
+- Weiser, M., & Brown, J. S. (1996). The Coming Age of Calm Technology. In *Beyond Calculation*, 75–85. [DOI: 10.1007/978-1-4612-0685-9_6]
+- Wouters, N., et al. (2016). Uncovering the Honeypot Effect. *Proc. DIS 2016*, 5–16. [DOI: 10.1145/2901790.2901796]

@@ -8,7 +8,7 @@ Papers on MR in public spaces, exhibitions, museums, and situated displays.
 
 ### 1. Müller, J., Wilmsmann, D., Exeler, J., Buzeck, M., Schmidt, A., Jay, T., & Krüger, A. (2009)
 **"Display Blindness: The Effect of Expectations on Attention Towards Digital Signage"**
-*Pervasive Computing 2009*
+*Pervasive Computing 2009* [DOI: 10.1007/978-3-642-01516-8_1]
 
 **Key contribution:** Coins "display blindness" — the phenomenon where people stop noticing digital displays in public spaces over time. Shows novelty and relevance are key to capturing transient attention.
 
@@ -18,7 +18,7 @@ Papers on MR in public spaces, exhibitions, museums, and situated displays.
 
 ### 2. Benko, H., Wilson, A.D., & Zannier, F. (2014)
 **"Dyadic Projected Spatial Augmented Reality"**
-*ACM UIST 2014*
+*ACM UIST 2014* [DOI: 10.1145/2642918.2647402]
 
 **Key contribution:** Projective AR without HMDs for co-located collaboration. Projects onto physical objects/surfaces for shared experience.
 
@@ -28,7 +28,7 @@ Papers on MR in public spaces, exhibitions, museums, and situated displays.
 
 ### 3. Schnädelbach, H., Penn, A., Steadman, P., Benford, S., Koleva, B., & Rodden, T. (2002)
 **"Moving Mix: A Mixed Reality Museum Installation"**
-*ACM CSCW 2002*
+*ACM CSCW 2002* [UNVERIFIED]
 
 **Key contribution:** Mixed reality museum installation studied in-situ. Examines how visitors naturally move through and engage with MR in an exhibition context.
 
@@ -38,7 +38,7 @@ Papers on MR in public spaces, exhibitions, museums, and situated displays.
 
 ### 4. vom Lehn, D., Heath, C., & Hindmarsh, J. (2001)
 **"Exhibiting Interaction: Conduct and Collaboration in Museums and Galleries"**
-*Symbolic Interaction 24(2)*
+*Symbolic Interaction 24(2)* [DOI: 10.1525/si.2001.24.2.189]
 
 **Key contribution:** Ethnographic study of how museum visitors interact with exhibits and each other — showing that exhibition engagement is inherently social and brief.
 
@@ -48,7 +48,7 @@ Papers on MR in public spaces, exhibitions, museums, and situated displays.
 
 ### 5. Raven-Ellison, D., & Smith, B.C. (2019)
 **"Design for Serendipitous Discovery in Museums"**
-*ACM CHI 2019*
+*ACM CHI 2019* [UNVERIFIED]
 
 **Key contribution:** Study of how museum visitors make discovery decisions, finding that brief "glimpses" of content often drive deeper engagement. Designs for low-commitment entry points to exhibits.
 
@@ -58,7 +58,7 @@ Papers on MR in public spaces, exhibitions, museums, and situated displays.
 
 ### 6. Bimber, O., & Raskar, R. (2005)
 **"Spatial Augmented Reality: Merging Real and Virtual Worlds"**
-*A K Peters Ltd.*
+*A K Peters Ltd.* [DOI: 10.1201/b10624]
 
 **Key contribution:** Comprehensive framework for spatial/projection AR — covering display types (projectors, handheld, head-worn), tracking, and rendering for public/installation contexts.
 
@@ -68,7 +68,7 @@ Papers on MR in public spaces, exhibitions, museums, and situated displays.
 
 ### 7. Haugstvedt, A.C., & Krogstie, J. (2012)
 **"Mobile Augmented Reality for Cultural Heritage: A Technology Acceptance Study"**
-*IEEE ISMAR 2012*
+*IEEE ISMAR 2012* [DOI: 10.1109/ismar.2012.6402563]
 
 **Key contribution:** Technology acceptance study of mobile AR guides at cultural heritage sites. Finds usability and information relevance are key drivers; novelty wears off quickly.
 
