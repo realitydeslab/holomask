@@ -1,0 +1,102 @@
+% Section 6: Discussion
+% Paper: "Just a Glimpse: Temporal Wearing as a Design Paradigm for Transient Mixed Reality"
+
+\section{Discussion}
+
+Our findings demonstrate that temporal wearing is not merely a shorter version of session wear but a qualitatively distinct interaction paradigm with its own behavioral patterns, social dynamics, and design requirements. In this section, we reflect on what temporal wearing means for the MR field, articulate six design principles derived from our design process and empirical findings, consider applications beyond mixed reality, discuss the design of content for cumulative glimpses, and acknowledge limitations.
+
+\subsection{Temporal Wearing as an MR Paradigm}
+
+The dominant trajectory of MR development assumes that progress means longer, more immersive, more seamless wearing. Each generation of HMDs is lighter, more comfortable, and more capable---all in service of extending wearing duration. Apple Vision Pro's ``all-day'' comfort, Meta Quest 3's extended battery life, and the industry's pursuit of lightweight AR glasses all reflect this logic: the ideal device is one you never take off. Our findings challenge this assumption---not by arguing against sustained wear, but by demonstrating that an entirely different paradigm of MR interaction exists, one that has been practiced for centuries and is being rediscovered in public MR deployments.
+
+Temporal wearing reframes the don/doff cycle from overhead to interaction. When participants performed double-takes, hand-offs, narrations, and orbits, they were not ``failing to sustain engagement''---they were engaging in precisely the way temporal wearing invites. The efficiency ratio data (Section~5.1) confirms that temporal wearing can deliver high-value augmented experiences when transition costs are minimized: with sub-second onset times, even a three-second glimpse devotes more than [PLACEHOLDER: 75\%] of the encounter to augmented content. This is not a compromise but a \textit{design choice}---and one that brings significant benefits in social comfort, shareability, and naturalness that sustained wear cannot match.
+
+The paradigm shift is also temporal: it challenges the assumption that MR experience accumulates linearly. Our orbit findings (Section~5.5) suggest that temporal wearing supports a \textit{cumulative} model of experience, where meaning builds across multiple brief encounters rather than within a single extended session. This aligns with how people experience many cultural artifacts---returning to a painting, re-reading a poem, revisiting a scenic view---and suggests that MR content designed for temporal wearing may ultimately prove more memorable and meaningful than content designed for sustained immersion.
+
+Why now? Three converging trends make temporal wearing timely. First, MR is moving into public spaces---museums, retail, tourism, education---where transient encounters are the norm~\cite{popovici2022cultural, li2024acceptance}. Second, social acceptability remains a persistent barrier to HMD adoption~\cite{koelle2020social, kaviani2024smartglass}, and temporal wearing offers an alternative that works \textit{with} social norms rather than against them. Third, the maturation of AR tracking and display technology means that sub-second onset is now technically achievable at consumer price points, enabling devices designed specifically for temporal use.
+
+\subsection{Design Principles for Temporal Wearing}
+
+Drawing on our design process, deployment observations, and interview findings, we propose six design principles for temporal wearing devices. These principles are intended as actionable guidance for designers creating MR experiences measured in seconds rather than sessions.
+
+\subsubsection{P1: Design for Discovery.}
+The device must invite curiosity before any interaction begins. Our deployment demonstrated that the \textit{attract} phase of the glimpse cycle (Section~3.5) is critical: visitors who noticed the device---through its physical presence, through signage, or through observing another visitor's reaction---were far more likely to engage than those who passed by unaware. Unlike session-wear devices, which are typically donned deliberately with prior intent, temporal wearing devices must \textit{occasion} their own use.
+
+Design implications: Temporal wearing devices should be physically present and visually interesting---not hidden in a case or behind a counter. Their form should communicate ``look through me'' through affordances~\cite{norman2013design}: lens-like apertures, viewfinder shapes, or transparent optics that hint at a hidden world beyond. The honeypot effect~\cite{wouters2016honeypot}---where one person's use attracts others---is a powerful discovery mechanism that designers can amplify by ensuring that the act of using the device is visible and legible to bystanders. The device's appearance should promise discovery: something interesting is here, waiting to be glimpsed.
+
+\subsubsection{P2: Instant-On.}
+The transition from not-wearing to augmented perception must take less than two seconds. Our data confirms that transition cost is the primary mechanical determinant of re-engagement frequency (RQ1): visitors re-engaged more frequently with prototypes that offered near-instantaneous onset. When onset exceeds two seconds, the overhead becomes perceptible and the ``peek'' interaction degrades into a ``setup'' interaction.
+
+Design implications: Displays should be always-on or wake from sleep in under 100ms. Tracking should be pre-initialized or use inside-out methods that do not require calibration. Optical alignment should be forgiving---tolerating slight misalignment rather than requiring precise positioning. The handheld form factor naturally achieves instant-on (raising a device to the eyes takes $\sim$0.5s); neck-hung and head-mounted forms require careful engineering to match this. A useful heuristic: if the user can complete the don gesture faster than the device can deliver content, the device is too slow.
+
+\subsubsection{P3: Graceful Doff.}
+Exiting the augmented experience must feel natural, not abrupt or punishing. Several interview participants contrasted temporal wearing with VR experiences where ``taking off the headset'' felt like ``breaking out of'' or ``being ejected from'' the experience. Temporal wearing doffing should feel like lowering binoculars---a natural return to unmediated perception that preserves the experiential residue of what was glimpsed.
+
+Design implications: Avoid content that requires the user to complete an action before doffing (no ``press to save,'' no ``wait for loading''). Design content that is complete at any moment of exit---every frame should be a valid stopping point. The visual transition from augmented to unmediated perception should be continuous rather than a hard cut: optical see-through displays inherently support this by allowing the real world to persist behind the augmented layer. Auditory and haptic cues, if present, should fade rather than stop abruptly.
+
+\subsubsection{P4: Social Legibility.}
+Bystanders must be able to instantly perceive what the user is doing, why, and that it will be brief. Our social comfort data (Section~5.4) and interview themes (Section~5.6) confirm that temporal wearing's social advantage depends on legibility: visitors felt comfortable using the devices precisely because the interaction ``looked normal'' and was visibly brief.
+
+Design implications: The donning gesture should reference familiar actions: raising binoculars, looking through a viewfinder, leaning toward a telescope. Avoid gestures that lack cultural precedent or appear ambiguous (e.g., holding an opaque box to one's face). The device's form should communicate its purpose even to people who have never seen it before---lenses suggest looking, handles suggest holding, viewfinder shapes suggest peering. Duration legibility is inherently supported by temporal wearing's brevity, but designers can reinforce it by ensuring that the doffing gesture is as visible and legible as the donning gesture: bystanders should see both the beginning and end of the interaction.
+
+\subsubsection{P5: Invitation to Return.}
+Content should reward re-engagement rather than penalize brevity. The orbit behavior (Section~5.5) demonstrates that temporal wearing naturally invites return visits---but only if the content supports it. Our interview theme of ``wanting more (in the right way)'' (Section~5.6) captures the critical distinction: temporal wearing should create anticipatory desire (``I want to come back'') rather than deprivation (``I wish it lasted longer'').
+
+Design implications: Content should vary across encounters---through spatial variation (different content visible from different positions or angles), temporal variation (content that changes over time), progressive revelation (deeper layers revealed on subsequent looks), or stochastic elements (slightly different experience each time). Avoid content that delivers its full payload in a single glimpse, leaving nothing to discover on return. Equally, avoid content that \textit{withholds} essential information, creating frustration rather than invitation. The ideal is a ``generous preview'': each glimpse is complete and satisfying in itself, yet hints at more to be discovered.
+
+\subsubsection{P6: Shared Glimpsing.}
+Temporal wearing devices should enable, not obstruct, social interaction around the moment of augmented perception. The narrator, hand-off, and social permission behaviors (Section~5.5, 5.6) demonstrate that temporal wearing can produce shared MR experiences without requiring multiple synchronized devices or multi-user systems. This shareability is one of temporal wearing's most distinctive advantages over session wear.
+
+Design implications: Design for passability: handheld devices should be easy to pass between people, with clear grip affordances and no fragile external components. Design for narration: the user should be able to speak while wearing the device (avoid face-covering forms that muffle speech) and should maintain awareness of companions (peripheral vision should not be fully occluded). Design for spectatorship: bystanders should find it interesting---not boring or uncomfortable---to watch someone use the device. Consider secondary displays or audio that give bystanders a partial preview of what the user sees, bridging the perceptual gap between wearer and observer without eliminating the incentive to try the device oneself.
+
+\subsection{Temporal Wearing Beyond Mixed Reality}
+
+While we have developed temporal wearing in the context of MR, the paradigm extends to other domains of wearable and ubiquitous computing where brief, bounded device encounters offer advantages over sustained use.
+
+\paragraph{Internet of Things.}
+Smart home devices are typically designed for continuous operation, but many interactions with them are temporal: a brief check of a smart thermostat display, a momentary glance at a home energy monitor, a quick peek at a baby monitor screen. Designing these interactions explicitly as temporal wearing---with instant-on, graceful exit, and invitation to return---could improve their integration into domestic routines.
+
+\paragraph{Health Monitoring.}
+Clinical-grade health monitoring devices (continuous glucose monitors, heart rate monitors, blood pressure cuffs) are designed for permanent or session wear. But for many health-conscious individuals, a brief daily check---temporal wearing of a diagnostic device---would be more appropriate than continuous monitoring. Designing health devices for temporal wearing could reduce the burden and stigma of health monitoring while still providing actionable data.
+
+\paragraph{Accessibility.}
+Assistive technology is often designed under a permanent-wear assumption: hearing aids, magnification devices, and navigation aids are intended to be worn throughout the day. But some users prefer intermittent use---engaging with assistive technology only in specific contexts~\cite{profita2016acceptability}. Temporal wearing offers a design framework for assistive devices that support this pattern: rapid onset when needed, graceful doff when not, and social legibility that reduces stigma.
+
+\subsection{Designing for Cumulative Glimpses}
+
+The orbit behavior and the ``wanting more'' interview theme raise an important content design challenge: how should augmented content be structured to support repeated brief encounters rather than a single sustained session? This question has received virtually no attention in the MR literature, where content is overwhelmingly designed for session-length consumption.
+
+We propose that content for temporal wearing should follow a \textit{layered revelation} structure. Each glimpse reveals a complete, self-contained layer of the experience---a visual effect, a piece of information, a spatial relationship---that is satisfying in isolation but gains depth and meaning when combined with layers revealed in prior or subsequent glimpses. This structure draws inspiration from serial narrative forms (episodic television, comic strips), environmental storytelling in games (where narrative is distributed across discoverable fragments), and the practice of repeated museum visits (where each visit reveals new details in familiar works).
+
+Concretely, layered revelation can be implemented through several mechanisms:
+
+\begin{itemize}
+    \item \textbf{Spatial layers}: Different content visible from different viewing positions or angles, encouraging physical exploration across glimpse cycles.
+    \item \textbf{Temporal layers}: Content that evolves slowly over hours or days, so that return visits reveal new states of an ongoing process.
+    \item \textbf{Depth layers}: Progressive detail that becomes visible only on closer inspection or repeated viewing, analogous to how one notices new details in a painting on a second or third visit.
+    \item \textbf{Social layers}: Content that responds to how many people have viewed it, or that differs based on whether the viewer has seen it before, creating a sense of shared discovery.
+\end{itemize}
+
+This layered approach stands in contrast to the ``experience funnel'' model common in session-based MR, where users progress linearly through onboarding, tutorial, main content, and conclusion. Temporal wearing has no onboarding---the user arrives in the middle and leaves before the end. Content must be designed accordingly: every moment must be an entry point and every moment a valid exit.
+
+\subsection{Limitations and Future Work}
+
+Our work has several limitations that suggest directions for future research.
+
+\paragraph{Single Deployment Context.}
+Our findings are drawn from a single deployment at [VENUE PLACEHOLDER]. While we selected this venue for its representative qualities, temporal wearing may manifest differently in other contexts---outdoor environments, retail settings, educational institutions, or domestic spaces. Future work should examine temporal wearing across diverse deployment contexts to test the generalizability of both our behavioral findings and design principles.
+
+\paragraph{Content Effects.}
+All three deployed prototypes presented the same augmented content, allowing us to isolate form factor effects. However, content type likely interacts with temporal wearing behavior: narrative content may encourage longer glimpses, while abstract visual content may support faster cycling. Systematically varying content alongside form factor would clarify these interactions.
+
+\paragraph{Novelty Effect.}
+Our deployment captured visitors' first encounters with temporal wearing prototypes. The novelty of the devices may have inflated engagement metrics and positive survey responses. Longitudinal deployments---measuring how temporal wearing behaviors evolve over repeated visits across days or weeks---would address whether the patterns we observed are durable or novelty-driven. We note, however, that the historical persistence of temporal wearing devices (coin-operated viewfinders, View-Masters) suggests that the paradigm itself is robust to novelty decay, even if specific devices may lose appeal.
+
+\paragraph{Limited Demographic Data.}
+Because participation was naturalistic, we collected demographic data only from interviewed participants. We cannot make claims about how temporal wearing behavior varies by age, gender, cultural background, or technology experience. Controlled studies with demographic stratification would complement our naturalistic findings.
+
+\paragraph{Head-Mounted Temporal Wearing.}
+Our prototype set included handheld, neck-hung, and stationary form factors but did not include a head-mounted temporal wearing device. While head-mounted devices inherently incur higher transition costs, it is possible to design lightweight masks or flip-up visors that support temporal wearing from a head-mounted position. Future work should explore whether head-mounted form factors can achieve the sub-two-second transition costs that our findings suggest are necessary for temporal wearing.
+
+\paragraph{Longitudinal Content Design.}
+We proposed a layered revelation content model (Section~6.4) but did not empirically test it. Designing and deploying content specifically structured for cumulative glimpses, and measuring how visitor understanding and engagement evolve across multiple return visits, is a natural next step.
