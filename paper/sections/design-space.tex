@@ -1,0 +1,150 @@
+% Section 3: Temporal Wearing: Concept & Design Space
+% Paper: "Just a Glimpse: Temporal Wearing as a Design Paradigm for Transient Mixed Reality"
+% Target: IMWUT May 1, 2026
+
+\section{Temporal Wearing: Concept \& Design Space}
+
+In this section, we introduce \textit{temporal wearing} as a distinct interaction paradigm, present a taxonomy of wearing duration, and articulate the design space that governs the creation of temporally worn mixed reality devices. We ground this framework in both contemporary HCI theory and centuries of precedent in optical instrument design.
+
+\subsection{Defining Temporal Wearing}
+
+We define \textbf{temporal wearing} as an interaction paradigm in which the act of donning, using, and doffing a body-coupled device constitutes the interaction itself, with the entire encounter lasting seconds rather than minutes or hours. In temporal wearing, \textit{wearing duration is the primary design variable}: the device is not a persistent tool that mediates ongoing activity, but a transient lens through which a user briefly accesses an augmented experience before returning to unmediated perception.
+
+This definition rests on a critical distinction from \textit{micro-interactions}~\cite{ashbrook2010microinteractions}. Micro-interactions describe brief input gestures (under four seconds) performed on permanently worn or carried devices---a glance at a smartwatch, a tap on a fitness tracker. The device remains on the body before and after the gesture; the interaction is brief, but the \textit{wearing} is not. Temporal wearing inverts this relationship: the \textit{device encounter itself} is brief. The user was not wearing the device moments ago, will not be wearing it moments hence, and the value of the interaction is inseparable from the physical act of bringing the device to the body and releasing it again.
+
+This inversion has profound design consequences. When donning and doffing are overhead---friction to be endured before productive use begins---designers optimize for sustained comfort, extended battery life, and deep content experiences that justify the transition cost. When donning and doffing \textit{are} the interaction, designers must instead optimize for instant onset, high information density per second, graceful exit, and social legibility. The temporal wearing paradigm thus demands a fundamentally different design logic from both permanent and session-based wearable computing.
+
+Formally, we characterize temporal wearing by three properties:
+\begin{enumerate}
+    \item \textbf{Brief duration}: The complete don--use--doff cycle lasts on the order of seconds (typically 2--15\,s), not minutes or hours.
+    \item \textbf{Donning as interaction}: The physical act of bringing the device to the body is not preparatory overhead but an integral, productive part of the experience.
+    \item \textbf{Cyclicity}: Temporal wearing naturally invites repeated encounters---multiple don--doff cycles within a single visit or session---rather than a single extended wearing period.
+\end{enumerate}
+
+
+\subsection{Wearing Duration Taxonomy}
+
+Despite over 25 years of wearable computing research, no prior work has proposed a taxonomy in which \textit{wearing duration} serves as a primary organizing dimension. Gemperle et al.'s foundational framework~\cite{gemperle1998wearability} addresses \textit{where} and \textit{how} to wear devices through 13 design guidelines, but implicitly assumes extended or permanent wear (Guideline~13, ``long-term use''). Zeagler~\cite{zeagler2017where} extends this with body maps for wearable placement, again with an implicit assumption of sustained wearing. Starner~\cite{starner2001challenges} distinguishes always-available from task-specific wearables, but task-specific use still implies session-length engagement. Knight et al.~\cite{knight2006comfort} include ``ease of donning and doffing'' as a comfort metric, treating it as friction to minimize rather than a design opportunity to exploit.
+
+We propose a three-part taxonomy that foregrounds wearing duration as a design dimension (Table~\ref{tab:duration-taxonomy}):
+
+\begin{table*}[t]
+\centering
+\caption{A taxonomy of wearing duration. Temporal wearing occupies a distinct design region with qualitatively different constraints and opportunities from permanent and session wear.}
+\label{tab:duration-taxonomy}
+\begin{tabular}{p{2.2cm} p{1.8cm} p{3.2cm} p{3.5cm} p{3.8cm}}
+\toprule
+\textbf{Category} & \textbf{Duration} & \textbf{Don/Doff Relationship} & \textbf{Design Priority} & \textbf{Examples} \\
+\midrule
+Permanent wear & Hours--days & Don once, wear continuously & Comfort, aesthetics, battery life, unobtrusiveness & Smartwatch, hearing aid, smart glasses, smart ring \\
+\addlinespace
+Session wear & Minutes--hours & Don/doff as session bookends & Immersion, sustained comfort, content depth & VR headset, AR HMD, surgical loupes, sports tracker \\
+\addlinespace
+\textbf{Temporal wear} & \textbf{Seconds} & \textbf{Don/doff IS the interaction} & \textbf{Instant-on, information density, social legibility} & \textbf{Peek viewer, lorgnette, handheld AR, coin-op viewfinder} \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+Several properties distinguish temporal wearing from shorter instances of session wear. First, \textit{comfort constraints are relaxed}: users tolerate weight, bulk, and ergonomic imperfection for seconds in ways they would not for minutes~\cite{park2019comfort}. Second, \textit{social legibility is enhanced}: brief, purposeful acts (raising binoculars, peering through a viewfinder) are easier for bystanders to interpret than sustained device use, which may appear asocial or surveillance-like~\cite{koelle2020social}. Third, \textit{context triggers wearing}: temporal wearing is \textit{occasioned}---a situated response to environmental stimuli~\cite{suchman2007humanmachine}---rather than habitual. Finally, \textit{design must maximize information per second}: there is no time for tutorials, onboarding, calibration, or gradual content revelation.
+
+
+\subsection{Design Space Dimensions}
+
+We articulate the temporal wearing design space along three orthogonal dimensions: \textit{body coupling}, \textit{transition cost}, and \textit{social legibility}.
+
+\subsubsection{Body Coupling.}
+Body coupling describes the spatial relationship between the user's body and the device during use, ranging from loose to tight coupling:
+\begin{itemize}
+    \item \textbf{Handheld}: The device is grasped and brought to the eyes or face (e.g., a lorgnette, handheld viewer, or phone-based AR). Coupling is volitional and instantly reversible.
+    \item \textbf{Neck-hung}: The device rests on the body passively (e.g., hung from a lanyard) and is raised to the eyes when needed. Coupling alternates between passive carry and active use.
+    \item \textbf{Head-mounted}: The device is placed on the head (e.g., a headset or mask). Coupling requires deliberate donning and creates a more committed relationship.
+    \item \textbf{Stationary}: The device is fixed in space, and the user approaches with their body (e.g., a coin-operated viewfinder or a mounted stereoscope). The body couples to the device rather than vice versa.
+\end{itemize}
+
+Looser body coupling generally enables faster transitions and lower commitment, making it more naturally compatible with temporal wearing. However, tighter coupling can provide richer perceptual experiences (wider field of view, binocular depth, spatial audio) that may justify slightly longer temporal encounters.
+
+\subsubsection{Transition Cost.}
+Transition cost quantifies the temporal and physical effort required to move between the unworn and worn states. We operationalize it as:
+\begin{equation}
+    T_{\text{transition}} = T_{\text{onset}} + T_{\text{offset}}
+\end{equation}
+where $T_{\text{onset}}$ is the time from initiating donning to receiving the first meaningful visual frame, and $T_{\text{offset}}$ is the time from initiating doffing to fully returning to unmediated perception. For temporal wearing to function as a paradigm, transition cost must be low relative to use duration---ideally under two seconds total, ensuring that at least half the encounter involves augmented content rather than mechanical overhead.
+
+Transition cost is influenced by body coupling (handheld devices have near-zero onset), device design (optical alignment, display wake time, tracking initialization), and physical form factor (straps, clasps, weight distribution). Crucially, transition cost is not merely a usability metric to be minimized: it defines the \textit{boundary of possibility} for temporal wearing. Devices with transition costs exceeding 10--15 seconds effectively preclude temporal use, as the overhead eclipses any brief content experience.
+
+\subsubsection{Social Legibility.}
+Social legibility describes how clearly bystanders can perceive and interpret the user's interaction with the device. We decompose it into three components:
+\begin{itemize}
+    \item \textbf{Action legibility}: Can bystanders see what the user is physically doing? (Raising binoculars is legible; tapping a hidden earpiece is not.)
+    \item \textbf{Purpose legibility}: Can bystanders infer \textit{why} the user is performing the action? (Looking through a viewfinder at a scenic overlook is purpose-legible; wearing opaque goggles in a corridor is not.)
+    \item \textbf{Duration legibility}: Can bystanders anticipate that the interaction will be brief? (A quick peek through a handheld device signals transience; strapping on a headset does not.)
+\end{itemize}
+
+Social legibility is critical for temporal wearing in public and shared spaces. The social acceptability literature establishes that device visibility, perceived purpose, and wearing duration all modulate bystander comfort~\cite{koelle2020social, profita2013wrist}. Temporal wearing, by its nature, optimizes duration legibility: the brevity of the encounter itself communicates that the user has not ``checked out'' of social copresence. Designers can further enhance legibility through transparent or semi-transparent optics, visible content (screens rather than occluded optics), and form factors that reference familiar objects (binoculars, cameras, magnifying glasses).
+
+
+\subsection{Design Space Mapping}
+
+Figure~\ref{fig:design-space} maps our six prototypes alongside existing commercial and research devices on a two-dimensional plot of \textit{body coupling} ($x$-axis, from handheld to stationary) versus \textit{transition cost} ($y$-axis, from near-zero to 30+ seconds). Each device is annotated with its social legibility (represented by marker size, where larger markers indicate higher legibility).
+
+\begin{figure}[t]
+    \centering
+    % Placeholder for design space figure
+    % 2D scatter plot: x = body coupling (handheld -> neck-hung -> head-mounted -> stationary)
+    % y = transition cost (ms, log scale or linear 0-30s)
+    % Marker size = social legibility
+    % Our 6 prototypes: cluster in low-transition-cost region across coupling types
+    % Reference devices: Meta Quest (head-mounted, high transition), HoloLens (head-mounted, high),
+    %   Google Glass (head-mounted but lower transition), phone AR (handheld, low transition),
+    %   coin-op viewfinder (stationary, low transition)
+    \includegraphics[width=\columnwidth]{figures/design-space-placeholder}
+    \caption{Design space mapping of temporal wearing devices. Our six prototypes (filled markers) cluster in the low-transition-cost region across body coupling types. Existing devices (open markers) are plotted for comparison. Marker size encodes social legibility. The shaded region indicates the \textit{temporal wearing zone}: combinations of body coupling and transition cost that support don--use--doff cycles of under 15 seconds.}
+    \label{fig:design-space}
+\end{figure}
+
+The mapping reveals that our prototypes occupy a distinct region of the design space---the \textit{temporal wearing zone}---characterized by transition costs under 3 seconds across multiple body coupling modalities. Existing MR devices (Meta Quest, HoloLens~2, Magic Leap~2) cluster in the high-transition-cost, head-mounted quadrant, designed for session wear. Phone-based AR (handheld, low transition cost) falls within the temporal wearing zone but lacks the perceptual immersion of optical see-through designs. Coin-operated viewfinders and stereoscopic viewers (stationary, near-zero transition cost) have long occupied this space without being recognized as temporal wearing devices.
+
+
+\subsection{The Glimpse Cycle}
+
+Session-based wearable interaction follows a linear trajectory: \textit{don $\rightarrow$ use $\rightarrow$ doff}. The user commits to wearing the device, engages in extended activity, and eventually removes it. Temporal wearing, by contrast, follows a \textit{cyclic} pattern that we term the \textbf{glimpse cycle} (Figure~\ref{fig:glimpse-cycle}):
+
+\begin{figure}[t]
+    \centering
+    % Placeholder for glimpse cycle figure
+    % Circular diagram: attract -> approach -> don -> glimpse -> doff -> (rest) -> return -> attract...
+    \includegraphics[width=\columnwidth]{figures/glimpse-cycle-placeholder}
+    \caption{The glimpse cycle. Unlike the linear don--use--doff model of session wear, temporal wearing follows a repeating cycle in which each phase carries distinct design implications.}
+    \label{fig:glimpse-cycle}
+\end{figure}
+
+\begin{enumerate}
+    \item \textbf{Attract}: The user notices the device or its effects---a visual cue, another user's reaction, signage, or the device's physical presence. Design implication: the device must be \textit{discoverable} and \textit{inviting}.
+    \item \textbf{Approach}: The user moves toward the device (or picks it up). Design implication: the device's affordances must communicate how it is used from a distance.
+    \item \textbf{Don}: The user brings the device into contact with the body (raises it to their eyes, places it on their head, leans into a viewfinder). Design implication: the onset must be \textit{instant}---content should appear within one second of physical contact.
+    \item \textbf{Glimpse}: The user experiences augmented content. This is the core perceptual moment, lasting 2--10 seconds. Design implication: content must deliver value \textit{immediately}, without onboarding or orientation.
+    \item \textbf{Doff}: The user lowers or removes the device. Design implication: exit must feel \textit{natural and graceful}, not abrupt or disorienting.
+    \item \textbf{Rest}: The user returns to unmediated perception. They may process what they saw, share it socially, or simply continue their activity. Design implication: the augmented experience should leave a \textit{residue}---a prompt for reflection, conversation, or return.
+    \item \textbf{Return}: The user re-engages with the device for another glimpse. Design implication: content should \textit{reward re-engagement} (e.g., through spatial variation, temporal change, or progressive revelation) rather than penalizing brevity.
+\end{enumerate}
+
+This cyclicity is a defining feature of temporal wearing. Where session wear typically involves a single don--use--doff cycle per engagement, temporal wearing invites multiple cycles within a single visit. Our field observations (Section~5) confirm that users of temporally worn devices frequently engage in 3--8 glimpse cycles per visit, with rest periods ranging from seconds to minutes. This pattern more closely resembles how people use binoculars at a scenic overlook or flip through a View-Master reel than how they use a VR headset.
+
+The glimpse cycle also has social implications. The rest phase creates windows of social availability---moments when the user is visibly present and interactable. This contrasts sharply with session wear, where the extended don phase creates prolonged social absence. Temporal wearing thus supports what we call \textit{shared glimpsing}: a social mode in which multiple users take turns engaging with a device, narrate their experiences to companions, and collectively construct meaning from individual glimpses.
+
+
+\subsection{Historical Precedents}
+
+Temporal wearing is not a novel invention but a rediscovery. Optical instruments designed for brief, repeated viewing---raising to the eyes, glimpsing, and lowering---have existed for centuries. These precedents demonstrate that temporal wearing is a natural and culturally established interaction pattern, long practiced but never formally named within HCI.
+
+\textbf{The lorgnette} (circa 1770s--1920s) was a pair of spectacles held on a handle rather than worn on the ears~\cite{rosenthal1996spectacles}. Users raised the lorgnette to their eyes momentarily to read, examine, or observe, then lowered it---a paradigmatic temporal wearing interaction. The lorgnette's social function was as important as its optical one: it signaled attention, interest, and social status through the visible act of looking.
+
+\textbf{Opera glasses} (from the 1780s onward) extended the lorgnette's temporal wearing pattern to entertainment contexts~\cite{ilardi2007renaissance}. Theatergoers raised compact binoculars to their eyes for brief periods during performances, alternating between augmented (magnified) and unaugmented viewing. The don--glimpse--doff cycle was integral to the social ritual of theater attendance.
+
+\textbf{The stereoscope} (invented by Charles Wheatstone in 1838, popularized by David Brewster's lenticular design in 1849) introduced binocular depth to temporal viewing~\cite{wade2002biography}. Users held or leaned into the stereoscope to view a three-dimensional image, then withdrew---a peek interaction lasting seconds. The Holmes stereoscope (1861) became a parlor entertainment device, passed among guests for repeated brief viewings: a social glimpse cycle.
+
+\textbf{Coin-operated viewfinders} (introduced in the early 20th century, popularized mid-century) represent stationary temporal wearing: the user approaches a fixed device, leans in, views a magnified or augmented panorama, and steps back. The interaction is inherently brief (often coin-timed to 1--2 minutes, but individual viewing episodes within that window are seconds-long as users pan across a scene). The viewfinder's fixed placement and familiar form make it maximally socially legible.
+
+\textbf{The View-Master} (introduced by William Gruber and Harold Graves in 1939) is perhaps the purest consumer temporal wearing device~\cite{zone20073d}. Users raise the binocular viewer to their eyes, view a stereoscopic image, advance the reel, and lower the device---a rapid glimpse cycle measured in seconds per image. The View-Master's cultural longevity (produced continuously for over 80 years) testifies to the naturalness of temporal wearing as an interaction pattern.
+
+These historical examples share several properties that define the temporal wearing paradigm: (1)~the device is raised to the body and lowered within seconds; (2)~the physical act of looking through the device is inseparable from the content experience; (3)~social context shapes and is shaped by the wearing act; and (4)~repeated brief encounters are the norm, not the exception. Contemporary mixed reality devices, designed overwhelmingly for session wear, have largely abandoned this centuries-old pattern. Temporal wearing, as we propose it, recovers and extends this tradition for the age of spatial computing.
