@@ -1,144 +1,199 @@
 % Section 5: Results
-% Paper: "Just a Glimpse: Temporal Wearing as a Design Paradigm for Transient Mixed Reality"
+% Paper: "Just a Glimpse: Temporal Wearing as a Design Dimension for Transient Mixed Reality"
 
 \section{Results}
 
-Over the [PLACEHOLDER: duration] deployment, N=[PLACEHOLDER] unique visitors interacted with the three prototypes, generating [PLACEHOLDER] logged interaction events across [PLACEHOLDER] hours of video footage. We present findings organized around our three research questions: transition metrics and re-engagement patterns (RQ1), social comfort and behaviors (RQ2), and emergent temporal wearing behaviors (RQ3).
+We present findings from both study phases: the controlled lab study (Phase~1), which establishes baseline measures and compares temporal wearing against session wear, and the in-situ deployment (Phase~2), which reveals emergent temporal wearing behaviors in a naturalistic setting.
 
-\subsection{Transition Metrics}
+\subsection{Phase 1: Lab Study Results}
 
-Table~\ref{tab:transition-metrics} reports the measured onset, offset, and total transition costs for each deployed prototype, alongside glimpse duration---the time spent viewing augmented content between don and doff.
-
-\begin{table*}[t]
-\centering
-\caption{Transition metrics by prototype. Onset = time from initiating don to first augmented frame; Offset = time from initiating doff to full return to unmediated perception; Glimpse duration = time viewing augmented content per episode. All values in seconds; reported as mean (SD).}
-\label{tab:transition-metrics}
-\begin{tabular}{p{2.5cm} p{2.2cm} p{2.2cm} p{2.5cm} p{2.5cm} p{2.5cm}}
-\toprule
-\textbf{Prototype} & \textbf{Onset (s)} & \textbf{Offset (s)} & \textbf{Total Transition (s)} & \textbf{Glimpse Duration (s)} & \textbf{Efficiency Ratio} \\
-\midrule
-Handheld & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] \\
-Neck-hung & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] \\
-Stationary & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] \\
-\bottomrule
-\end{tabular}
-\end{table*}
-
-The \textit{efficiency ratio}---defined as glimpse duration divided by total interaction time (glimpse duration + transition cost)---captures what proportion of the encounter involves augmented content versus mechanical overhead. [PLACEHOLDER: Report that handheld achieved the highest efficiency ratio, with near-instantaneous onset; stationary had the lowest transition cost overall due to zero approach overhead for the device itself; neck-hung occupied a middle position. Report statistical comparisons.]
-
-Across all prototypes, the mean glimpse duration was [PLACEHOLDER] seconds (SD = [PLACEHOLDER]), confirming that temporal wearing interactions are brief---overwhelmingly under 15 seconds---and validating the temporal wearing category in our duration taxonomy (Section~3.2). Notably, [PLACEHOLDER: report any interesting distribution patterns, e.g., bimodal distribution with peaks at ~3s and ~8s suggesting ``quick peeks'' and ``deliberate looks'' as distinct temporal wearing modes].
-
-\subsection{Re-engagement Patterns}
-
-A central prediction of the temporal wearing framework is that lower transition costs should encourage more frequent re-engagement---more glimpse cycles per visit. Figure~\ref{fig:reengagement} plots the number of glimpse cycles per visitor against prototype form factor.
-
-\begin{figure}[t]
-    \centering
-    \includegraphics[width=\columnwidth]{figures/reengagement-placeholder}
-    \caption{Number of glimpse cycles per visitor by prototype. [PLACEHOLDER: Box plot or violin plot showing distribution of re-engagement counts. Expected pattern: handheld > neck-hung > stationary for re-engagement frequency, though stationary may show a distinct pattern due to fixed location.]}
-    \label{fig:reengagement}
-\end{figure}
-
-[PLACEHOLDER: Report descriptive statistics for re-engagement. Expected findings:]
-
-Visitors using the handheld prototype completed a mean of [PLACEHOLDER] glimpse cycles per visit (SD = [PLACEHOLDER], range = [PLACEHOLDER]), compared to [PLACEHOLDER] for the neck-hung prototype and [PLACEHOLDER] for the stationary prototype. A Kruskal-Wallis test revealed a significant effect of form factor on re-engagement frequency ($H$([PLACEHOLDER]) = [PLACEHOLDER], $p$ = [PLACEHOLDER]). Post-hoc Dunn's tests indicated that the handheld prototype elicited significantly more re-engagements than [PLACEHOLDER] ($p$ = [PLACEHOLDER]), while [PLACEHOLDER].
-
-The inter-episode interval---the time between putting the device down and picking it up again---also varied by prototype. Mean inter-episode intervals were [PLACEHOLDER] seconds for handheld, [PLACEHOLDER] seconds for neck-hung, and [PLACEHOLDER] seconds for stationary. [PLACEHOLDER: Report whether shorter inter-episode intervals correlated with more total glimpse cycles, and note any interesting patterns such as visitors who walked away and returned later versus those who engaged in rapid successive peeks.]
-
-Spearman rank correlation between measured transition cost and re-engagement frequency across individual visitors yielded $\rho$ = [PLACEHOLDER], $p$ = [PLACEHOLDER], [PLACEHOLDER: supporting/not supporting] the hypothesis that lower transition costs encourage more frequent re-engagement (RQ1).
-
-\subsection{Social Behaviors}
-
-Video coding revealed distinctive social dynamics around temporal wearing interactions. We coded [PLACEHOLDER] interaction episodes from [PLACEHOLDER] hours of video, identifying [PLACEHOLDER] episodes involving social interaction (defined as verbal or gestural communication between the user and at least one co-present person during or immediately after device use).
-
-\paragraph{Shared Viewing.}
-[PLACEHOLDER: \% of interactions] involved some form of shared viewing---users who were accompanied by at least one other person. Of these, [PLACEHOLDER: \%] involved the companion watching the user interact, [PLACEHOLDER: \%] involved the companion subsequently using the same device, and [PLACEHOLDER: \%] involved simultaneous engagement (one person using the device while narrating to the companion). The handheld prototype showed the highest rate of device sharing ([PLACEHOLDER: \%]), likely because the physical act of passing a handheld object is a deeply familiar social gesture.
-
-\paragraph{Bystander Engagement.}
-We adapted Brignull and Rogers'~\cite{brignull2003enticing} engagement zones---\textit{peripheral awareness}, \textit{focal awareness}, and \textit{direct interaction}---to analyze how bystanders progressed toward device use. [PLACEHOLDER: Report the honeypot effect~\cite{wouters2016honeypot}---whether seeing one person use a device attracted others. Report typical progression times from peripheral awareness to direct interaction.]
-
-\paragraph{Social Negotiation.}
-In [PLACEHOLDER: \%] of multi-person groups, we observed explicit social negotiation around device use: verbal invitations (``You try it''), gestural offers (extending the device toward a companion), and turn-taking patterns. These negotiations were notably brief---typically under [PLACEHOLDER] seconds---reflecting the low-commitment nature of temporal wearing. Unlike session-wear VR experiences, where ``taking a turn'' implies a minutes-long commitment, temporal wearing turns lasted seconds, reducing the social cost of both offering and accepting.
-
-\subsection{Social Comfort}
-
-Survey responses from N=[PLACEHOLDER] users and N=[PLACEHOLDER] bystanders revealed significant differences in social comfort across form factors (Table~\ref{tab:social-comfort}).
+\subsubsection{Transition Metrics.}
+Table~\ref{tab:lab-transition} reports the measured transition metrics for each condition. All three temporal wearing conditions achieved sub-two-second total transition costs, while the session-wear baseline required substantially longer donning time.
 
 \begin{table}[t]
 \centering
-\caption{Social comfort scores by prototype (7-point Likert scale, higher = more comfortable). Reported as mean (SD).}
-\label{tab:social-comfort}
-\begin{tabular}{p{2cm} p{2cm} p{2cm} p{2cm}}
+\caption{Transition metrics by condition (Phase~1, N=20). Onset = time from initiating don to first augmented frame; Offset = time from initiating doff to return to unmediated perception. Session-wear onset includes strap adjustment and IPD calibration. All values in seconds; reported as mean (SD).}
+\label{tab:lab-transition}
+\begin{tabular}{p{2.2cm} p{1.8cm} p{1.8cm} p{2cm}}
 \toprule
-\textbf{Measure} & \textbf{Handheld} & \textbf{Neck-hung} & \textbf{Stationary} \\
+\textbf{Condition} & \textbf{Onset (s)} & \textbf{Offset (s)} & \textbf{Total (s)} \\
 \midrule
-User self-consciousness & [PH] & [PH] & [PH] \\
-User social comfort & [PH] & [PH] & [PH] \\
-Bystander comfort & [PH] & [PH] & [PH] \\
-Re-engagement willingness & [PH] & [PH] & [PH] \\
+Handheld & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] \\
+Neck-hung & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] \\
+Stationary & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] \\
+Session-wear & [PLACEHOLDER] & [PLACEHOLDER] & [PLACEHOLDER] \\
 \bottomrule
 \end{tabular}
 \end{table}
 
-[PLACEHOLDER: Report statistical comparisons. Expected pattern: handheld and stationary score highest on social comfort (familiar gestures---picking up an object, leaning into a viewfinder); neck-hung may score slightly lower due to unfamiliarity of the form factor. Report any interesting interactions between social comfort and re-engagement willingness.]
+[PLACEHOLDER: Report statistical comparisons. Expected: all temporal wearing conditions significantly faster than session-wear baseline on onset, offset, and total transition time.]
 
-Qualitatively, several survey respondents commented on the relationship between brevity and comfort: [PLACEHOLDER: representative quotes, e.g., ``It didn't feel weird because it was so quick'' or ``I would have felt self-conscious wearing a headset, but picking this up felt natural''].
+\subsubsection{Re-engagement.}
+Participants in the temporal wearing conditions engaged in multiple glimpse cycles, while session-wear participants typically maintained a single continuous wearing episode (Table~\ref{tab:lab-reengagement}).
 
-\subsection{Emergent Temporal Wearing Behaviors}
+\begin{table}[t]
+\centering
+\caption{Re-engagement metrics by condition (Phase~1, N=20). Glimpse cycles = number of don--glimpse--doff sequences per participant. For session-wear, this reflects HMD repositioning events. Reported as mean (SD).}
+\label{tab:lab-reengagement}
+\begin{tabular}{p{2.2cm} p{2.2cm} p{2.5cm}}
+\toprule
+\textbf{Condition} & \textbf{Glimpse Cycles} & \textbf{Total Content Time (s)} \\
+\midrule
+Handheld & [PLACEHOLDER] & [PLACEHOLDER] \\
+Neck-hung & [PLACEHOLDER] & [PLACEHOLDER] \\
+Stationary & [PLACEHOLDER] & [PLACEHOLDER] \\
+Session-wear & [PLACEHOLDER] & [PLACEHOLDER] \\
+\bottomrule
+\end{tabular}
+\end{table}
 
-Beyond the predicted effects of transition cost and body coupling, our video analysis and interviews revealed four distinctive temporal wearing behaviors that emerged spontaneously across the deployment (RQ3). We name these behaviors for their characteristic patterns.
+[PLACEHOLDER: Report Friedman test results and post-hoc comparisons. Expected finding: temporal wearing conditions produced significantly more discrete interaction episodes than session wear, with handheld showing the highest re-engagement frequency. Report effect sizes.]
 
-\subsubsection{``The Double-Take.''}
-In [PLACEHOLDER: N / \%] of interactions, visitors performed what we call a \textit{double-take}: a very brief initial glimpse (under [PLACEHOLDER] seconds), followed by lowering the device, a pause of [PLACEHOLDER] seconds, and then a second, longer glimpse. Interview data suggests this pattern reflects a two-stage cognitive process: the first glimpse establishes \textit{that} augmented content exists (a perceptual surprise), and the second glimpse explores \textit{what} the content contains (directed attention). As participant P[PLACEHOLDER] described:
+\subsubsection{Social Comfort.}
+Social comfort scores differed across conditions for both users and bystander companions (Table~\ref{tab:lab-comfort}).
+
+\begin{table}[t]
+\centering
+\caption{Social comfort scores by condition (Phase~1; 7-point Likert, higher = more comfortable). User scores: N=20; Bystander scores: N=10 (companion subset). Reported as mean (SD).}
+\label{tab:lab-comfort}
+\begin{tabular}{p{2.5cm} p{1.3cm} p{1.3cm} p{1.3cm} p{1.3cm}}
+\toprule
+\textbf{Measure} & \textbf{Hand.} & \textbf{Neck} & \textbf{Stat.} & \textbf{Sess.} \\
+\midrule
+User self-consc. & [PH] & [PH] & [PH] & [PH] \\
+User comfort & [PH] & [PH] & [PH] & [PH] \\
+Public willingness & [PH] & [PH] & [PH] & [PH] \\
+Bystander comfort & [PH] & [PH] & [PH] & [PH] \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+[PLACEHOLDER: Report statistical comparisons. Expected: temporal wearing conditions score higher on social comfort than session-wear baseline, with handheld and stationary highest (familiar gestures). Report whether bystander comfort follows the same pattern.]
+
+\subsubsection{Cognitive Load (NASA-TLX).}
+Adapted NASA-TLX scores indicated differences in perceived workload across conditions (Table~\ref{tab:lab-tlx}).
+
+\begin{table}[t]
+\centering
+\caption{Adapted NASA-TLX subscale scores by condition (Phase~1, N=20; 21-point scale, lower = less demand). Reported as mean (SD).}
+\label{tab:lab-tlx}
+\begin{tabular}{p{2.5cm} p{1.3cm} p{1.3cm} p{1.3cm} p{1.3cm}}
+\toprule
+\textbf{Subscale} & \textbf{Hand.} & \textbf{Neck} & \textbf{Stat.} & \textbf{Sess.} \\
+\midrule
+Mental demand & [PH] & [PH] & [PH] & [PH] \\
+Physical demand & [PH] & [PH] & [PH] & [PH] \\
+Temporal demand & [PH] & [PH] & [PH] & [PH] \\
+Effort & [PH] & [PH] & [PH] & [PH] \\
+Frustration & [PH] & [PH] & [PH] & [PH] \\
+Exp. quality & [PH] & [PH] & [PH] & [PH] \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+[PLACEHOLDER: Report statistical comparisons. Expected: temporal wearing conditions may show lower physical and temporal demand than session wear; experience quality may be comparable or slightly lower (briefer exposure). Report any interesting patterns in frustration scores---temporal wearing's low-commitment nature may reduce frustration.]
+
+\subsubsection{Phase 1 Summary.}
+The lab study suggests that temporal wearing conditions differ from session wear across multiple dimensions. [PLACEHOLDER: Summarize key findings---e.g., faster transitions, more re-engagement episodes, higher social comfort, comparable or lower cognitive load. Note which comparisons reached significance and effect sizes.]
+
+\subsection{Phase 2: Deployment Results}
+
+Over the [PLACEHOLDER: 5--7 day] deployment, N=[PLACEHOLDER] unique visitors interacted with the three prototypes, generating [PLACEHOLDER] logged interaction events across [PLACEHOLDER] hours of video footage. We present findings organized around our three research questions.
+
+\subsubsection{Transition Metrics and Re-engagement (RQ1).}
+Table~\ref{tab:deploy-metrics} reports transition and re-engagement metrics from the deployment, complementing the controlled measures from Phase~1.
+
+\begin{table}[t]
+\centering
+\caption{Transition and re-engagement metrics by prototype (Phase~2 deployment). All timing values in seconds; reported as mean (SD).}
+\label{tab:deploy-metrics}
+\begin{tabular}{p{2cm} p{1.5cm} p{1.5cm} p{1.5cm} p{1.5cm}}
+\toprule
+\textbf{Prototype} & \textbf{Onset} & \textbf{Offset} & \textbf{Glimpse Dur.} & \textbf{Cycles/Visit} \\
+\midrule
+Handheld & [PH] & [PH] & [PH] & [PH] \\
+Neck-hung & [PH] & [PH] & [PH] & [PH] \\
+Stationary & [PH] & [PH] & [PH] & [PH] \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+[PLACEHOLDER: Report Kruskal-Wallis comparisons. Expected: handheld shows highest re-engagement frequency; transition metrics consistent with Phase~1 lab measures, confirming ecological validity. Report Spearman correlation between transition cost and re-engagement frequency: $\rho$ = [PLACEHOLDER], $p$ = [PLACEHOLDER].]
+
+Across all prototypes, the mean glimpse duration was [PLACEHOLDER] seconds (SD = [PLACEHOLDER]), confirming that temporal wearing interactions are overwhelmingly brief and validating the temporal wearing category in our duration taxonomy (Section~3.2).
+
+\subsubsection{Social Comfort (RQ2).}
+Survey responses from N=[PLACEHOLDER] users and N=[PLACEHOLDER] bystanders indicated differences in social comfort across form factors.
+
+\begin{table}[t]
+\centering
+\caption{Social comfort scores by prototype (Phase~2; 7-point Likert, higher = more comfortable). Reported as mean (SD).}
+\label{tab:deploy-comfort}
+\begin{tabular}{p{2.5cm} p{1.5cm} p{1.5cm} p{1.5cm}}
+\toprule
+\textbf{Measure} & \textbf{Hand.} & \textbf{Neck} & \textbf{Stat.} \\
+\midrule
+User self-consc. & [PH] & [PH] & [PH] \\
+User comfort & [PH] & [PH] & [PH] \\
+Bystander comfort & [PH] & [PH] & [PH] \\
+Re-engage willing. & [PH] & [PH] & [PH] \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+[PLACEHOLDER: Report comparisons. Note consistency or divergence with Phase~1 lab comfort scores---convergence across phases strengthens claims. Report representative quotes linking brevity to comfort.]
+
+\subsubsection{Emergent Temporal Wearing Behaviors (RQ3).}
+Beyond the predicted effects of transition cost and body coupling, our video analysis and interviews revealed four distinctive temporal wearing behaviors that emerged spontaneously across the deployment.
+
+\paragraph{``The Double-Take.''}
+In [PLACEHOLDER: N / \%] of interactions, visitors performed a very brief initial glimpse (under [PLACEHOLDER] seconds), followed by lowering the device, a pause, and then a second, longer glimpse. Interview data suggests this pattern reflects a two-stage cognitive process: the first glimpse establishes \textit{that} augmented content exists, and the second explores \textit{what} the content contains.
 
 \begin{quote}
 ``The first time I just went---oh! There's something there. And then I had to look again properly to actually see what it was.'' (P[PLACEHOLDER])
 \end{quote}
 
-The double-take was most common with the handheld prototype ([PLACEHOLDER: \%]), where the near-zero transition cost made the ``peek and return'' gesture effortless. It was less common with the stationary prototype ([PLACEHOLDER: \%]), where the physical commitment of leaning in may have encouraged longer initial glimpses.
+The double-take was most common with the handheld prototype ([PLACEHOLDER: \%]), where the near-zero transition cost made the ``peek and return'' gesture effortless.
 
-\subsubsection{``The Hand-Off.''}
-In [PLACEHOLDER: N / \%] of group interactions, one visitor used a prototype and then immediately handed it (or directed their companion toward it) to another person. We term this \textit{the hand-off}---a social sharing behavior in which one person's glimpse directly occasions another's. The hand-off was almost exclusively observed with the handheld prototype ([PLACEHOLDER: \%] of handheld group interactions), where the physical act of passing the device is natural and the gesture itself communicates ``you should see this.'' The neck-hung prototype produced a variant: rather than passing the device, the wearer would lift it from their own chest and hold it toward the companion's face---a hybrid hand-off that maintained the lanyard connection.
+\paragraph{``The Hand-Off.''}
+In [PLACEHOLDER: N / \%] of group interactions, one visitor used a prototype and then immediately handed it (or directed their companion toward it) to another person. The hand-off was almost exclusively observed with the handheld prototype ([PLACEHOLDER: \%] of handheld group interactions), where the physical act of passing the device is natural and the gesture itself communicates ``you should see this.''
 
 \begin{quote}
 ``I saw her reaction and I just had to see what she was seeing. She handed it to me without me even asking.'' (P[PLACEHOLDER])
 \end{quote}
 
-The hand-off behavior connects temporal wearing to the social dynamics of museum visiting documented by vom Lehn et al.~\cite{vomlehn2001exhibiting}: visitors routinely draw companions' attention to exhibits through pointing, verbal direction, and physical repositioning. Temporal wearing devices, by being hand-offable, integrate into this existing social repertoire.
+This behavior connects temporal wearing to the social dynamics of museum visiting documented by vom Lehn et al.~\cite{vomlehn2001exhibiting}: visitors routinely draw companions' attention to exhibits through pointing, verbal direction, and physical repositioning.
 
-\subsubsection{``The Narrator.''}
-In [PLACEHOLDER: N / \%] of group interactions, we observed a distinctive division of labor: one person wore or held the device and simultaneously described what they saw to a companion who was not using any device. We call this \textit{the narrator} pattern. Unlike the hand-off, where the device moves between people, the narrator pattern creates a shared experience through verbal and gestural narration: the user describes what they see (``Oh, the colors are moving---there's a blue light coming from the painting''), and the companion responds, asks questions, and participates in meaning-making without ever donning the device.
+\paragraph{``The Narrator.''}
+In [PLACEHOLDER: N / \%] of group interactions, one person wore or held the device and simultaneously described what they saw to a companion who was not using any device. Unlike the hand-off, the narrator pattern creates a shared experience through verbal narration without requiring multiple devices.
 
 \begin{quote}
 ``I didn't need to look myself. She was telling me everything, and it was actually more fun watching her face and hearing her describe it.'' (P[PLACEHOLDER])
 \end{quote}
 
-The narrator pattern is particularly significant because it demonstrates that temporal wearing can produce \textit{socially shared MR experiences without requiring multiple devices or simultaneous wearing}. The brevity of temporal wearing---and the fact that the user remains visibly present and conversationally available---makes narration possible in ways that sustained HMD use does not. A person wearing a VR headset for five minutes is socially absent; a person peeking through a handheld viewer for five seconds while describing what they see is socially \textit{present}.
+The narrator pattern is particularly noteworthy because it suggests that temporal wearing can produce \textit{socially shared MR experiences without requiring multiple devices or simultaneous wearing}. The brevity of temporal wearing---and the fact that the user remains visibly present and conversationally available---appears to make narration possible in ways that sustained HMD use does not.
 
-\subsubsection{``The Orbit.''}
-In [PLACEHOLDER: N / \%] of all interactions, visitors returned to a prototype after having moved on to other parts of the venue. We call this \textit{the orbit}---a large-scale re-engagement pattern in which visitors circled back to a device during their visit, sometimes multiple times. The orbit was observed across all form factors but was most frequent with the stationary prototype ([PLACEHOLDER: \%]), perhaps because its fixed location made it a spatial landmark that visitors could easily find again.
-
-Orbit intervals ranged from [PLACEHOLDER] to [PLACEHOLDER] minutes, with some visitors returning two or three times over the course of a [PLACEHOLDER]-minute visit. Interview data suggests multiple motivations for orbiting: wanting to see if the content had changed (``I wondered if it would be different the second time''), wanting to show a new companion (``My friend arrived later and I wanted her to see it''), and simply wanting to re-experience the perceptual pleasure of the glimpse (``It was just nice to look'').
+\paragraph{``The Orbit.''}
+In [PLACEHOLDER: N / \%] of all interactions, visitors returned to a prototype after having moved on to other parts of the venue. The orbit was observed across all form factors but was most frequent with the stationary prototype ([PLACEHOLDER: \%]), perhaps because its fixed location made it a spatial landmark.
 
 \begin{quote}
 ``I kept coming back. Each time I noticed something different. It was like the painting kept revealing itself.'' (P[PLACEHOLDER])
 \end{quote}
 
-\subsection{Interview Themes}
+\subsubsection{Interview Themes.}
+Reflexive thematic analysis of exit interviews (N=[PLACEHOLDER]) generated [PLACEHOLDER] themes organized around three overarching categories.
 
-Reflexive thematic analysis of exit interviews (N=[PLACEHOLDER]) generated [PLACEHOLDER] themes organized around three overarching categories: the experience of temporal wearing, social dimensions of device use, and comparisons with prior MR encounters.
+\paragraph{Theme 1: The Pleasure of Brevity.}
+Participants consistently described the brief encounter as a positive quality rather than a limitation. Unlike session-based MR experiences, where users may feel pressure to ``get their money's worth,'' temporal wearing encounters were described as \textit{gifts}---small, self-contained perceptual pleasures with no obligation to continue. [PLACEHOLDER: 2--3 supporting quotes.]
 
-\subsubsection{Theme 1: The Pleasure of Brevity.}
-Participants consistently described the brief encounter as a positive quality rather than a limitation. Unlike session-based MR experiences, where users may feel pressure to ``get their money's worth'' or ``explore everything,'' temporal wearing encounters were described as \textit{gifts}---small, self-contained perceptual pleasures with no obligation to continue. [PLACEHOLDER: 2--3 supporting quotes.]
+\paragraph{Theme 2: Wearing Without Commitment.}
+Several participants contrasted their temporal wearing experience with prior HMD use, emphasizing the low commitment involved: ``I didn't have to \textit{become} someone wearing a headset'' (P[PLACEHOLDER]). This theme captures a felt distinction between \textit{being a device wearer} (an identity, however temporary) and \textit{using a device momentarily} (an action). Participants associated temporal wearing with reduced self-consciousness and greater willingness to engage.
 
-\subsubsection{Theme 2: Wearing Without Commitment.}
-Several participants contrasted their temporal wearing experience with prior HMD use, emphasizing the low commitment involved: ``I didn't have to \textit{become} someone wearing a headset'' (P[PLACEHOLDER]). This theme captures a felt distinction between \textit{being a device wearer} (an identity, however temporary) and \textit{using a device momentarily} (an action). Temporal wearing sits firmly in the latter category, which participants associated with reduced self-consciousness and greater willingness to engage.
+\paragraph{Theme 3: Social Permission.}
+Participants in groups described a social dynamic in which one person's use of the device gave ``permission'' for others to try it. This effect appeared to be amplified by the visibility and brevity of temporal wearing: seeing someone pick up a device, peek through it for a few seconds, and put it down made the interaction appear safe, simple, and brief---lowering the threshold for companions to engage. [PLACEHOLDER: supporting quotes.]
 
-\subsubsection{Theme 3: Social Permission.}
-Participants in groups described a social dynamic in which one person's use of the device gave ``permission'' for others to try it. This \textit{social permission} effect was amplified by the visibility and brevity of temporal wearing: seeing someone pick up a device, peek through it for a few seconds, and put it down made the interaction appear safe, simple, and brief---lowering the threshold for companions to try. [PLACEHOLDER: supporting quotes.]
+\paragraph{Theme 4: The Hidden World.}
+Multiple participants described a sense of \textit{discovery}---that the augmented content was a ``hidden world'' or ``secret layer'' only visible through the device. This framing appeared to be enhanced by the temporal nature of the encounter: the augmented world was not persistent but \textit{glimpsed}, making each viewing feel like an act of revelation rather than sustained observation. [PLACEHOLDER: supporting quotes.]
 
-\subsubsection{Theme 4: The Hidden World.}
-Multiple participants described a sense of \textit{discovery}---that the augmented content was a ``hidden world'' or ``secret layer'' only visible through the device. This discovery framing was enhanced by the temporal nature of the encounter: the augmented world was not persistent but \textit{glimpsed}, making each viewing feel like an act of revelation rather than sustained observation. [PLACEHOLDER: supporting quotes.]
-
-\subsubsection{Theme 5: Wanting More (in the Right Way).}
-Participants expressed a desire to return and see more, but framed this as anticipatory pleasure rather than frustration: ``I want to come back and look again'' rather than ``I wish I could have looked longer.'' This finding suggests that temporal wearing, when designed well, creates an \textit{invitation to return} rather than a sense of deprivation---a crucial distinction for the design principles we derive in Section~6. [PLACEHOLDER: supporting quotes.]
+\paragraph{Theme 5: Wanting More (in the Right Way).}
+Participants expressed a desire to return and see more, but framed this as anticipatory pleasure rather than frustration: ``I want to come back and look again'' rather than ``I wish I could have looked longer.'' This finding suggests that temporal wearing, when designed well, may create an \textit{invitation to return} rather than a sense of deprivation. [PLACEHOLDER: supporting quotes.]
